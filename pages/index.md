@@ -4,10 +4,9 @@ title: SRCC Documentation Portal
 permalink: /
 ---
 
-# Welcome to Stanford Research Computing
+# Welcome to Hoon Lab
 
-These are documentation pages to assist you with using our resources. For
-events, staff, and the official Stanford page, please see [srcc.stanford.edu](https://srcc.stanford.edu).
+Our lab is Computational Biomedicine[@hoonbiolab](https://twitter.com/hoonbiolab).
 
 <style>
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,300italic,100,100italic,400italic,500,500italic,700,700italic&subset=latin,cyrillic);
