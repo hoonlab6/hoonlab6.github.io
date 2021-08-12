@@ -5,7 +5,7 @@ tags:
  - job-manager
 ---
 
-# Job Management
+# RESEARCH
 
 How do you run jobs on a supercomputer? The answer is that you log in to
 one of several interactive or "home" nodes, and then submit jobs to a queue
@@ -14,7 +14,7 @@ managed by a workload manager. As an example, [SLURM](https://en.wikipedia.org/w
 our clusters. In these sections, we will provide general
 instructions for how to use different managers.
 
-## Managers
+## OH
 
  - [Simple Linux Utility for Resource Management](/docs/job-managers/slurm/) for job management.
 

@@ -248,12 +248,13 @@ GEM
 
 PLATFORMS
   universal-darwin-18
+  universal-darwin-20
 
 DEPENDENCIES
   github-pages
 
 RUBY VERSION
-   ruby 2.3.7p456
+   ruby 2.6.3p62
 
 BUNDLED WITH
-   2.2.13
+   2.2.25
