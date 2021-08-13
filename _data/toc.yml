@@ -1,4 +1,6 @@
 - title: "TEAM"
+  url: "team"
+- title: "TEAM"
   url: "team hoon"
 - title: "RESEARCH"
   url: "docs/software"
@@ -20,5 +22,4 @@
   url: "docs/tutorials/"
 - title: "About"
   url: "about"
-- title: "News"
-  url: "news"
+
