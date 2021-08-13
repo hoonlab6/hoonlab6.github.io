@@ -38,7 +38,7 @@ google-analytics: UA-143467500-1
 # logo: "assets/img/logo/SRCC-square-red.png"
 logo_width: 34
 logo_pixels: 34
-color: "#c5d3d4" # primary color for header, buttons
+color: "#c1c7c7" # primary color for header, buttons
 
 # Build settings
 markdown: kramdown
