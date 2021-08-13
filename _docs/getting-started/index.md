@@ -1,8 +1,5 @@
 ---
 title: TEAM HOON
-tags: 
- - linux
- - hpc
 ---
 
 # TEAM HOON
