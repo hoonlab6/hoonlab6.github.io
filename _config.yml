@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Stanford Research Computing
+title: Hoon Lab at Pharmacy, SKKU
 email: research-computing-support@stanford.edu
 author: Stanford Research Computing Center
 description: > # this means to ignore newlines until "baseurl:"
@@ -25,13 +25,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
-url: "https://stanford-rc.github.io" # the base hostname & protocol for your site
-
-# Social (First three Required)
-repo: "https://github.com/stanford-rc/stanford-rc.github.io"
-github_user: "stanford-rc"
-github_repo: "stanford-rc.github.io"
-# Based off of https://www.github.com/vsoch/mkdocs-jekyll
+url: "https://hoonlab6.github.io" # the base hostname & protocol for your site
 
 # Optional
 twitter: StanfordCompute
@@ -44,7 +38,7 @@ google-analytics: UA-143467500-1
 # logo: "assets/img/logo/SRCC-square-red.png"
 logo_width: 34
 logo_pixels: 34
-color: "#8c1515" # primary color for header, buttons
+color: "#c5d3d4" # primary color for header, buttons
 
 # Build settings
 markdown: kramdown
