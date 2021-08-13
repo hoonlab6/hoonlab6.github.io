@@ -2,22 +2,9 @@
   url: "team"
 - title: "RESEARCH"
   url: "docs/software"
-  children:
-    - title: Overview
-      url: "docs/software/"
-    - title: Installing Software
-      url: "docs/software/how-to-install"
-    - title: Software Guides
-      url: "docs/software/guides/"
 - title: "PUBLICATION"
   url: "docs/job-managers"
-  children:
-    - title: Overview
-      url: "docs/job-managers/"
-    - title: slurm
-      url: "docs/job-managers/slurm"
 - title: "CONTACT"
   url: "docs/tutorials/"
-- title: "About"
-  url: "about"
+
 
