@@ -6,7 +6,7 @@ permalink: /
 
 # Welcome to Hoon Lab
 
-Our lab is Computational Biomedicine[@hoonbiolab](https://twitter.com/hoonbiolab).
+Our lab is Computational Biomedicine [@hoonbiolab](https://twitter.com/hoonbiolab).
 
 <style>
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,300italic,100,100italic,400italic,500,500italic,700,700italic&subset=latin,cyrillic);
@@ -72,6 +72,7 @@ Our lab is Computational Biomedicine[@hoonbiolab](https://twitter.com/hoonbiolab
 	cursor: pointer;
 }
 </style>
+
 
 <h2>Services</h2>
 <div class="wrapper">
