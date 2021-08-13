@@ -1,13 +1,7 @@
 ---
 layout: page
 title: "Contact"
-description: "Contact Hoon Lab at School of Pharmacy, Sungkyunkwan University, South Korea about available research opportunities, research collaboration, and/or correspondence related to published manuscripts. Includes mailing address, lab location, driving directions."
-sidebar: right
-permalink: "/contact/"
-comments: false
-show_meta: true
-#bigimg: "/images/publpics/jax_bdg1.jpg"
-menu: accordion
+
 ---
 
 <i class="fa fa-twitter"></i> Follow <a href="https://twitter.com/wisekh6" title="Follow @wisekh6" alt="Follow @wisekh6">@wisekh6</a> for lab updates and information related to our research.
