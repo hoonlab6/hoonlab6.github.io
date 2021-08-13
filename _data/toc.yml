@@ -1,7 +1,5 @@
 - title: "TEAM"
   url: "team"
-- title: "TEAM"
-  url: "team hoon"
 - title: "RESEARCH"
   url: "docs/software"
   children:
