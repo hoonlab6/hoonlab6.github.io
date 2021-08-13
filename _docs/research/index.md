@@ -16,12 +16,12 @@ A major cause of cancer treatment failure is the development of therapy resistan
 
 ### Research area
 
-* [Tumor evolution]({{site.url}}/glass)
-* [Extrachromosomal DNA]({{site.url}}/tags/#ecDNA)
+* Tumor evolution
+* Extrachromosomal DNA
 * Genomics
 * Mutational processes
 * Tumor microenvironment
-* [Biomedical data analysis system to fight diseases]({{site.url}}/glass)
+* Biomedical data analysis system to fight diseases
 * Machine learning applications in understanding diseases
 * Neurodegenerative disease
 
