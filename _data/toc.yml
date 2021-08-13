@@ -1,8 +1,5 @@
 - title: "TEAM"
-  url: "docs/getting-started"
-  children:
-    - title: Overview
-      url: "docs/getting-started/"
+  url: "team hoon"
 - title: "RESEARCH"
   url: "docs/software"
   children:

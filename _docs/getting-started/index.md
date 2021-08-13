@@ -1,5 +1,6 @@
 ---
 title: TEAM HOON
+parmalink: /team hoon/
 ---
 
 # TEAM HOON
