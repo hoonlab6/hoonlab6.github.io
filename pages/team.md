@@ -26,7 +26,7 @@ permalink: /team/
 
 <div class="row"><div class="col-sm-4">
 <div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" />
+    <img src="{{ site.url }}/assets/img/people/hs_jung.jpg"  width="30" height="30  alt="Heesuk Chung" />
     <div class="go-top">
         <p>Research Assistant, 03/21</p>
         <p>Extrachromosomal DNA in brain tumor</p>
