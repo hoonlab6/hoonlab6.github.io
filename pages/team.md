@@ -1,6 +1,9 @@
 ---
 title: TEAM HOON
 permalink: /team/
+css:
+  - /assets/css/imagehover.css
+  - /assets/css/custom_home.css
 ---
 
 
