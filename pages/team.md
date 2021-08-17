@@ -7,7 +7,7 @@ permalink: /team/
 # TEAM HOON
 {:.text-center}
 
-### Principal Investigator
+## <strong>Principal Investigator</strong>
 
 <div class="row"><div class="col-sm-12">
 <div class="holder smooth">
