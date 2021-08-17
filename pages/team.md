@@ -7,11 +7,11 @@ permalink: /team/
 # TEAM HOON
 {:.text-center}
 
-## <strong>Principal Investigator</strong>
+## Principal Investigator
 
 <div class="row"><div class="col-sm-12">
 <div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/Profile-184998_Kim_H.jpg" alt="Hoon Kim" />
+    <img src="{{ site.url }}/assets/img/people/Profile-184998_Kim_H.jpg" width="30" height="30 "alt="Hoon Kim" />
     <div class="go-top">
         Hoon Kim, PhD
         <p>Associate Professor</p>
