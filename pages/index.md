@@ -74,7 +74,7 @@ Our lab is Computational Biomedicine [@hoonbiolab](https://twitter.com/hoonbiola
 </style>
 
 
-<h2>Services</h2>
+<h2>Rescent News</h2>
 <div class="wrapper">
   {% for service in site.data.metadata.services %}<div class="box">
   <div class="text">
