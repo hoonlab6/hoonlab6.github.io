@@ -1,193 +1,1334 @@
 ---
 layout: page
 title:  "Team"
-css:
-  - /assets/css/imagehover.css
-  - /assets/css/custom_home.css
 ---
   
-# **TEAM HOON_test**
-{:.text-center}
-
-## **Principal Investigator**
-
-<div class="row"><div class="col-sm-12">
-<div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/Profile-184998_Kim_H.jpg" alt="Hoon Kim" />
-    <div class="go-top">
-        Hoon Kim, PhD
-        <p>Associate Professor</p>
-        <span class="social-icons"><a href="{{ site.url }}/about"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a><a href="https://twitter.com/{{ site.owner.twitter }}"  class="social-icons" target="_blank" title="Follow @wisekh6"> <i class="fa fa-twitter"></i></a><a href="{{ site.url }}/contact"  class="social-icons" title="Contact"> <i class="fa fa-envelope"></i></a></span>
-    </div>
-    <div class="phototag"><a href="{{ site.url }}/about">Hoon Kim, PhD</a></div>
-</div>
-</div></div>
-
-
-### **Students**
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  transition: 0.3s;
-  width: 40%;
+* {
+  box-sizing: border-box;}
+  body {
+  margin: 0;}
+.container-width{ 
+    width:90%; 
+    max-width:1150px;
+    margin:0 auto;
 }
-.card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+.flex-sect{
+  background-color:#fafafa;
+  padding:100px 0;
+  font-family:Helvetica, serif;
 }
-.container {
-  padding: 2px 16px;
+.flex-desc{
+  margin-bottom:55px;
+  font-size:1em;
+  color:rgba(0, 0, 0, 0.5);
+  text-align:center;
+  padding:5px;
 }
-</style>
-</head>
-
-<body>
-<div class="card">
-  <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" style="width:70%">
-  <div class="container">
-    <h4><class="phototag"><b href="{{ site.url }}/people/hs_chung">Heesuk Chung</b></h4> 
-    <p>Research Assistant</p> 
-    <p>Extrachromosomal DNA in brain tumor</p>
-  </div>
-</div>
-
-</body>
-
-
-
-<div class="row"><div class="col-sm-4">
-<div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="SeungHyun Kang" />
-    <div class="go-top">
-        <p>Research Assistant, 05/21</p>
-        <p>Extrachromosomal DNA in Gastric Cancer</p>
-        <span class="social-icons"><a href="{{ site.url }}/people/sk_kang/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
-    </div>
-    <div class="phototag"><a href="{{ site.url }}/people/sk_kang">Seunghyun Kang, BS</a></div>
-</div></div>
-</div>
-
-<div class="row"><div class="col-sm-4">
-<div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/sy_kim.jpg" alt="Soyeon Kim" />
-    <div class="go-top">
-        <p>Research Assistant, 07/01</p>
-        <p>Cancer Genomics</p>
-        <span class="social-icons"><a href="{{ site.url }}/people/sy_kim/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
-    </div>
-    <div class="phototag"><a href="{{ site.url }}/people/sy_kim">Soyeon Kim, BS</a></div>
-</div></div>
-</div>
-
-<div class="row"><div class="col-sm-4">
-<div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/dh_joe.png" alt="Daeho_Joe" />
-    <div class="go-top">
-        <p>Research Assistant, 04/01</p>
-        <p>Stem cell research, Bioinformatics</p>
-        <span class="social-icons"><a href="{{ site.url }}/people/dh_joe/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
-    </div>
-    <div class="phototag"><a href="{{ site.url }}/people/dh_joe">Daeho Joe, BS</a></div>
-</div></div>
-</div>
-
- 
-## Interns
-
-<div class="row"><div class="col-sm-4">
-<div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/jy_ko.png" alt="Junyong Ko" />
-    <div class="go-top">
-        <p>Junior, SKKU</p>
-        <p>TBD</p>
-        <span class="social-icons"><a href="{{ site.url }}/people/jy_ko/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
-    </div>
-    <div class="phototag"><a href="{{ site.url }}/people/jy_ko">Junyong Ko</a></div>
-</div></div>
-</div>
-
-<div class="row"><div class="col-sm-4">
-<div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/yj_nam.jpg" alt="Yoonjoo Nam" />
-    <div class="go-top">
-        <p>Senior,HanBat University</p>
-        <p>TBD</p>
-        <span class="social-icons"><a href="{{ site.url }}/people/yj_nam/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
-    </div>
-    <div class="phototag"><a href="{{ site.url }}/people/yj_nam">Yoonjoo Nam</a></div>
-</div></div>
-</div>
-
-<div class="row"><div class="col-sm-4">
-<div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/ec_yeo.png" alt="Eunchae Yeo" />
-    <div class="go-top">
-        <p>BS, Korea University</p>
-        <p>Biomedical Engineering, Programmimg, Cancer targeting, Drug discovery</p>
-        <span class="social-icons"><a href="{{ site.url }}/people/ec_yeo"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
-    </div>
-   <div class="phototag"><a href="{{ site.url }}/people/ec_yeo">Eunchae Yeo, BS</a></div>
-</div></div>
-</div>
-
-<div class="row"><div class="col-sm-4">
-<div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/jw_shon.png" alt="Jiwon Shon" />
-    <div class="go-top">
-        <p>Ghent University, Global Campus</p>
-        <p>Immunology, Bioinformatics, Cancer genomics</p>
-        <span class="social-icons"><a href="{{ site.url }}/people/jw_shon"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
-    </div>
-    <div class="phototag"><a href="{{ site.url }}/people/jw_shon">Jiwon Shon</a></div>
-</div></div>
-</div>
-
-
-## Staffs
-
-<div class="row"><div class="col-sm-4">
-<div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/ys_kim.png" alt="Yeonsik Kim" />
-    <div class="go-top">
-        <p>Korea Polytechnic University</p>
-        <p>languages(C, Java)</p>
-        <span class="social-icons"><a href="{{ site.url }}/people/ys_kim/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
-    </div>
-    <div class="phototag"><a href="{{ site.url }}/people/ys_kim">Yeonsik Kim</a></div>
-</div></div>
-</div>
-
-<div class="row"><div class="col-sm-4">
-<div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/yj_moon.png" alt="Youngjin Moon" />
-    <div class="go-top">
-        <p>Jeonbuk National University</p>
-        <p>languqges(C, C++)</p>
-        <span class="social-icons"><a href="{{ site.url }}/people/yj_moon/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
-    </div>
-    <div class="phototag"><a href="{{ site.url }}/people/yj_moon">Youngjin Moon</a></div>
-</div></div>
-</div>
-
-
-<!-- Open Positions, if any, will populate here -->
-
-<div class="row">
-<div id="accordion col-sm-12"><hr class="small"></div>
-<div id="accordion col-sm-12">
-<div id="accordion">
-  {% assign counter = 1 %}
-  {% for post in site.categories.positions limit:5 %}
-  {% if post.postjob == true %}
-  <h4><i class="iconfont"></i> {% if post.date %}<time class="icon-calendar pr20" datetime='{{ post.date | date: "%Y-%m-%d" }}' itemprop="datePublished"> {{ post.date | date: "%Y-%m-%d" }}</time> {% endif %}{{ post.title }}</h4>
-    <div>
-      {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | escape }}{% elsif post.excerpt %}{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}{% endif %}
-      <a href="{{ site.url }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a>
-    </div>
-  {% endif %}
-  {% assign counter=counter | plus:1 %}
-  {% endfor %}
-</div></div>
-</div>
-
+.row{
+  display:flex;
+  justify-content:flex-start;
+  align-items:stretch;
+  flex-wrap:nowrap;
+  padding:10px;
+}
+.cell{
+  min-height:75px;
+  flex-grow:1;
+  flex-basis:100%;
+}
+*{
+  box-sizing:border-box;
+}
+body{
+  margin:0;
+}
+#ilz5nj{
+  height:440px;
+  font-size:60px;
+  width:1100px;
+  margin:0 0 0 20px;
+}
+#i7971n{
+  background-image:url('/Users/nam-yunju/hoonlab6.github.io/assets/img/people/hkim.jpg');
+  background-repeat:repeat;
+  background-position:left top;
+  background-attachment:scroll;
+  background-size:auto;
+  flex-basis:38.93%;
+}
+#iiqx5t{
+  width:255px;
+  height:381.5px;
+  border-radius:15px 0 23px 0;
+  border:8px solid #ffffff;
+  margin:15px 0 0 15px;
+  background-image:none;
+  background-repeat:repeat;
+  background-position:left top;
+  background-attachment:scroll;
+  background-size:auto;
+}
+#isivmb{
+  top:0;
+  margin:0 0 0 0;
+  padding:0 0 0 0;
+  position:static;
+  right:0;
+  opacity:1;
+}
+#io79b7{
+  font-family:Helvetica, sans-serif;
+  font-size:40px;
+  text-align:left;
+  margin:25px 0 55px 0;
+  color:rgba(0,0,0,0.5);
+}
+#i0b78z{
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:3px;
+  text-align:left;
+  margin:0 0 55px 0;
+  padding:8px 5px 5px 5px;
+  line-height:normal;
+  opacity:1;
+  color:rgba(0,0,0,0.5);
+  letter-spacing:0;
+  font-weight:400;
+  text-decoration:none;
+}
+#i8s5g5{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#i91jn1{
+  color:rgb(220, 161, 13);
+}
+#ixb9o1{
+  color:rgb(220, 161, 13);
+}
+#irn19e{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#is0a2s{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#i3xwdl{
+  color:rgb(220, 161, 13);
+}
+#ipfxr8{
+  color:rgb(220, 161, 13);
+}
+#iysexu{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#ir8qd9{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#imxh7j{
+  color:rgb(220, 161, 13);
+}
+#i3p8c4{
+  color:rgb(220, 161, 13);
+}
+#i84hzo{
+  color:rgb(220, 161, 13);
+}
+#imoa7i{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#ilzkp9{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#ik3t1l{
+  color:rgb(220, 161, 13);
+}
+#iof9vq{
+  color:rgb(220, 161, 13);
+}
+#ij478a{
+  color:rgb(220, 161, 13);
+}
+#ij4uvm{
+  text-align:left;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:30px;
+  margin:17px 0 15px 0;
+}
+#imy45k{
+  text-align:left;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:30px;
+  margin:17px 0 15px 0;
+}
+#i5bcp{
+  width:1200px;
+}
+#imx09{
+  background-image:linear-gradient(rgba(24,22,22,0),rgba(24,22,22,0));
+  background-repeat:repeat;
+  background-position:left top;
+  background-attachment:scroll;
+  background-size:auto;
+}
+#igslek{
+  background-image:url('/Users/nam-yunju/hoonlab6.github.io/assets/img/people/hkim.jpg');
+  background-repeat:repeat;
+  background-position:left top;
+  background-attachment:scroll;
+  background-size:auto;
+  flex-basis:38.93%;
+  height:auto;
+}
+#ijt77i{
+  font-family:Helvetica, sans-serif;
+  font-size:40px;
+  text-align:left;
+  margin:3px 0 10px 0;
+  color:rgba(0,0,0,0.5);
+}
+#iip8ob{
+  top:0;
+  margin:0 0 0 0;
+  padding:0 0 0 0;
+  position:static;
+  right:0;
+  opacity:1;
+}
+#ietbof{
+  height:300px;
+  font-size:60px;
+  width:1100px;
+  margin:0 0 0 20px;
+}
+#i8fcdb{
+  width:1200px;
+}
+#i7ep4z{
+  width:1200px;
+}
+#i4mtc4{
+  width:1200px;
+}
+#i5i41v{
+  width:1200px;
+}
+#i43etl{
+  width:1200px;
+}
+#i7g32f{
+  width:1200px;
+}
+#ixst3g{
+  width:1200px;
+}
+#ii9rdb{
+  width:1200px;
+}
+#iunwkm{
+  width:1200px;
+}
+#icqc2y{
+  height:280px;
+  width:210px;
+  margin:0 0 0 40px;
+}
+#iyor5h{
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:3px;
+  text-align:left;
+  margin:25px 0 45px 0;
+  padding:8px 5px 5px 5px;
+  line-height:normal;
+  opacity:1;
+  color:rgba(0,0,0,0.5);
+  letter-spacing:0;
+  font-weight:400;
+  text-decoration:none;
+}
+#ijfbtj{
+  background-image:url('/Users/nam-yunju/hoonlab6.github.io/assets/img/people/hkim.jpg');
+  background-repeat:repeat;
+  background-position:left top;
+  background-attachment:scroll;
+  background-size:auto;
+  flex-basis:38.93%;
+  height:auto;
+}
+#i7wqvp{
+  font-family:Helvetica, sans-serif;
+  font-size:40px;
+  text-align:left;
+  margin:3px 0 10px 0;
+  color:rgba(0,0,0,0.5);
+}
+#ib3j54{
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:3px;
+  text-align:left;
+  margin:40px 0 55px 0;
+  padding:8px 5px 5px 5px;
+  line-height:normal;
+  opacity:1;
+  color:rgba(0,0,0,0.5);
+  letter-spacing:0;
+  font-weight:400;
+  text-decoration:none;
+}
+#i6x68j{
+  top:0;
+  margin:0 0 0 0;
+  padding:0 0 0 0;
+  position:static;
+  right:0;
+  opacity:1;
+}
+#imkvrh{
+  height:300px;
+  font-size:60px;
+  width:1100px;
+  margin:0 0 0 20px;
+}
+#iayffh{
+  width:1200px;
+}
+#i4tx6v{
+  width:210px;
+  height:280px;
+  margin:0 0 0 40px;
+}
+#iegwrl{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#i2tqif{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#iur9ii{
+  background-image:url('/Users/nam-yunju/hoonlab6.github.io/assets/img/people/hkim.jpg');
+  background-repeat:repeat;
+  background-position:left top;
+  background-attachment:scroll;
+  background-size:auto;
+  flex-basis:34.26%;
+  height:auto;
+  margin:0 0 0 40px;
+}
+#i3mygk{
+  font-family:Helvetica, sans-serif;
+  font-size:40px;
+  text-align:left;
+  margin:3px 0 10px 0;
+  color:rgba(0,0,0,0.5);
+}
+#iitu2b{
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:3px;
+  text-align:left;
+  margin:70px 0 55px 0;
+  padding:8px 5px 5px 5px;
+  line-height:normal;
+  opacity:1;
+  color:rgba(0,0,0,0.5);
+  letter-spacing:0;
+  font-weight:400;
+  text-decoration:none;
+}
+#i1qpqf{
+  top:0;
+  margin:0 0 0 0;
+  padding:0 0 0 0;
+  position:static;
+  right:0;
+  opacity:1;
+}
+#ij52kb{
+  height:300px;
+  font-size:60px;
+  width:1100px;
+  margin:0 0 0 20px;
+}
+#i21kcr{
+  background-image:url('/Users/nam-yunju/hoonlab6.github.io/assets/img/people/hkim.jpg');
+  background-repeat:repeat;
+  background-position:left top;
+  background-attachment:scroll;
+  background-size:auto;
+  flex-basis:33.93%;
+  height:auto;
+  margin:0 0 0 40px;
+}
+#irengx{
+  font-family:Helvetica, sans-serif;
+  font-size:40px;
+  text-align:left;
+  margin:3px 0 10px 0;
+  color:rgba(0,0,0,0.5);
+}
+#i5usae{
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:3px;
+  text-align:left;
+  margin:60px 0 55px 0;
+  padding:8px 5px 5px 5px;
+  line-height:normal;
+  opacity:1;
+  color:rgba(0,0,0,0.5);
+  letter-spacing:0;
+  font-weight:400;
+  text-decoration:none;
+}
+#itf6o5{
+  top:0;
+  margin:0 0 0 0;
+  padding:0 0 0 0;
+  position:static;
+  right:0;
+  opacity:1;
+}
+#iy64f5{
+  height:300px;
+  font-size:60px;
+  width:1100px;
+  margin:0 0 0 20px;
+}
+#ind148{
+  background-image:url('/Users/nam-yunju/hoonlab6.github.io/assets/img/people/hkim.jpg');
+  background-repeat:repeat;
+  background-position:left top;
+  background-attachment:scroll;
+  background-size:auto;
+  flex-basis:38.93%;
+  height:auto;
+}
+#is1t6q{
+  font-family:Helvetica, sans-serif;
+  font-size:40px;
+  text-align:left;
+  margin:3px 0 10px 0;
+  color:rgba(0,0,0,0.5);
+}
+#ilcwi7{
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:3px;
+  text-align:left;
+  margin:35px 0 55px 0;
+  padding:8px 5px 5px 5px;
+  line-height:normal;
+  opacity:1;
+  color:rgba(0,0,0,0.5);
+  letter-spacing:0;
+  font-weight:400;
+  text-decoration:none;
+}
+#i3qhjk{
+  top:0;
+  margin:0 0 0 0;
+  padding:0 0 0 0;
+  position:static;
+  right:0;
+  opacity:1;
+}
+#iyu61f{
+  height:300px;
+  font-size:60px;
+  width:1100px;
+  margin:0 0 0 20px;
+}
+#iks5tl{
+  background-image:url('/Users/nam-yunju/hoonlab6.github.io/assets/img/people/hkim.jpg');
+  background-repeat:repeat;
+  background-position:left top;
+  background-attachment:scroll;
+  background-size:auto;
+  flex-basis:38.93%;
+  height:auto;
+}
+#iosixs{
+  font-family:Helvetica, sans-serif;
+  font-size:40px;
+  text-align:left;
+  margin:3px 0 10px 0;
+  color:rgba(0,0,0,0.5);
+}
+#i9ag7i{
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:3px;
+  text-align:left;
+  margin:0 0 55px 0;
+  padding:8px 5px 5px 5px;
+  line-height:normal;
+  opacity:1;
+  color:rgba(0,0,0,0.5);
+  letter-spacing:0;
+  font-weight:400;
+  text-decoration:none;
+}
+#iix7x4{
+  top:0;
+  margin:0 0 0 0;
+  padding:0 0 0 0;
+  position:static;
+  right:0;
+  opacity:1;
+}
+#iy37l8{
+  height:300px;
+  font-size:60px;
+  width:1100px;
+  margin:0 0 0 20px;
+}
+#izut55{
+  width:210px;
+  height:280px;
+  margin:0 0 0 40px;
+}
+#imhejg{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#iev7fh{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#ius1k8-4{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#i3mrf1{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#iotzet{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  min-height:15px;
+  color:rgb(0, 0, 0);
+}
+#ibxs71{
+  color:rgb(0, 0, 0);
+  font-family:"Helvetica Neue";
+  font-size:13px;
+  letter-spacing:0px;
+}
+#ir1l3f{
+  letter-spacing:0px;
+}
+#i2v9d7{
+  color:rgb(0, 0, 0);
+  font-family:"Helvetica Neue";
+  font-size:13px;
+}
+#iikom6{
+  font-family:"Helvetica Neue";
+  font-size:13px;
+  color:rgb(0, 0, 0);
+  letter-spacing:0px;
+}
+#iqp7ma{
+  width:210px;
+  height:280px;
+  margin:0 0 0 40px;
+}
+#i4qw6e{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#im6p7l{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#ik8zo5{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#ilqcbg{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#iqxapm{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#i5hw5g{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#iernha{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#iqw7u8{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#i4cm8r{
+  letter-spacing:0px;
+}
+#ijgpwi{
+  width:210px;
+  height:280px;
+}
+#iptcbq{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#id5cct{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#imjpxb{
+  letter-spacing:0px;
+}
+#ivljkm{
+  letter-spacing:0px;
+}
+#it3uhu{
+  letter-spacing:0px;
+}
+#iairwg{
+  letter-spacing:0px;
+}
+#ign3bp{
+  text-align:left;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:30px;
+  margin:17px 0 15px 0;
+}
+#imhbu4{
+  background-image:url('/Users/nam-yunju/hoonlab6.github.io/assets/img/people/hkim.jpg');
+  background-repeat:repeat;
+  background-position:left top;
+  background-attachment:scroll;
+  background-size:auto;
+  flex-basis:38.93%;
+  height:auto;
+}
+#ishrsm{
+  font-family:Helvetica, sans-serif;
+  font-size:40px;
+  text-align:left;
+  margin:3px 0 10px 0;
+  color:rgba(0,0,0,0.5);
+}
+#i4pedx{
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:3px;
+  text-align:left;
+  margin:25px 0 55px 0;
+  padding:8px 5px 5px 5px;
+  line-height:normal;
+  opacity:1;
+  color:rgba(0,0,0,0.5);
+  letter-spacing:0;
+  font-weight:400;
+  text-decoration:none;
+}
+#ilvm9k{
+  top:0;
+  margin:0 0 0 0;
+  padding:0 0 0 0;
+  position:static;
+  right:0;
+  opacity:1;
+}
+#ichntt{
+  height:300px;
+  font-size:60px;
+  width:1100px;
+  margin:0 0 0 20px;
+}
+#im17gj{
+  background-image:url('/Users/nam-yunju/hoonlab6.github.io/assets/img/people/hkim.jpg');
+  background-repeat:repeat;
+  background-position:left top;
+  background-attachment:scroll;
+  background-size:auto;
+  flex-basis:38.93%;
+  height:auto;
+}
+#i24uxg{
+  font-family:Helvetica, sans-serif;
+  font-size:40px;
+  text-align:left;
+  margin:3px 0 10px 0;
+  color:rgba(0,0,0,0.5);
+}
+#iautwr{
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:3px;
+  text-align:left;
+  margin:30px 0 55px 0;
+  padding:8px 5px 5px 5px;
+  line-height:normal;
+  opacity:1;
+  color:rgba(0,0,0,0.5);
+  letter-spacing:0;
+  font-weight:400;
+  text-decoration:none;
+}
+#iuy7ud{
+  top:0;
+  margin:0 0 0 0;
+  padding:0 0 0 0;
+  position:static;
+  right:0;
+  opacity:1;
+}
+#iqgjev{
+  height:300px;
+  font-size:60px;
+  width:1100px;
+  margin:0 0 0 20px;
+}
+#ii22eb{
+  background-image:url('/Users/nam-yunju/hoonlab6.github.io/assets/img/people/hkim.jpg');
+  background-repeat:repeat;
+  background-position:left top;
+  background-attachment:scroll;
+  background-size:auto;
+  flex-basis:38.93%;
+  height:auto;
+}
+#i5c609{
+  font-family:Helvetica, sans-serif;
+  font-size:40px;
+  text-align:left;
+  margin:3px 0 10px 0;
+  color:rgba(0,0,0,0.5);
+}
+#ipaedx{
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:3px;
+  text-align:left;
+  margin:35px 0 55px 0;
+  padding:8px 5px 5px 5px;
+  line-height:normal;
+  opacity:1;
+  color:rgba(0,0,0,0.5);
+  letter-spacing:0;
+  font-weight:400;
+  text-decoration:none;
+}
+#ir0u7i{
+  top:0;
+  margin:0 0 0 0;
+  padding:0 0 0 0;
+  position:static;
+  right:0;
+  opacity:1;
+}
+#iacqum{
+  height:300px;
+  font-size:60px;
+  width:1100px;
+  margin:0 0 0 20px;
+}
+#i0f3os{
+  background-image:url('/Users/nam-yunju/hoonlab6.github.io/assets/img/people/hkim.jpg');
+  background-repeat:repeat;
+  background-position:left top;
+  background-attachment:scroll;
+  background-size:auto;
+  flex-basis:38.93%;
+  height:auto;
+}
+#i8ke2j{
+  font-family:Helvetica, sans-serif;
+  font-size:40px;
+  text-align:left;
+  margin:3px 0 10px 0;
+  color:rgba(0,0,0,0.5);
+}
+#ipaps1{
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:3px;
+  text-align:left;
+  margin:50px 0 55px 0;
+  padding:8px 5px 5px 5px;
+  line-height:normal;
+  opacity:1;
+  color:rgba(0,0,0,0.5);
+  letter-spacing:0;
+  font-weight:400;
+  text-decoration:none;
+}
+#i81ypu{
+  top:0;
+  margin:0 0 0 0;
+  padding:0 0 0 0;
+  position:static;
+  right:0;
+  opacity:1;
+}
+#id5pw6{
+  height:300px;
+  font-size:60px;
+  width:1100px;
+  margin:0 0 0 20px;
+}
+#imp313{
+  width:210px;
+  height:280px;
+}
+#iaulbg{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#i2y8d5{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#ippo4p{
+  letter-spacing:0px;
+}
+#if8dqj{
+  width:210px;
+  height:280px;
+  margin:0 0 0 40px;
+}
+#ihbhow{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#iku6qa{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#ics9tw{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#icvds3{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#is029p{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#ijzsj1{
+  letter-spacing:0px;
+}
+#ijvd9g{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#ixvuv7{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#i78n0n{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#ix76ek{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#idx468{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#ima0cr{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#i5s48i{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#ilz4ba{
+  letter-spacing:0px;
+}
+#iwtja5{
+  width:210px;
+  height:280px;
+  margin:0 0 0 40px;
+}
+#i0ojn2{
+  text-align:left;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:30px;
+  margin:17px 0 15px 0;
+}
+#ihxcau{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#ihj6vn{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#iuzb8u{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#ia1uvm{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#i6x96l{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#ihf1ty{
+  letter-spacing:0px;
+}
+#igidaf{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#ibqb5f{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#iywbao{
+  letter-spacing:0px;
+}
+#igtdqu{
+  letter-spacing:0px;
+}
+#i5au6h{
+  width:210px;
+  height:280px;
+  padding:0 0 0 0;
+  margin:0 0 0 40px;
+}
+#i2qq66{
+  width:210px;
+  height:280px;
+  margin:0 0 0 40px;
+}
+#ipx5q4{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#ixt3fg{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#id39rz{
+  letter-spacing:0px;
+}
+#iteafc{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#id9dmw{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#io3xxf{
+  letter-spacing:0px;
+}
+#i06rvg{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#ijr39n{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#ib4fz3{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#i8dnzp{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#ikh5i9{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#iyf78p{
+  letter-spacing:0px;
+}
+#ihf71g{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#iwywcj{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#i1k4g6{
+  letter-spacing:0px;
+}
+#i1tkzi{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#iuv3yg{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+#iw17jh{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+}
+@media (max-width: 768px){
+  .row{
+    flex-wrap:wrap;
+  }
+}
