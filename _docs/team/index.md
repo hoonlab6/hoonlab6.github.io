@@ -1,20 +1,6 @@
 ---
 layout: page
 title:  "Team"
-#subtitle: Hoon Lab
-meta_title: "Lab Members - Hoon Lab"
-meta_description: "Current lab members"
-#teaser: ""
-categories:
-    - people
-tags:
-    - team
-    - staff
-permalink: "/team/"
-comments: false
-show_meta: false
-bigimg: "/images/publpics/jax_grp2.jpg"
-menu: accordion
 css:
   - /assets/css/imagehover.css
   - /assets/css/custom_home.css
