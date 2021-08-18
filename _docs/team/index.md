@@ -5,12 +5,11 @@ css:
   - /assets/css/imagehover.css
   - /assets/css/custom_home.css
 ---
-        
-
+  
 # TEAM HOON_test3
 {:.text-center}
 
-<strong>Principal Investigator</strong>
+## Principal Investigator
 
 <div class="row"><div class="col-sm-12">
 <div class="holder smooth">
