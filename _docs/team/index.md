@@ -6,7 +6,7 @@ css:
   - /assets/css/custom_home.css
 ---
   
-# **TEAM HOON_test3**
+# **TEAM HOON_test**
 {:.text-center}
 
 ## **Principal Investigator**
@@ -32,7 +32,7 @@ css:
     <div class="go-top">
         <p>Research Assistant, 03/21</p>
         <p>Extrachromosomal DNA in brain tumor</p>
-        <span class="social-icons"><a href="{{ site.url }}/people/hs_chung/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
+        <span class="social-icons"><a href="{{ site.url }}/people/hs_chung/"  class="social-icons" title="About"> <i class="fa fa-user"></i></a></span>
     </div>
     <div class="phototag"><a href="{{ site.url }}/people/hs_chung">Heesuk Chung, BS</a></div>
 </div></div>
