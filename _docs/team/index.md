@@ -5,14 +5,6 @@ css:
   - /assets/css/imagehover.css
   - /assets/css/custom_home.css
 ---
-
-<head>
-    <style>
-        #text1 {font-size: 30px}
-        #text2 {font-size: }
-    </style>
-<head>
-
         
 
 # TEAM HOON_test3
