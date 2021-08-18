@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Team"
+menu: accordion
 css:
   - /assets/css/imagehover.css
   - /assets/css/custom_home.css
