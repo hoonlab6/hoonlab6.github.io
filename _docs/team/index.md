@@ -10,7 +10,7 @@ css:
 # TEAM HOON_test3
 {:.text-center}
 
-<storng>Principal Investigator</strong>
+<strong>Principal Investigator</strong>
 
 <div class="row"><div class="col-sm-12">
 <div class="holder smooth">
