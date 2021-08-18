@@ -43,11 +43,9 @@ css:
 </head>
 
 <body>
-
-<h2>Card</h2>
-
 <div class="card">
-  <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" style="width:100%">
+  <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" style="width:70%">
+   <span class="social-icons"><a href="{{ site.url }}/people/hs_chung/"  class="social-icons" title="About"> <i class="fa fa-user"></i></a></span>
   <div class="container">
     <h4><b>Heesuk Chung</b></h4> 
     <p>BS</p> 
