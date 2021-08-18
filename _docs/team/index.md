@@ -11,6 +11,7 @@ css:
         #text1 {font-size: 30px}
         #text2 {font-size: }
     </style>
+<head>
 
         
 
