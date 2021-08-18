@@ -46,8 +46,9 @@ css:
 <div class="card">
   <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" style="width:70%">
   <div class="container">
-    <h4><b href="{{ site.url }}/people/hs_chung">Heesuk Chung</b></h4> 
-    <p>BS</p> 
+    <h4><class="phototag"><b href="{{ site.url }}/people/hs_chung">Heesuk Chung</b></h4> 
+    <p>Research Assistant</p> 
+    <p>Extrachromosomal DNA in brain tumor</p>
   </div>
 </div>
 
