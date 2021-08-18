@@ -9,7 +9,7 @@ css:
 # **TEAM HOON_test3**
 {:.text-center}
 
-## Principal Investigator
+### **Principal Investigator**
 
 <div class="row"><div class="col-sm-12">
 <div class="holder smooth">
