@@ -25,18 +25,38 @@ css:
 
 
 ### **Students**
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 40%;
+}
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.container {
+  padding: 2px 16px;
+}
+</style>
+</head>
 
-<div class="row"><div class="col-sm-4">
-<div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" />
-    <div class="go-top">
-        <p>Research Assistant, 03/21</p>
-        <p>Extrachromosomal DNA in brain tumor</p>
-        <span class="social-icons"><a href="{{ site.url }}/people/hs_chung/"  class="social-icons" title="About"> <i class="fa fa-user"></i></a></span>
-    </div>
-    <div class="phototag"><a href="{{ site.url }}/people/hs_chung">Heesuk Chung, BS</a></div>
-</div></div>
+<body>
+
+<h2>Card</h2>
+
+<div class="card">
+  <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" style="width:100%">
+  <div class="container">
+    <h4><b>Heesuk Chung</b></h4> 
+    <p>BS</p> 
+  </div>
 </div>
+
+</body>
+
+
 
 <div class="row"><div class="col-sm-4">
 <div class="holder smooth">
