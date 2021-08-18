@@ -1,9 +1,26 @@
 ---
-title: TEAM HOON
-parmalink: /team hoon/
+layout: page
+title:  "Team"
+#subtitle: Hoon Lab
+meta_title: "Lab Members - Hoon Lab"
+meta_description: "Current lab members"
+#teaser: ""
+categories:
+    - people
+tags:
+    - team
+    - staff
+permalink: "/team/"
+comments: false
+show_meta: false
+bigimg: "/images/publpics/jax_grp2.jpg"
+menu: accordion
+css:
+  - /assets/css/imagehover.css
+  - /assets/css/custom_home.css
 ---
 
-# TEAM HOON_test
+# TEAM HOON_test1
 {:.text-center}
 
 ### Principal Investigator
@@ -25,7 +42,7 @@ parmalink: /team hoon/
 
 <div class="row"><div class="col-sm-4">
 <div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" />
+    <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" width="30" height="30" alt="Heesuk Chung" />
     <div class="go-top">
         <p>Research Assistant, 03/21</p>
         <p>Extrachromosomal DNA in brain tumor</p>
