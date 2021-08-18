@@ -6,10 +6,18 @@ css:
   - /assets/css/custom_home.css
 ---
 
-# TEAM HOON_test2
+<head>
+    <style>
+        #text1 {font-size: 30px}
+        #text2 {font-size: }
+    </style>
+
+        
+
+# TEAM HOON_test3
 {:.text-center}
 
-### Principal Investigator
+## Principal Investigator
 
 <div class="row"><div class="col-sm-12">
 <div class="holder smooth">
@@ -19,7 +27,7 @@ css:
         <p>Associate Professor</p>
         <span class="social-icons"><a href="{{ site.url }}/about"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a><a href="https://twitter.com/{{ site.owner.twitter }}"  class="social-icons" target="_blank" title="Follow @wisekh6"> <i class="fa fa-twitter"></i></a><a href="{{ site.url }}/contact"  class="social-icons" title="Contact"> <i class="fa fa-envelope"></i></a></span>
     </div>
-    <div class="phototag"><a href="{{ site.url }}/about">Hoon Kim, PhD</a></div>
+    <div class="phototag"><a href="{{ site.url }}/about" id="text1">Hoon Kim, PhD</a></div>
 </div>
 </div></div>
 
