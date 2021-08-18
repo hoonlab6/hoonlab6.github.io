@@ -6,7 +6,7 @@ css:
   - /assets/css/custom_home.css
 ---
   
-# TEAM HOON_test3
+# **TEAM HOON_test3**
 {:.text-center}
 
 ## Principal Investigator
@@ -24,7 +24,7 @@ css:
 </div></div>
 
 
-### Students
+## Students
 
 <div class="row"><div class="col-sm-4">
 <div class="holder smooth">
@@ -75,7 +75,7 @@ css:
 </div>
 
  
-### Interns
+## Interns
 
 <div class="row"><div class="col-sm-4">
 <div class="holder smooth">
@@ -126,7 +126,7 @@ css:
 </div>
 
 
-### Staffs
+## Staffs
 
 <div class="row"><div class="col-sm-4">
 <div class="holder smooth">
