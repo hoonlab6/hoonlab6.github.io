@@ -4,24 +4,16 @@ title: 'About Amit Gujar, PhD'
 permalink: /people/a_gujar/
 tags:
   - page
-categories: people
+categories:
+  - people
 published: true
 date: '2019-11-14'
 show_meta: true
 comments: true
 mathjax: true
 noindex: false
-css:
-  - /assets/css/imagehover.css
-  - /css/custom_home.css
 ---
 
-<div class="row">
-<div class="col"><div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Jung" />
-</div></div>
-</div>
-{% include improve_content.html %}
 
 ### Education and Experience:
 
