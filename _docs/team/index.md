@@ -4,12 +4,10 @@ title:  "Team"
 css:
   - /assets/css/style.css
 ---
-  
-(setq markdown-xhtml-header-content 
-"<style type='assets/css/style.css''>
-    a { text-decoration: none; }
-    a:hover {text-decoration: underline; }
-    </style>")
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=PT+Sans&display=swap');
+</style>
 
 # **TEAM HOON_test**
 {:.text-center}
