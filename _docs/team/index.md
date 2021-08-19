@@ -5,6 +5,12 @@ css:
   - /assets/css/style.css
 ---
   
+(setq markdown-xhtml-header-content 
+"<style type='assets/css/style.css''>
+    a { text-decoration: none; }
+    a:hover {text-decoration: underline; }
+    </style>")
+
 # **TEAM HOON_test**
 {:.text-center}
 
