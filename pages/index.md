@@ -9,7 +9,8 @@ permalink: /
 ### Our lab is Computational Biomedicine [@hoonbiolab](https://twitter.com/hoonbiolab).
 
 <style>
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,300italic,100,100italic,400italic,500,500italic,700,700italic&subset=latin,cyrillic);
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+</style>
 
 <h2>Rescent News</h2>
 <div class="wrapper">
