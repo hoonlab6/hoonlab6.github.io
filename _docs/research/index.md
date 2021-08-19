@@ -9,7 +9,7 @@ carbonads: false
 ---
 
 
-**“Our lab is all about big data.”**
+## **“Our lab is all about big data.”**
 
 A major cause of cancer treatment failure is the development of therapy resistance in tumors, which evolve by accumulating tumor-promoting mutations and modified chromosome structures in a subset of their cells. Overcoming such medical challenge in cancer treatment requires creative “computational analysis of big biomolecular profiles coupled with a deep understanding of cancer biology”. To contribute to the pathway to improved cancer treatments, our lab addresses basic science questions that inform on human cancers and ultimately diagnostic, prognostic and therapeutic applications in personalized medicine, through computational and statistical analysis of biomolecular data. Collaborating with the colleagues from a broad spectrum of areas (cancer biology, epigenetics, structural biology, bioimaging, tumor microenvironment,  machine learning, and so on)  will be essential to the successful completion of our research goal.
 
