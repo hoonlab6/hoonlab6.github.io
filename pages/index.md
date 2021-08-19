@@ -6,73 +6,10 @@ permalink: /
 
 # Welcome to Hoon Lab
 
-Our lab is Computational Biomedicine [@hoonbiolab](https://twitter.com/hoonbiolab).
+### Our lab is Computational Biomedicine [@hoonbiolab](https://twitter.com/hoonbiolab).
 
 <style>
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,300italic,100,100italic,400italic,500,500italic,700,700italic&subset=latin,cyrillic);
-
-.wrapper {
-	display:flex;
-	flex-direction:row;
-	flex-wrap:wrap;
-	justify-content:center;
-}
-
-.box {
-	background-color: #fafafa;
-	box-shadow: 0px 2px 2px rgba(0,0,0,.2),	0px 0px 2px rgba(0,0,0,.2);
-	width: 100%;
-	border-radius: 2px;
-	margin:20px;
-	display:flex;
-	flex-direction:column;
-	cursor:pointer;
-}
-
-.box:hover {
-	box-shadow: 0px 15px 20px rgba(0,0,0,.25),0px 0px 30px rgba(0,0,0,.1);
-}
-
-.box .text {
-	padding: 24px;
-}
-
-.box .bb {
-	border: 1px solid red;
-}
-
-.box .title {
-	color:  black;
-	font-weight: 500;
-	font-size: 20px;
-	margin-top: -2px;
-	margin-bottom: 16px;
-}
-
-.box p {
-	color: rgba(0,0,0,.5);
-	font-size: 16px;
-	line-height: 24px;
-	margin: 0px;
-}
-
-.box .act {
-	padding: 8px 0;
-	text-align: right;
-}
-
-.card-button {
-	text-transform: uppercase;
-	display: inline-block;
-	font-size: 13px;
-	padding: 12px 10px;
-	color: #00a5ef;
-	font-weight: 500;
-	margin-right: 8px;
-	cursor: pointer;
-}
-</style>
-
 
 <h2>Rescent News</h2>
 <div class="wrapper">
