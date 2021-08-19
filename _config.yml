@@ -27,18 +27,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # This is mostly for testing
 url: "https://hoonlab6.github.io" # the base hostname & protocol for your site
 
-# Optional
-twitter: StanfordCompute
-#linkedin: vsochat
-dockerhub: srcc
-google-analytics: UA-143467500-1
+
 
 # Image and (square) dimension for logo (don't start with /)
 # If commented, will use material hat theme
 # logo: "assets/img/logo/SRCC-square-red.png"
-logo_width: 34
-logo_pixels: 34
-color: "#c1c7c7" # primary color for header, buttons
+logo_width: 20
+logo_pixels: 20
+color: "#9faaab" # primary color for header, buttons
 
 # Build settings
 markdown: kramdown
