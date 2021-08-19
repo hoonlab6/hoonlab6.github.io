@@ -7,56 +7,56 @@ title:  "Team"
   box-sizing: border-box;}
   body {
   margin: 0;}
-.container-width{ 
+  container-width{ 
     width:90%; 
     max-width:1150px;
     margin:0 auto;
-}
-.flex-sect{
+  }
+  flex-sect{
   background-color:#fafafa;
   padding:100px 0;
   font-family:Helvetica, serif;
-}
-.flex-desc{
+    }
+    flex-desc{
   margin-bottom:55px;
   font-size:1em;
   color:rgba(0, 0, 0, 0.5);
   text-align:center;
   padding:5px;
-}
-.row{
+    }
+    row{
   display:flex;
   justify-content:flex-start;
   align-items:stretch;
   flex-wrap:nowrap;
   padding:10px;
-}
-.cell{
+    }
+    .cell{
   min-height:75px;
   flex-grow:1;
   flex-basis:100%;
-}
-*{
+    }
+    *{
   box-sizing:border-box;
-}
-body{
+    }
+    body{
   margin:0;
-}
-#ilz5nj{
+    }
+    #ilz5nj{
   height:440px;
   font-size:60px;
   width:1100px;
   margin:0 0 0 20px;
-}
-#i7971n{
+    }
+    #i7971n{
   background-image:url('/Users/nam-yunju/hoonlab6.github.io/assets/img/people/hkim.jpg');
   background-repeat:repeat;
   background-position:left top;
   background-attachment:scroll;
   background-size:auto;
   flex-basis:38.93%;
-}
-#iiqx5t{
+    }
+    #iiqx5t{
   width:255px;
   height:381.5px;
   border-radius:15px 0 23px 0;
@@ -67,23 +67,23 @@ body{
   background-position:left top;
   background-attachment:scroll;
   background-size:auto;
-}
-#isivmb{
+    }
+    #isivmb{
   top:0;
   margin:0 0 0 0;
   padding:0 0 0 0;
   position:static;
   right:0;
   opacity:1;
-}
-#io79b7{
+    }
+    #io79b7{
   font-family:Helvetica, sans-serif;
   font-size:40px;
   text-align:left;
   margin:25px 0 55px 0;
   color:rgba(0,0,0,0.5);
-}
-#i0b78z{
+    }
+    #i0b78z{
   font-family:Arial, Helvetica, sans-serif;
   font-size:3px;
   text-align:left;
@@ -95,8 +95,8 @@ body{
   letter-spacing:0;
   font-weight:400;
   text-decoration:none;
-}
-#i8s5g5{
+    }
+    #i8s5g5{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -105,14 +105,14 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#i91jn1{
+    }
+    #i91jn1{
   color:rgb(220, 161, 13);
-}
-#ixb9o1{
+    }
+    #ixb9o1{
   color:rgb(220, 161, 13);
-}
-#irn19e{
+    }
+    #irn19e{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -121,8 +121,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#is0a2s{
+    }
+    #is0a2s{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -131,14 +131,14 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#i3xwdl{
+    }
+    #i3xwdl{
   color:rgb(220, 161, 13);
-}
-#ipfxr8{
+    }
+    #ipfxr8{
   color:rgb(220, 161, 13);
-}
-#iysexu{
+    }
+    #iysexu{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -147,8 +147,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#ir8qd9{
+    }
+    #ir8qd9{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -157,17 +157,17 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#imxh7j{
+    }
+    #imxh7j{
   color:rgb(220, 161, 13);
-}
-#i3p8c4{
+    }
+    #i3p8c4{
   color:rgb(220, 161, 13);
-}
-#i84hzo{
+    }
+    #i84hzo{
   color:rgb(220, 161, 13);
-}
-#imoa7i{
+    }
+    #imoa7i{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -176,8 +176,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#ilzkp9{
+    }
+    #ilzkp9{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -186,39 +186,39 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#ik3t1l{
+    }
+    #ik3t1l{
   color:rgb(220, 161, 13);
-}
-#iof9vq{
+    }
+    #iof9vq{
   color:rgb(220, 161, 13);
-}
-#ij478a{
+    }
+    #ij478a{
   color:rgb(220, 161, 13);
-}
-#ij4uvm{
+    }
+    #ij4uvm{
   text-align:left;
   font-family:Arial, Helvetica, sans-serif;
   font-size:30px;
   margin:17px 0 15px 0;
-}
-#imy45k{
+    }
+    #imy45k{
   text-align:left;
   font-family:Arial, Helvetica, sans-serif;
   font-size:30px;
   margin:17px 0 15px 0;
-}
-#i5bcp{
+    }
+    #i5bcp{
   width:1200px;
-}
-#imx09{
+    }
+    #imx09{
   background-image:linear-gradient(rgba(24,22,22,0),rgba(24,22,22,0));
   background-repeat:repeat;
   background-position:left top;
   background-attachment:scroll;
   background-size:auto;
-}
-#igslek{
+    }
+    #igslek{
   background-image:url('/Users/nam-yunju/hoonlab6.github.io/assets/img/people/hkim.jpg');
   background-repeat:repeat;
   background-position:left top;
@@ -226,61 +226,61 @@ body{
   background-size:auto;
   flex-basis:38.93%;
   height:auto;
-}
-#ijt77i{
+    }
+    #ijt77i{
   font-family:Helvetica, sans-serif;
   font-size:40px;
   text-align:left;
   margin:3px 0 10px 0;
   color:rgba(0,0,0,0.5);
-}
-#iip8ob{
+    }
+    #iip8ob{
   top:0;
   margin:0 0 0 0;
   padding:0 0 0 0;
   position:static;
   right:0;
   opacity:1;
-}
-#ietbof{
+    }
+    #ietbof{
   height:300px;
   font-size:60px;
   width:1100px;
   margin:0 0 0 20px;
-}
-#i8fcdb{
+    }
+    #i8fcdb{
   width:1200px;
-}
-#i7ep4z{
+    }
+    #i7ep4z{
   width:1200px;
-}
-#i4mtc4{
+    }
+    #i4mtc4{
   width:1200px;
-}
-#i5i41v{
+    }
+    #i5i41v{
   width:1200px;
-}
-#i43etl{
+    }
+    #i43etl{
   width:1200px;
-}
-#i7g32f{
+    }
+    #i7g32f{
   width:1200px;
-}
-#ixst3g{
+    }
+    #ixst3g{
   width:1200px;
-}
-#ii9rdb{
+    }
+    #ii9rdb{
   width:1200px;
-}
-#iunwkm{
+    }
+    #iunwkm{
   width:1200px;
-}
-#icqc2y{
+    }
+    #icqc2y{
   height:280px;
   width:210px;
   margin:0 0 0 40px;
-}
-#iyor5h{
+    }
+    #iyor5h{
   font-family:Arial, Helvetica, sans-serif;
   font-size:3px;
   text-align:left;
@@ -292,8 +292,8 @@ body{
   letter-spacing:0;
   font-weight:400;
   text-decoration:none;
-}
-#ijfbtj{
+    }
+    #ijfbtj{
   background-image:url('/Users/nam-yunju/hoonlab6.github.io/assets/img/people/hkim.jpg');
   background-repeat:repeat;
   background-position:left top;
@@ -301,15 +301,15 @@ body{
   background-size:auto;
   flex-basis:38.93%;
   height:auto;
-}
-#i7wqvp{
+    }
+    #i7wqvp{
   font-family:Helvetica, sans-serif;
   font-size:40px;
   text-align:left;
   margin:3px 0 10px 0;
   color:rgba(0,0,0,0.5);
-}
-#ib3j54{
+    }
+    #ib3j54{
   font-family:Arial, Helvetica, sans-serif;
   font-size:3px;
   text-align:left;
@@ -321,30 +321,30 @@ body{
   letter-spacing:0;
   font-weight:400;
   text-decoration:none;
-}
-#i6x68j{
+    }
+    #i6x68j{
   top:0;
   margin:0 0 0 0;
   padding:0 0 0 0;
   position:static;
   right:0;
   opacity:1;
-}
-#imkvrh{
+    }
+    #imkvrh{
   height:300px;
   font-size:60px;
   width:1100px;
   margin:0 0 0 20px;
-}
-#iayffh{
+    }
+    #iayffh{
   width:1200px;
-}
-#i4tx6v{
+    }
+    #i4tx6v{
   width:210px;
   height:280px;
   margin:0 0 0 40px;
-}
-#iegwrl{
+    }
+    #iegwrl{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -353,8 +353,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#i2tqif{
+    }
+    #i2tqif{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -363,8 +363,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#iur9ii{
+    }
+    #iur9ii{
   background-image:url('/Users/nam-yunju/hoonlab6.github.io/assets/img/people/hkim.jpg');
   background-repeat:repeat;
   background-position:left top;
@@ -373,15 +373,15 @@ body{
   flex-basis:34.26%;
   height:auto;
   margin:0 0 0 40px;
-}
-#i3mygk{
+    }
+    #i3mygk{
   font-family:Helvetica, sans-serif;
   font-size:40px;
   text-align:left;
   margin:3px 0 10px 0;
   color:rgba(0,0,0,0.5);
-}
-#iitu2b{
+    }
+    #iitu2b{
   font-family:Arial, Helvetica, sans-serif;
   font-size:3px;
   text-align:left;
@@ -393,22 +393,22 @@ body{
   letter-spacing:0;
   font-weight:400;
   text-decoration:none;
-}
-#i1qpqf{
+    }
+    #i1qpqf{
   top:0;
   margin:0 0 0 0;
   padding:0 0 0 0;
   position:static;
   right:0;
   opacity:1;
-}
-#ij52kb{
+    }
+    #ij52kb{
   height:300px;
   font-size:60px;
   width:1100px;
   margin:0 0 0 20px;
-}
-#i21kcr{
+    }
+    #i21kcr{
   background-image:url('/Users/nam-yunju/hoonlab6.github.io/assets/img/people/hkim.jpg');
   background-repeat:repeat;
   background-position:left top;
@@ -417,15 +417,15 @@ body{
   flex-basis:33.93%;
   height:auto;
   margin:0 0 0 40px;
-}
-#irengx{
+    }
+    #irengx{
   font-family:Helvetica, sans-serif;
   font-size:40px;
   text-align:left;
   margin:3px 0 10px 0;
   color:rgba(0,0,0,0.5);
-}
-#i5usae{
+    }
+    #i5usae{
   font-family:Arial, Helvetica, sans-serif;
   font-size:3px;
   text-align:left;
@@ -437,22 +437,22 @@ body{
   letter-spacing:0;
   font-weight:400;
   text-decoration:none;
-}
-#itf6o5{
+    }
+    #itf6o5{
   top:0;
   margin:0 0 0 0;
   padding:0 0 0 0;
   position:static;
   right:0;
   opacity:1;
-}
-#iy64f5{
+    }
+    #iy64f5{
   height:300px;
   font-size:60px;
   width:1100px;
   margin:0 0 0 20px;
-}
-#ind148{
+    }
+    #ind148{
   background-image:url('/Users/nam-yunju/hoonlab6.github.io/assets/img/people/hkim.jpg');
   background-repeat:repeat;
   background-position:left top;
@@ -460,15 +460,15 @@ body{
   background-size:auto;
   flex-basis:38.93%;
   height:auto;
-}
-#is1t6q{
+    }
+    #is1t6q{
   font-family:Helvetica, sans-serif;
   font-size:40px;
   text-align:left;
   margin:3px 0 10px 0;
   color:rgba(0,0,0,0.5);
-}
-#ilcwi7{
+    }
+    #ilcwi7{
   font-family:Arial, Helvetica, sans-serif;
   font-size:3px;
   text-align:left;
@@ -480,22 +480,22 @@ body{
   letter-spacing:0;
   font-weight:400;
   text-decoration:none;
-}
-#i3qhjk{
+    }
+    #i3qhjk{
   top:0;
   margin:0 0 0 0;
   padding:0 0 0 0;
   position:static;
   right:0;
   opacity:1;
-}
-#iyu61f{
+    }
+    #iyu61f{
   height:300px;
   font-size:60px;
   width:1100px;
   margin:0 0 0 20px;
-}
-#iks5tl{
+    }
+    #iks5tl{
   background-image:url('/Users/nam-yunju/hoonlab6.github.io/assets/img/people/hkim.jpg');
   background-repeat:repeat;
   background-position:left top;
@@ -503,15 +503,15 @@ body{
   background-size:auto;
   flex-basis:38.93%;
   height:auto;
-}
-#iosixs{
+    }
+    #iosixs{
   font-family:Helvetica, sans-serif;
   font-size:40px;
   text-align:left;
   margin:3px 0 10px 0;
   color:rgba(0,0,0,0.5);
-}
-#i9ag7i{
+    }
+    #i9ag7i{
   font-family:Arial, Helvetica, sans-serif;
   font-size:3px;
   text-align:left;
@@ -523,27 +523,27 @@ body{
   letter-spacing:0;
   font-weight:400;
   text-decoration:none;
-}
-#iix7x4{
+    }
+    #iix7x4{
   top:0;
   margin:0 0 0 0;
   padding:0 0 0 0;
   position:static;
   right:0;
   opacity:1;
-}
-#iy37l8{
+    }
+    #iy37l8{
   height:300px;
   font-size:60px;
   width:1100px;
   margin:0 0 0 20px;
-}
-#izut55{
+    }
+    #izut55{
   width:210px;
   height:280px;
   margin:0 0 0 40px;
-}
-#imhejg{
+    }
+    #imhejg{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -552,8 +552,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#iev7fh{
+    }
+    #iev7fh{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -562,8 +562,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#ius1k8-4{
+    }
+    #ius1k8-4{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -572,8 +572,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#i3mrf1{
+    }
+    #i3mrf1{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -582,8 +582,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#iotzet{
+    }
+    #iotzet{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -593,33 +593,33 @@ body{
   font-family:"Helvetica Neue";
   min-height:15px;
   color:rgb(0, 0, 0);
-}
-#ibxs71{
+    }
+    #ibxs71{
   color:rgb(0, 0, 0);
   font-family:"Helvetica Neue";
   font-size:13px;
   letter-spacing:0px;
-}
-#ir1l3f{
+    }
+    #ir1l3f{
   letter-spacing:0px;
-}
-#i2v9d7{
+    }
+    #i2v9d7{
   color:rgb(0, 0, 0);
   font-family:"Helvetica Neue";
   font-size:13px;
-}
-#iikom6{
+    }
+    #iikom6{
   font-family:"Helvetica Neue";
   font-size:13px;
   color:rgb(0, 0, 0);
   letter-spacing:0px;
-}
-#iqp7ma{
+    }
+    #iqp7ma{
   width:210px;
   height:280px;
   margin:0 0 0 40px;
-}
-#i4qw6e{
+    }
+    #i4qw6e{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -628,8 +628,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#im6p7l{
+    }
+    #im6p7l{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -638,8 +638,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#ik8zo5{
+    }
+    #ik8zo5{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -648,8 +648,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#ilqcbg{
+    }
+    #ilqcbg{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -658,8 +658,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#iqxapm{
+    }
+    #iqxapm{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -668,8 +668,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#i5hw5g{
+    }
+    #i5hw5g{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -678,8 +678,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#iernha{
+    }
+    #iernha{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -688,8 +688,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#iqw7u8{
+    }
+    #iqw7u8{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -698,15 +698,15 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#i4cm8r{
+    }
+    #i4cm8r{
   letter-spacing:0px;
-}
-#ijgpwi{
+    }
+    #ijgpwi{
   width:210px;
   height:280px;
-}
-#iptcbq{
+    }
+    #iptcbq{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -715,8 +715,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#id5cct{
+    }
+    #id5cct{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -725,26 +725,26 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#imjpxb{
+    }
+    #imjpxb{
   letter-spacing:0px;
-}
-#ivljkm{
+    }
+    #ivljkm{
   letter-spacing:0px;
-}
-#it3uhu{
+    }
+    #it3uhu{
   letter-spacing:0px;
-}
-#iairwg{
+    }
+    #iairwg{
   letter-spacing:0px;
-}
-#ign3bp{
+    }
+    #ign3bp{
   text-align:left;
   font-family:Arial, Helvetica, sans-serif;
   font-size:30px;
   margin:17px 0 15px 0;
-}
-#imhbu4{
+    }
+    #imhbu4{
   background-image:url('/Users/nam-yunju/hoonlab6.github.io/assets/img/people/hkim.jpg');
   background-repeat:repeat;
   background-position:left top;
@@ -752,15 +752,15 @@ body{
   background-size:auto;
   flex-basis:38.93%;
   height:auto;
-}
-#ishrsm{
+    }
+    #ishrsm{
   font-family:Helvetica, sans-serif;
   font-size:40px;
   text-align:left;
   margin:3px 0 10px 0;
   color:rgba(0,0,0,0.5);
-}
-#i4pedx{
+    }
+    #i4pedx{
   font-family:Arial, Helvetica, sans-serif;
   font-size:3px;
   text-align:left;
@@ -772,22 +772,22 @@ body{
   letter-spacing:0;
   font-weight:400;
   text-decoration:none;
-}
-#ilvm9k{
+    }
+    #ilvm9k{
   top:0;
   margin:0 0 0 0;
   padding:0 0 0 0;
   position:static;
   right:0;
   opacity:1;
-}
-#ichntt{
+    }
+    #ichntt{
   height:300px;
   font-size:60px;
   width:1100px;
   margin:0 0 0 20px;
-}
-#im17gj{
+    }
+    #im17gj{
   background-image:url('/Users/nam-yunju/hoonlab6.github.io/assets/img/people/hkim.jpg');
   background-repeat:repeat;
   background-position:left top;
@@ -795,15 +795,15 @@ body{
   background-size:auto;
   flex-basis:38.93%;
   height:auto;
-}
-#i24uxg{
+    }
+    #i24uxg{
   font-family:Helvetica, sans-serif;
   font-size:40px;
   text-align:left;
   margin:3px 0 10px 0;
   color:rgba(0,0,0,0.5);
-}
-#iautwr{
+    }
+    #iautwr{
   font-family:Arial, Helvetica, sans-serif;
   font-size:3px;
   text-align:left;
@@ -815,22 +815,22 @@ body{
   letter-spacing:0;
   font-weight:400;
   text-decoration:none;
-}
-#iuy7ud{
+    }
+    #iuy7ud{
   top:0;
   margin:0 0 0 0;
   padding:0 0 0 0;
   position:static;
   right:0;
   opacity:1;
-}
-#iqgjev{
+    }
+    #iqgjev{
   height:300px;
   font-size:60px;
   width:1100px;
   margin:0 0 0 20px;
-}
-#ii22eb{
+    }
+    #ii22eb{
   background-image:url('/Users/nam-yunju/hoonlab6.github.io/assets/img/people/hkim.jpg');
   background-repeat:repeat;
   background-position:left top;
@@ -838,15 +838,15 @@ body{
   background-size:auto;
   flex-basis:38.93%;
   height:auto;
-}
-#i5c609{
+    }
+    #i5c609{
   font-family:Helvetica, sans-serif;
   font-size:40px;
   text-align:left;
   margin:3px 0 10px 0;
   color:rgba(0,0,0,0.5);
-}
-#ipaedx{
+    }
+    #ipaedx{
   font-family:Arial, Helvetica, sans-serif;
   font-size:3px;
   text-align:left;
@@ -858,22 +858,22 @@ body{
   letter-spacing:0;
   font-weight:400;
   text-decoration:none;
-}
-#ir0u7i{
+    }
+    #ir0u7i{
   top:0;
   margin:0 0 0 0;
   padding:0 0 0 0;
   position:static;
   right:0;
   opacity:1;
-}
-#iacqum{
+    }
+    #iacqum{
   height:300px;
   font-size:60px;
   width:1100px;
   margin:0 0 0 20px;
-}
-#i0f3os{
+    }
+    #i0f3os{
   background-image:url('/Users/nam-yunju/hoonlab6.github.io/assets/img/people/hkim.jpg');
   background-repeat:repeat;
   background-position:left top;
@@ -881,15 +881,15 @@ body{
   background-size:auto;
   flex-basis:38.93%;
   height:auto;
-}
-#i8ke2j{
+    }
+    #i8ke2j{
   font-family:Helvetica, sans-serif;
   font-size:40px;
   text-align:left;
   margin:3px 0 10px 0;
   color:rgba(0,0,0,0.5);
-}
-#ipaps1{
+    }
+    #ipaps1{
   font-family:Arial, Helvetica, sans-serif;
   font-size:3px;
   text-align:left;
@@ -901,26 +901,26 @@ body{
   letter-spacing:0;
   font-weight:400;
   text-decoration:none;
-}
-#i81ypu{
+    }
+    #i81ypu{
   top:0;
   margin:0 0 0 0;
   padding:0 0 0 0;
   position:static;
   right:0;
   opacity:1;
-}
-#id5pw6{
+    }
+    #id5pw6{
   height:300px;
   font-size:60px;
   width:1100px;
   margin:0 0 0 20px;
-}
-#imp313{
+    }
+    #imp313{
   width:210px;
   height:280px;
-}
-#iaulbg{
+    }
+    #iaulbg{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -929,8 +929,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#i2y8d5{
+    }
+    #i2y8d5{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -938,154 +938,154 @@ body{
   font-size:13px;
   line-height:normal;
   font-family:"Helvetica Neue";
-  color:rgb(0, 0, 0);
-}
-#ippo4p{
+  color:rgb(0, 0, 0);   
+    }
+    #ippo4p{
   letter-spacing:0px;
-}
-#if8dqj{
-  width:210px;
-  height:280px;
-  margin:0 0 0 40px;
-}
-#ihbhow{
-  margin:0px;
-  font-variant-numeric:normal;
-  font-variant-east-asian:normal;
-  font-stretch:normal;
-  font-size:13px;
-  line-height:normal;
-  font-family:"Helvetica Neue";
-  color:rgb(0, 0, 0);
-}
-#iku6qa{
-  margin:0px;
-  font-variant-numeric:normal;
-  font-variant-east-asian:normal;
-  font-stretch:normal;
-  font-size:13px;
-  line-height:normal;
-  font-family:"Helvetica Neue";
-  color:rgb(0, 0, 0);
-}
-#ics9tw{
-  margin:0px;
-  font-variant-numeric:normal;
-  font-variant-east-asian:normal;
-  font-stretch:normal;
-  font-size:13px;
-  line-height:normal;
-  font-family:"Helvetica Neue";
-  color:rgb(0, 0, 0);
-}
-#icvds3{
-  margin:0px;
-  font-variant-numeric:normal;
-  font-variant-east-asian:normal;
-  font-stretch:normal;
-  font-size:13px;
-  line-height:normal;
-  font-family:"Helvetica Neue";
-  color:rgb(0, 0, 0);
-}
-#is029p{
-  margin:0px;
-  font-variant-numeric:normal;
-  font-variant-east-asian:normal;
-  font-stretch:normal;
-  font-size:13px;
-  line-height:normal;
-  font-family:"Helvetica Neue";
-  color:rgb(0, 0, 0);
-}
-#ijzsj1{
-  letter-spacing:0px;
-}
-#ijvd9g{
-  margin:0px;
-  font-variant-numeric:normal;
-  font-variant-east-asian:normal;
-  font-stretch:normal;
-  font-size:13px;
-  line-height:normal;
-  font-family:"Helvetica Neue";
-  color:rgb(0, 0, 0);
-}
-#ixvuv7{
-  margin:0px;
-  font-variant-numeric:normal;
-  font-variant-east-asian:normal;
-  font-stretch:normal;
-  font-size:13px;
-  line-height:normal;
-  font-family:"Helvetica Neue";
-  color:rgb(0, 0, 0);
-}
-#i78n0n{
-  margin:0px;
-  font-variant-numeric:normal;
-  font-variant-east-asian:normal;
-  font-stretch:normal;
-  font-size:13px;
-  line-height:normal;
-  font-family:"Helvetica Neue";
-  color:rgb(0, 0, 0);
-}
-#ix76ek{
-  margin:0px;
-  font-variant-numeric:normal;
-  font-variant-east-asian:normal;
-  font-stretch:normal;
-  font-size:13px;
-  line-height:normal;
-  font-family:"Helvetica Neue";
-  color:rgb(0, 0, 0);
-}
-#idx468{
-  margin:0px;
-  font-variant-numeric:normal;
-  font-variant-east-asian:normal;
-  font-stretch:normal;
-  font-size:13px;
-  line-height:normal;
-  font-family:"Helvetica Neue";
-  color:rgb(0, 0, 0);
-}
-#ima0cr{
-  margin:0px;
-  font-variant-numeric:normal;
-  font-variant-east-asian:normal;
-  font-stretch:normal;
-  font-size:13px;
-  line-height:normal;
-  font-family:"Helvetica Neue";
-  color:rgb(0, 0, 0);
-}
-#i5s48i{
-  margin:0px;
-  font-variant-numeric:normal;
-  font-variant-east-asian:normal;
-  font-stretch:normal;
-  font-size:13px;
-  line-height:normal;
-  font-family:"Helvetica Neue";
-  color:rgb(0, 0, 0);
-}
-#ilz4ba{
-  letter-spacing:0px;
-}
-#iwtja5{
+    }
+    #if8dqj{
   width:210px;
   height:280px;
   margin:0 0 0 40px;
-}
-#i0ojn2{
+    }
+    #ihbhow{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+    }
+    #iku6qa{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+    }
+    #ics9tw{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+    }
+    #icvds3{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+    }
+    #is029p{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+    }
+    #ijzsj1{
+  letter-spacing:0px;
+    }
+    #ijvd9g{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+    }
+    #ixvuv7{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+    }
+    #i78n0n{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+    }
+    #ix76ek{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+    }
+    #idx468{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+    }
+    #ima0cr{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+    }
+    #i5s48i{
+  margin:0px;
+  font-variant-numeric:normal;
+  font-variant-east-asian:normal;
+  font-stretch:normal;
+  font-size:13px;
+  line-height:normal;
+  font-family:"Helvetica Neue";
+  color:rgb(0, 0, 0);
+    }
+    #ilz4ba{
+  letter-spacing:0px;
+    }
+    #iwtja5{
+  width:210px;
+  height:280px;
+  margin:0 0 0 40px;
+    }
+    #i0ojn2{
   text-align:left;
   font-family:Arial, Helvetica, sans-serif;
   font-size:30px;
   margin:17px 0 15px 0;
-}
-#ihxcau{
+    }
+    #ihxcau{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -1094,8 +1094,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#ihj6vn{
+    }
+    #ihj6vn{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -1104,8 +1104,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#iuzb8u{
+    }
+    #iuzb8u{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -1114,8 +1114,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#ia1uvm{
+    }
+    #ia1uvm{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -1124,8 +1124,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#i6x96l{
+    }
+    #i6x96l{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -1134,11 +1134,11 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#ihf1ty{
+    }
+    #ihf1ty{
   letter-spacing:0px;
-}
-#igidaf{
+    }
+    #igidaf{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -1147,8 +1147,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#ibqb5f{
+    }
+     #ibqb5f{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -1157,25 +1157,25 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#iywbao{
+    }
+    #iywbao{
   letter-spacing:0px;
-}
-#igtdqu{
+    }
+    #igtdqu{
   letter-spacing:0px;
-}
-#i5au6h{
+    }
+    #i5au6h{
   width:210px;
   height:280px;
   padding:0 0 0 0;
   margin:0 0 0 40px;
-}
-#i2qq66{
+    }
+    #i2qq66{
   width:210px;
   height:280px;
   margin:0 0 0 40px;
-}
-#ipx5q4{
+    }
+    #ipx5q4{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -1184,8 +1184,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#ixt3fg{
+    }
+    #ixt3fg{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -1194,11 +1194,11 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#id39rz{
+    }
+    #id39rz{
   letter-spacing:0px;
-}
-#iteafc{
+    }
+    #iteafc{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -1207,8 +1207,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#id9dmw{
+    }
+    #id9dmw{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -1217,11 +1217,11 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#io3xxf{
+    }
+    #io3xxf{
   letter-spacing:0px;
-}
-#i06rvg{
+    }
+    #i06rvg{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -1230,8 +1230,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#ijr39n{
+    }
+    #ijr39n{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -1240,8 +1240,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#ib4fz3{
+    }
+    #ib4fz3{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -1250,8 +1250,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#i8dnzp{
+    }
+    #i8dnzp{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -1260,8 +1260,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#ikh5i9{
+    }      
+    #ikh5i9{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -1270,11 +1270,11 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#iyf78p{
+    }
+    #iyf78p{
   letter-spacing:0px;
-}
-#ihf71g{
+    }
+    #ihf71g{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -1283,8 +1283,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#iwywcj{
+    }
+    #iwywcj{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -1293,11 +1293,11 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#i1k4g6{
+    }
+    #i1k4g6{
   letter-spacing:0px;
-}
-#i1tkzi{
+    }
+    #i1tkzi{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -1306,8 +1306,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#iuv3yg{
+    }
+    #iuv3yg{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -1316,8 +1316,8 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-#iw17jh{
+    }
+    #iw17jh{
   margin:0px;
   font-variant-numeric:normal;
   font-variant-east-asian:normal;
@@ -1326,9 +1326,9 @@ body{
   line-height:normal;
   font-family:"Helvetica Neue";
   color:rgb(0, 0, 0);
-}
-@media (max-width: 768px){
+    }
+    @media (max-width: 768px){
   .row{
     flex-wrap:wrap;
   }
-}
+    }
