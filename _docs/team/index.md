@@ -5,13 +5,14 @@ css:
   - /assets/css/style.css
 ---
 
-<style> 
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=PT+Sans&display=swap');
-
-editor {
-    font-family: "Open Sans" !important;
+<head>
+<link href='https://fonts.googleapis.com/css?family=Atma' rel='stylesheet'>
+<style>
+body {
+    font-family: 'Atma';font-size: 22px;
 }
 </style>
+</head>
 
 # **TEAM HOON_test**
 {:.text-center}
@@ -44,11 +45,11 @@ editor {
 .card:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
-.img {
-    border-radius: 5px 5px 0 0;
+img {
+  border-radius: 5px 5px 0 0;
 }
 .container {
-  padding: 10px 16px;
+  padding: 2px 16px;
 }
 .card button {
   border: none;
