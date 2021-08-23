@@ -55,6 +55,8 @@ css:
   </div>
 </div>
 
+<p>
+</p>
 
 <div class="card">
   <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seunghyun Kang" style="width:100%">
