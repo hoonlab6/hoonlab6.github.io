@@ -13,7 +13,6 @@ editor {
 }
 </style>
 
-
 # **TEAM HOON_test**
 {:.text-center}
 
@@ -40,12 +39,30 @@ editor {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
   width: 40%;
+  border-radius: 5px;
+}
+.img {
+    border-radius: 5px 5px 0 0;
 }
 .card:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 .container {
-  padding: 2px 16px;
+  padding: 2px 20px;
+}
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+.card button:hover {
+  opacity: 0.7;
 }
 </style>
 </head>
