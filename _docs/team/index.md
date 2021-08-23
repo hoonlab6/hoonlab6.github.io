@@ -88,9 +88,11 @@ img {
     <h4><b>Seunghyun Kang, BS</b></h4> 
     <p>Research Assistant</p> 
     <p>Extrachromosomal DNA in Gastric Cancer</p>
+    <p><button>Read more</button></p>
   </div>
 </div>
-
+<p>
+</p>
 </body>
 
 
