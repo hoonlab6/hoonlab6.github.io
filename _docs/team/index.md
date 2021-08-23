@@ -6,10 +6,10 @@ css:
 ---
 
 <head>
-<link href='https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap' rel='stylesheet'>
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Ubuntu:wght@300&display=swap" rel="stylesheet">
 <style>
 body {
-    font-family: 'Ubuntu:wght@300&display=swap';font-size: 22px;
+    font-family: 'Lato:wght@300&family=Ubuntu:wght@300&display=swap';font-size: 22px;
 }
 </style>
 </head>
@@ -39,7 +39,7 @@ body {
 .card {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
-  width: 50%;
+  width: 30%;
   border-radius: 5px;
 }
 .card:hover {
