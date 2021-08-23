@@ -47,7 +47,7 @@ css:
 
 <body>
 <div class="card">
-  <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" style="width:70%">
+  <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" style="width:100%">
   <div class="container">
     <h4><b>Heesuk Chung</b></h4> 
     <p>Research Assistant</p> 
