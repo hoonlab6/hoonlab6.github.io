@@ -6,10 +6,10 @@ css:
 ---
 
 <head>
-<link href='https://fonts.googleapis.com/css?family=Atma' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Arvo' rel='stylesheet'>
 <style>
 body {
-    font-family: 'Atma';font-size: 22px;
+    font-family: 'Arvo';font-size: 22px;
 }
 </style>
 </head>
@@ -39,7 +39,7 @@ body {
 .card {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
-  width: 40%;
+  width: 50%;
   border-radius: 5px;
 }
 .card:hover {
