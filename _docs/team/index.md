@@ -6,10 +6,10 @@ css:
 ---
 
 <head>
-<link href='https://fonts.googleapis.com/css?family=Arvo' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap' rel='stylesheet'>
 <style>
 body {
-    font-family: 'Arvo';font-size: 22px;
+    font-family: 'Ubuntu:wght@300&display=swap';font-size: 22px;
 }
 </style>
 </head>
