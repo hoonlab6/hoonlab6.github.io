@@ -5,9 +5,14 @@ css:
   - /assets/css/style.css
 ---
 
-<style>
+<style> 
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=PT+Sans&display=swap');
+
+editor {
+    font-family: "Open Sans" !important;
+}
 </style>
+
 
 # **TEAM HOON_test**
 {:.text-center}
@@ -56,8 +61,6 @@ css:
 </div>
 
 <p>
-
-
 </p>
 
 <div class="card">
