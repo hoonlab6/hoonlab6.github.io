@@ -49,27 +49,24 @@ css:
 <div class="card">
   <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" style="width:100%">
   <div class="container">
-    <h4><b>Heesuk Chung</b></h4> 
+    <h4><b>Heesuk Chung, BS</b></h4> 
     <p>Research Assistant</p> 
     <p>Extrachromosomal DNA in brain tumor</p>
   </div>
 </div>
 
+
+<div class="card">
+  <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seunghyun Kang" style="width:100%">
+  <div class="container">
+    <h4><b>Seunghyun Kang, BS</b></h4> 
+    <p>Research Assistant</p> 
+    <p>Extrachromosomal DNA in Gastric Cancer</p>
+  </div>
+</div>
+
 </body>
 
-
-
-<div class="row"><div class="col-sm-4">
-<div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="SeungHyun Kang" />
-    <div class="go-top">
-        <p>Research Assistant, 05/21</p>
-        <p>Extrachromosomal DNA in Gastric Cancer</p>
-        <span class="social-icons"><a href="{{ site.url }}/people/sk_kang/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
-    </div>
-    <div class="phototag"><a href="{{ site.url }}/people/sk_kang">Seunghyun Kang, BS</a></div>
-</div></div>
-</div>
 
 <div class="row"><div class="col-sm-4">
 <div class="holder smooth">
