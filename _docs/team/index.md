@@ -109,7 +109,6 @@ img {
 
 <body>
 <div class="card">
- <div class="card horizontal">
   <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" style="width:100%">
   <div class="container">
     <h4><b>Heesuk Chung, BS</b></h4> 
