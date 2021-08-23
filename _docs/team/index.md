@@ -41,14 +41,14 @@ editor {
   width: 40%;
   border-radius: 5px;
 }
-.img {
-    border-radius: 5px 5px 0 0;
-}
 .card:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
+.img {
+    border-radius: 5px 5px 0 0;
+}
 .container {
-  padding: 2px 20px;
+  padding: 10px 16px;
 }
 .card button {
   border: none;
@@ -74,6 +74,7 @@ editor {
     <h4><b>Heesuk Chung, BS</b></h4> 
     <p>Research Assistant</p> 
     <p>Extrachromosomal DNA in brain tumor</p>
+    <p><button>Read more</button></p>
   </div>
 </div>
 
