@@ -104,6 +104,7 @@ img {
 .card .card-image {
   position: relative;
 }
+multi {break-before: column;}
 </style>
 </head>
 
@@ -131,13 +132,12 @@ img {
     <h4><b>Seunghyun Kang, BS</b></h4> 
     <p>Research Assistant</p> 
     <p>Extrachromosomal DNA in Gastric Cancer</p>
+    <a href="{{ site.url }}/people/sk_kang" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
+    </a>
   </div>
 </div>
-
-<style>
-multi {break-before: column;}
-</style>
+<div class="multi">
 
 <div class="card">
 <div class="col-md-offset-1 col-md-5 col-xs-12">
