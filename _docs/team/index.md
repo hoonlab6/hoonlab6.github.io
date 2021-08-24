@@ -165,7 +165,6 @@ img {
 </div>
 
 </body>
-<p></p>
 
 ## Interns
 
