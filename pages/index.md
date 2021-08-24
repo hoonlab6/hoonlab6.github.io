@@ -9,10 +9,10 @@ permalink: /
 ### Our lab is Computational Biomedicine [@hoonbiolab](https://twitter.com/hoonbiolab).
 
 <head>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Karla:wght@300&display=swap" rel="stylesheet">
 <style>
 body {
-    font-family: 'Noto Sans', sans-serif; font-size: 22px;
+    font-family: 'Karla', sans-serif; font-size: 22px;
 }
 .wrapper {
     display:flex;
