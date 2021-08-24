@@ -6,10 +6,10 @@ css:
 ---
 
 <head>
-<link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap" rel="stylesheet">
 <style>
 body {
-    font-family: 'Poppins', sans-serif; 22px;
+    font-family: 'Noto Sans', sans-serif; font-size: 22px;
 }
 </style>
 
@@ -166,7 +166,7 @@ img {
 
 </body>
 
-## Interns
+## **Interns**
 
 <body>
 
@@ -222,7 +222,7 @@ img {
 
 </body>
 
-## Staffs
+## **Staffs**
 
 <body>
 <div class="card">
