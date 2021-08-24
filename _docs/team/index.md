@@ -6,10 +6,10 @@ css:
 ---
 
 <head>
-<link href="https://fonts.googleapis.com/css2?family=Karla:wght@300&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Sarabun&display=swap" rel="stylesheet">
 <style>
 body {
-    font-family: 'Karla', sans-serif; font-size: 22px;
+    font-family: 'Sarabun', sans-serif; font-size: 22px;
 }
 </style>
 </head>
@@ -110,10 +110,6 @@ multi {break-before: column;}
 
 <body>
 <div class="card">
- <div class="row">
-      <div class="col-md-offset-1 col-md-5 col-xs-12">
-        <div class="card horizontal">
-         <div class="card-image">
   <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" style="width:100%">
   <div class="container">
     <h4><b>Heesuk Chung, BS</b></h4> 
@@ -124,9 +120,6 @@ multi {break-before: column;}
 </div>
 
 <div class="card">
-<div class="col-md-offset-1 col-md-5 col-xs-12">
-        <div class="card horizontal">
-          <div class="card-image">
   <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seunghyun Kang" style="width:100%">
   <div class="container">
     <h4><b>Seunghyun Kang, BS</b></h4> 
@@ -140,9 +133,6 @@ multi {break-before: column;}
 <div class="multi">
 
 <div class="card">
-<div class="col-md-offset-1 col-md-5 col-xs-12">
-        <div class="card horizontal">
-          <div class="card-image">
     <img src="{{ site.url }}/assets/img/people/sy_kim.jpg" alt="Soyeon Kim" style="width:100%">
     <div class="container">
      <h4><b>Soyeon Kim, BS</b></h4> 
@@ -152,17 +142,16 @@ multi {break-before: column;}
   </div>
 </div>
 
-<div class="row"><div class="col-sm-4">
-<div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/dh_joe.png" alt="Daeho_Joe" />
-    <div class="go-top">
-        <p>Research Assistant, 04/01</p>
-        <p>Stem cell research, Bioinformatics</p>
-        <span class="social-icons"><a href="{{ site.url }}/people/dh_joe/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
-    </div>
-    <div class="phototag"><a href="{{ site.url }}/people/dh_joe">Daeho Joe, BS</a></div>
-</div></div>
+<div class="card">
+    <img src="{{ site.url }}/assets/img/people/dh_joe.png" alt="Daeho_Joe" style="width:100%">
+    <div class="container">
+         <h4><b>Daeho Joe, BS</b></h4> 
+    <p>Research Assistant</p> 
+    <p>Stem cell research, Bioinformatics</p>
+    <p><button>Read more</button></p>
+  </div>
 </div>
+
 
  
 ## Interns
