@@ -88,29 +88,29 @@ img {
 </style>
 </head>
 
-<body>
+
 
 # **TEAM HOON**
 {:.text-center}
 
 ## **Principal Investigator**
 
-<div class="row"><div class="col-sm-12">
-<div class="holder smooth">
+<body>
+<div class="card">
     <img src="{{ site.url }}/assets/img/people/Profile-184998_Kim_H.jpg" alt="Hoon Kim" />
-    <div class="go-top">
-        Hoon Kim, PhD
+    <div class="container">
+        <h4><b>Hoon Kim, PhD</b></h4> 
         <p>Associate Professor</p>
-        <span class="social-icons"><a href="{{ site.url }}/about"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a><a href="https://twitter.com/{{ site.owner.twitter }}"  class="social-icons" target="_blank" title="Follow @wisekh6"> <i class="fa fa-twitter"></i></a><a href="{{ site.url }}/contact"  class="social-icons" title="Contact"> <i class="fa fa-envelope"></i></a></span>
-    </div>
-    <div class="phototag"><a href="{{ site.url }}/about">Hoon Kim, PhD</a></div>
+        <a href="{{ site.url }}/about" target="_blank" rel="noopener noreferrer">
+    <p><button>Read more</button></p>
+    </a>
+  </div>
 </div>
-</div></div>
-
+</body>
 
 ### **Students**
 
-
+<body>
 <div class="card">
   <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" style="width:100%">
   <div class="container">
@@ -164,11 +164,12 @@ img {
   </div>
 </div>
 
-
+</body>
 <p></p>
 
 ## Interns
-<p></p>
+
+<body>
 
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/jy_ko.png" alt="Junyong Ko" style="width:100%">
@@ -220,9 +221,11 @@ img {
   </div>
 </div>
 
+</body>
 
 ## Staffs
 
+<body>
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/ys_kim.png" alt="Yeonsik Kim" style="width:100%">
     <div class="container">
