@@ -1,9 +1,9 @@
-services:
-  - title: Research Software Engineering Services
-    url: https://stanford-rc.github.io/rse-services/
-    description: If you need help with software development, continuous integration, data structures, containers, or other work involving your analysis pipelines, RSE Services can offer it.
-    icon: https://raw.githubusercontent.com/stanford-rc/rse-services/master/assets/img/logo/logo-square.png
-    logo: https://raw.githubusercontent.com/stanford-rc/rse-services/master/assets/img/logo/logo-square.png
+Our Photo:
+  - title: Google Photo
+    url: https://photos.google.com/u/0/share/AF1QipP5EpeeFRyzUYlB05eRdj0uSO-OLeG7xh4LmiYNmyp2ULNzuxmsR5TXkR3aWW_oKQ?key=WVVKUUhyZExyMndIcnVlNTBUekhjdDlkdThDcjJ3
+    description: If you want to see our lab photo, click here
+    icon: file:///Users/nam-yunju/Desktop/4097bca9-fcc1-4587-b1f1-5924e0401367.png
+    logo: file:///Users/nam-yunju/Desktop/4097bca9-fcc1-4587-b1f1-5924e0401367.png
 resources:
   - title: Sherlock
     url: https://www.sherlock.stanford.edu/docs/overview/introduction/

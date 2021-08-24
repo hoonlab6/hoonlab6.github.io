@@ -70,13 +70,13 @@ body {
 <head>
 
 
-<h2>Rescent News</h2>
+<h2>Our Photo</h2>
 <div class="wrapper">
   {% for service in site.data.metadata.services %}<div class="box">
   <div class="text">
-    <div class="title">{{ service.name }}</div>
-      <p><img src="{{ service.logo }}" style="height:140px; position:absolute">
-       <span style="width:50%; float:right">{{ service.description }}</span>
+    <div class="title">{{ Google Photo.name }}</div>
+      <p><img src="{{ Google Photo.logo }}" style="height:140px; position:absolute">
+       <span style="width:50%; float:right">{{ Google Photo.description }}</span>
       </p>
     </div>
     <div class="act">
@@ -85,7 +85,7 @@ body {
   </div>{% endfor %}
 </div>
 
-<h2>Resources</h2>
+<h2>Recent News</h2>
 <div class="wrapper">
   {% for resource in site.data.metadata.resources %}<div class="box">
   <div class="text">
