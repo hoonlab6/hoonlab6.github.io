@@ -108,11 +108,9 @@ img {
 </style>
 </head>
 
-<div class="row">
-  <div class="col-sm-6">
-    <div class="card">
-      <div class="card-body">
-     <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" style="width:100%">
+<body>
+<div class="card">
+  <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" style="width:100%">
   <div class="container">
     <h4><b>Heesuk Chung, BS</b></h4> 
     <p>Research Assistant</p> 
@@ -120,13 +118,13 @@ img {
     <a href="{{ site.url }}/people/hs_chung/" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
-      </div>
-    </div>
   </div>
-  <div class="col-sm-6">
-    <div class="card">
-      <div class="card-body">
-        <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seunghyun Kang" style="width:100%">
+</div>
+
+<p></p>
+
+<div class="card">
+  <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seunghyun Kang" style="width:100%">
   <div class="container">
     <h4><b>Seunghyun Kang, BS</b></h4> 
     <p>Research Assistant</p> 
@@ -134,8 +132,6 @@ img {
     <a href="{{ site.url }}/people/sk_kang" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
-      </div>
-    </div>
   </div>
 </div>
 
@@ -161,6 +157,7 @@ img {
          <h4><b>Daeho Joe, BS</b></h4> 
     <p>Research Assistant</p> 
     <p>Stem cell research, Bioinformatics</p>
+     <a href="{{ site.url }}/people/dh_joe" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
   </div>
 </div>
@@ -169,80 +166,84 @@ img {
  
 ## Interns
 
-<div class="row"><div class="col-sm-4">
-<div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/jy_ko.png" alt="Junyong Ko" />
-    <div class="go-top">
-        <p>Junior, SKKU</p>
-        <p>TBD</p>
-        <span class="social-icons"><a href="{{ site.url }}/people/jy_ko/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
-    </div>
-    <div class="phototag"><a href="{{ site.url }}/people/jy_ko">Junyong Ko</a></div>
-</div></div>
+<div class="card">
+    <img src="{{ site.url }}/assets/img/people/jy_ko.png" alt="Junyong Ko" style="width:100%">
+ <div class="container">
+         <h4><b>Junyong Ko</b></h4> 
+    <p>Junior, SKKU</p> 
+    <p>TBD</p>
+     <a href="{{ site.url }}/people/jy_ko" target="_blank" rel="noopener noreferrer">
+    <p><button>Read more</button></p>
+  </div>
 </div>
 
-<div class="row"><div class="col-sm-4">
-<div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/yj_nam.jpg" alt="Yoonjoo Nam" />
-    <div class="go-top">
+<p></p>
+
+<div class="card">
+    <img src="{{ site.url }}/assets/img/people/yj_nam.jpg" alt="Yoonjoo Nam" style="width:100%">
+    <div class="container">
+    <h4><b>Yoonjoo Nam</b></h4> 
         <p>Senior,HanBat University</p>
         <p>TBD</p>
-        <span class="social-icons"><a href="{{ site.url }}/people/yj_nam/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
-    </div>
-    <div class="phototag"><a href="{{ site.url }}/people/yj_nam">Yoonjoo Nam</a></div>
-</div></div>
+         <a href="{{ site.url }}/people/yj_nam" target="_blank" rel="noopener noreferrer">
+   <p><button>Read more</button></p>
+  </div>
 </div>
 
-<div class="row"><div class="col-sm-4">
-<div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/ec_yeo.png" alt="Eunchae Yeo" />
-    <div class="go-top">
+<p></p>
+
+<div class="card">
+    <img src="{{ site.url }}/assets/img/people/ec_yeo.png" alt="Eunchae Yeo" style="width:100%">
+     <div class="container">
+         <h4><b>Eunchae Yeo</b></h4> 
         <p>BS, Korea University</p>
         <p>Biomedical Engineering, Programmimg, Cancer targeting, Drug discovery</p>
-        <span class="social-icons"><a href="{{ site.url }}/people/ec_yeo"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
-    </div>
-   <div class="phototag"><a href="{{ site.url }}/people/ec_yeo">Eunchae Yeo, BS</a></div>
-</div></div>
+         <a href="{{ site.url }}/people/ec_yeo" target="_blank" rel="noopener noreferrer">
+   <p><button>Read more</button></p>
+  </div>
 </div>
 
-<div class="row"><div class="col-sm-4">
-<div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/jw_shon.png" alt="Jiwon Shon" />
-    <div class="go-top">
-        <p>Ghent University, Global Campus</p>
+<p></p>
+
+<div class="card">
+    <img src="{{ site.url }}/assets/img/people/jw_shon.png" alt="Jiwon Shon" style="width:100%">
+    <div class="container">
+       <h4><b>Jiwon Shon</b></h4> 
+        <p>BS, Ghent University, Global Campus</p>
         <p>Immunology, Bioinformatics, Cancer genomics</p>
-        <span class="social-icons"><a href="{{ site.url }}/people/jw_shon"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
-    </div>
-    <div class="phototag"><a href="{{ site.url }}/people/jw_shon">Jiwon Shon</a></div>
-</div></div>
+         <a href="{{ site.url }}/people/jw_shon" target="_blank" rel="noopener noreferrer">
+   <p><button>Read more</button></p>
+  </div>
 </div>
 
 
 ## Staffs
 
-<div class="row"><div class="col-sm-4">
-<div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/ys_kim.png" alt="Yeonsik Kim" />
-    <div class="go-top">
+<div class="card">
+    <img src="{{ site.url }}/assets/img/people/ys_kim.png" alt="Yeonsik Kim" style="width:100%">
+    <div class="container">
+    <h4><b>Yeonsik Kim</b></h4>
         <p>Korea Polytechnic University</p>
         <p>languages(C, Java)</p>
-        <span class="social-icons"><a href="{{ site.url }}/people/ys_kim/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
-    </div>
-    <div class="phototag"><a href="{{ site.url }}/people/ys_kim">Yeonsik Kim</a></div>
-</div></div>
+        <a href="{{ site.url }}/people/ys_kim" target="_blank" rel="noopener noreferrer">
+   <p><button>Read more</button></p>
+  </div>
 </div>
 
-<div class="row"><div class="col-sm-4">
-<div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/yj_moon.png" alt="Youngjin Moon" />
-    <div class="go-top">
+<p></p>
+
+<div class="card">
+    <img src="{{ site.url }}/assets/img/people/yj_moon.png" alt="Youngjin Moon" style="width:100%">
+    <div class="container">
+    <h4><b>Youngjin Moon</b></h4>
         <p>Jeonbuk National University</p>
         <p>languqges(C, C++)</p>
-        <span class="social-icons"><a href="{{ site.url }}/people/yj_moon/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
-    </div>
-    <div class="phototag"><a href="{{ site.url }}/people/yj_moon">Youngjin Moon</a></div>
-</div></div>
+        <a href="{{ site.url }}/people/yj_moon" target="_blank" rel="noopener noreferrer">
+   <p><button>Read more</button></p>
+  </div>
 </div>
+
+</body>
 
 
 <!-- Open Positions, if any, will populate here -->
@@ -264,4 +265,3 @@ img {
   {% endfor %}
 </div></div>
 </div>
-</body>
