@@ -6,10 +6,10 @@ css:
 ---
 
 <head>
-<link href="https://fonts.googleapis.com/css2?family=Sarabun&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
 <style>
 body {
-    font-family: 'Sarabun', sans-serif; font-size: 22px;
+    font-family: 'Poppins', sans-serif; 22px;
 }
 </style>
 </head>
