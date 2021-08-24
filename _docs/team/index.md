@@ -6,10 +6,10 @@ css:
 ---
 
 <head>
-<link href="https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Ubuntu:wght@300&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap" rel="stylesheet">
 <style>
 body {
-    font-family: 'Lato:wght@300&family=Ubuntu:wght@300&display=swap';font-size: 22px;
+    font-family: 'Lato', snas-serif; font-size: 22px;
 }
 </style>
 </head>
@@ -109,6 +109,10 @@ img {
 
 <body>
 <div class="card">
+ <div class="row">
+      <div class="col-md-offset-1 col-md-5 col-xs-12">
+        <div class="card horizontal">
+         <div class="card-image">
   <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" style="width:100%">
   <div class="container">
     <h4><b>Heesuk Chung, BS</b></h4> 
@@ -118,10 +122,10 @@ img {
   </div>
 </div>
 
-<p>
-</p>
-
 <div class="card">
+<div class="col-md-offset-1 col-md-5 col-xs-12">
+        <div class="card horizontal">
+          <div class="card-image">
   <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seunghyun Kang" style="width:100%">
   <div class="container">
     <h4><b>Seunghyun Kang, BS</b></h4> 
