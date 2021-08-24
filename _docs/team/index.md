@@ -134,21 +134,18 @@ img {
     <p><button>Read more</button></p>
   </div>
 </div>
-<p>
-</p>
-</body>
 
-
-<div class="row"><div class="col-sm-4">
-<div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/sy_kim.jpg" alt="Soyeon Kim" />
-    <div class="go-top">
-        <p>Research Assistant, 07/01</p>
-        <p>Cancer Genomics</p>
-        <span class="social-icons"><a href="{{ site.url }}/people/sy_kim/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
-    </div>
-    <div class="phototag"><a href="{{ site.url }}/people/sy_kim">Soyeon Kim, BS</a></div>
-</div></div>
+<div class="card">
+<div class="col-md-offset-1 col-md-5 col-xs-12">
+        <div class="card horizontal">
+          <div class="card-image">
+    <img src="{{ site.url }}/assets/img/people/sy_kim.jpg" alt="Soyeon Kim" style="width:100%">
+    <div class="container">
+     <h4><b>Soyeon Kim, BS</b></h4> 
+    <p>Research Assistant</p> 
+    <p>Cancer Genomics</p>
+    <p><button>Read more</button></p>
+  </div>
 </div>
 
 <div class="row"><div class="col-sm-4">
@@ -240,7 +237,7 @@ img {
     <div class="phototag"><a href="{{ site.url }}/people/yj_moon">Youngjin Moon</a></div>
 </div></div>
 </div>
-
+</body>
 
 <!-- Open Positions, if any, will populate here -->
 
