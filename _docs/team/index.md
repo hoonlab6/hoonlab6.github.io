@@ -163,8 +163,10 @@ img {
 </div>
 
 
- 
+<p></p>
+
 ## Interns
+<p></p>
 
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/jy_ko.png" alt="Junyong Ko" style="width:100%">
