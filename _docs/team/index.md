@@ -115,9 +115,13 @@ multi {break-before: column;}
     <h4><b>Heesuk Chung, BS</b></h4> 
     <p>Research Assistant</p> 
     <p>Extrachromosomal DNA in brain tumor</p>
+    <a href="{{ site.url }}/people/hs_chung/" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
+    </a>
   </div>
 </div>
+
+<p></p>
 
 <div class="card">
   <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seunghyun Kang" style="width:100%">
@@ -132,15 +136,21 @@ multi {break-before: column;}
 </div>
 <div class="multi">
 
+<p></p>
+
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/sy_kim.jpg" alt="Soyeon Kim" style="width:100%">
     <div class="container">
      <h4><b>Soyeon Kim, BS</b></h4> 
     <p>Research Assistant</p> 
     <p>Cancer Genomics</p>
+    <a href="{{ site.url }}/people/sy_kim" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
+    </a>
   </div>
 </div>
+
+<p></p>
 
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/dh_joe.png" alt="Daeho_Joe" style="width:100%">
