@@ -72,15 +72,15 @@ body {
 
 <h2>Our Photo</h2>
 <div class="wrapper">
-  {% for service in site.data.metadata.services %}<div class="box">
+  {% for Photo in site.data.metadata.Photo %}<div class="box">
   <div class="text">
-    <div class="title">{{ Google Photo.name }}</div>
+    <div class="title">{{ Photo.name }}</div>
       <p><img src="{{ Google Photo.logo }}" style="height:140px; position:absolute">
-       <span style="width:50%; float:right">{{ Google Photo.description }}</span>
+       <span style="width:50%; float:right">{{ Photo.description }}</span>
       </p>
     </div>
     <div class="act">
-	<a href="{{ Google Photo.url }}" target="_blank"><div class="card-button">Click Here</div></a>
+	<a href="{{ Photo.url }}" target="_blank"><div class="card-button">Click Here</div></a>
     </div>
   </div>{% endfor %}
 </div>
