@@ -135,6 +135,10 @@ img {
   </div>
 </div>
 
+<style>
+multi {break-before: column;}
+</style>
+
 <div class="card">
 <div class="col-md-offset-1 col-md-5 col-xs-12">
         <div class="card horizontal">
