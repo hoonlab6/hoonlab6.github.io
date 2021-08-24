@@ -104,8 +104,8 @@ body {
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .button {
-  padding: 15px 25px;
-  font-size: 24px;
+  padding: 12px 20px;
+  font-size: 22px;
   text-align: center;
   cursor: pointer;
   outline: none;
@@ -117,7 +117,7 @@ body {
 }
 .button:hover {background-color: #3e8e41}
 .button:active {
-  background-color: #3e8e41;
+  background-color: #1E2D6A;
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }
@@ -128,5 +128,5 @@ body {
 <button class="button"><a href='https://photos.google.com/u/0/share/AF1QipP5EpeeFRyzUYlB05eRdj0uSO-OLeG7xh4LmiYNmyp2ULNzuxmsR5TXkR3aWW_oKQ?key=WVVKUUhyZExyMndIcnVlNTBUekhjdDlkdThDcjJ3'>Click Here</a></button> to learn more about our lab
 
 </body>
-</html>
+
 
