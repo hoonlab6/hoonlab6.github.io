@@ -14,7 +14,7 @@ body {
 </style>
 </head>
 
-# **TEAM HOON_test2**
+# **TEAM HOON**
 {:.text-center}
 
 ## **Principal Investigator**
@@ -104,13 +104,15 @@ img {
 .card .card-image {
   position: relative;
 }
-multi {break-before: column;}
+
 </style>
 </head>
 
-<body>
-<div class="card">
-  <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" style="width:100%">
+<div class="row">
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">
+     <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" style="width:100%">
   <div class="container">
     <h4><b>Heesuk Chung, BS</b></h4> 
     <p>Research Assistant</p> 
@@ -118,13 +120,13 @@ multi {break-before: column;}
     <a href="{{ site.url }}/people/hs_chung/" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
+      </div>
+    </div>
   </div>
-</div>
-
-<p></p>
-
-<div class="card">
-  <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seunghyun Kang" style="width:100%">
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">
+        <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seunghyun Kang" style="width:100%">
   <div class="container">
     <h4><b>Seunghyun Kang, BS</b></h4> 
     <p>Research Assistant</p> 
@@ -132,9 +134,10 @@ multi {break-before: column;}
     <a href="{{ site.url }}/people/sk_kang" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
+      </div>
+    </div>
   </div>
 </div>
-<div class="multi">
 
 <p></p>
 
