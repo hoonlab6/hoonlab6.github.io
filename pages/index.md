@@ -8,16 +8,18 @@ permalink: /
 
 ### Our lab is Computational Biomedicine [@hoonbiolab](https://twitter.com/hoonbiolab).
 
+<head>
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap" rel="stylesheet">
 <style>
-@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
-
+body {
+    font-family: 'Lato', snas-serif; font-size: 22px;
+}
 .wrapper {
     display:flex;
     flex-direction:row;
     flex-wrap:wrap;
     justify-content:center;
 }
-
 .box {
     background-color: #fafafa;
     box-shadow: 0px 2px 2px rgba(0,0,0,.2), 0px 0px 2px rgba(0,0,0,.2);
@@ -28,19 +30,15 @@ permalink: /
     flex-direction:column;
     cursor:pointer;
 }
-
 .box:hover {
     box-shadow: 0px 15px 20px rgba(0,0,0,.25),0px 0px 30px rgba(0,0,0,.1);
 }
-
 .box .text {
     padding: 24px;
 }
-
 .box .bb {
     border: 1px solid red;
 }
-
 .box .title {
     color:  black;
     font-weight: 500;
@@ -48,19 +46,16 @@ permalink: /
     margin-top: -2px;
     margin-bottom: 16px;
 }
-
 .box p {
     color: rgba(0,0,0,.5);
     font-size: 16px;
     line-height: 24px;
     margin: 0px;
 }
-
 .box .act {
     padding: 8px 0;
     text-align: right;
 }
-
 .card-button {
     text-transform: uppercase;
     display: inline-block;
@@ -72,6 +67,7 @@ permalink: /
     cursor: pointer;
 }
 </style>
+<head>
 
 
 <h2>Rescent News</h2>
