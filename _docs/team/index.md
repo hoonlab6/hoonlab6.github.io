@@ -6,10 +6,10 @@ css:
 ---
 
 <head>
-<link href="https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
 <style>
 body {
-    font-family: 'Lato', snas-serif; font-size: 22px;
+    font-family: 'Noto Sans', sans-serif; font-size: 22px;
 }
 </style>
 </head>
