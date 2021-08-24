@@ -6,7 +6,7 @@ title: "Contact"
 
 <i class="fa fa-twitter"></i> Follow <a href="https://twitter.com/wisekh6" title="Follow @wisekh6" alt="Follow @wisekh6">@wisekh6</a> for lab updates and information related to our research.
 
-### Correspondence
+## **Correspondence**
 
 Hoon Kim, PhD  
 
