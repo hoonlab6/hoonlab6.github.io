@@ -100,5 +100,33 @@ body {
   </div>{% endfor %}
 </div>
 
-For getting started with a general linux cluster, see the {% include doc.html name="Getting Started" path="getting-started" %} page. If you need help or want to improve the site, please [open an issue]({{ site.repo }}/issues) or
-contact us at [{{ site.email }}](mailto:{{ site.email }})
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.button {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #04AA6D;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+.button:hover {background-color: #3e8e41}
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+</style>
+</head>
+<body>
+
+<button class="button"><a href='https://photos.google.com/u/0/share/AF1QipP5EpeeFRyzUYlB05eRdj0uSO-OLeG7xh4LmiYNmyp2ULNzuxmsR5TXkR3aWW_oKQ?key=WVVKUUhyZExyMndIcnVlNTBUekhjdDlkdThDcjJ3'>Click Here</a></button> to learn more about our lab
+
+</body>
+</html>
+
