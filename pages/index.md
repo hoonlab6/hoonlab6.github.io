@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SRCC Documentation Portal
+title: Hoon Lab at Pharmacy, SKKU
 permalink: /
 ---
 
@@ -110,7 +110,7 @@ body {
   cursor: pointer;
   outline: none;
   color: #fff;
-  background-color: #04AA6D;
+  background-color: #1E2D6A;
   border: none;
   border-radius: 15px;
   box-shadow: 0 9px #999;

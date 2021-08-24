@@ -240,7 +240,7 @@ multi {break-before: column;}
     <div class="phototag"><a href="{{ site.url }}/people/yj_moon">Youngjin Moon</a></div>
 </div></div>
 </div>
-</body>
+
 
 <!-- Open Positions, if any, will populate here -->
 
@@ -261,4 +261,4 @@ multi {break-before: column;}
   {% endfor %}
 </div></div>
 </div>
-
+</body>
