@@ -80,7 +80,7 @@ body {
       </p>
     </div>
     <div class="act">
-	<a href="{{ service.url }}" target="_blank"><div class="card-button">Documentation</div></a>
+	<a href="{{ Google Photo.url }}" target="_blank"><div class="card-button">Click Here</div></a>
     </div>
   </div>{% endfor %}
 </div>
