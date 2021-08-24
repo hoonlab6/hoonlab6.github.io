@@ -11,6 +11,7 @@ body {
     font-family: 'Noto Sans', sans-serif; font-size: 22px;
 }
 </style>
+</head>
 
 <i class="fa fa-twitter"></i> Follow <a href="https://twitter.com/wisekh6" title="Follow @wisekh6" alt="Follow @wisekh6">@wisekh6</a> for lab updates and information related to our research.
 
