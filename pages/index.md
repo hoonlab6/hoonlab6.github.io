@@ -115,7 +115,7 @@ body {
   border-radius: 15px;
   box-shadow: 0 9px #999;
 }
-.button:hover {background-color: #3e8e41}
+.button:hover {background-color: #1E2D6A}
 .button:active {
   background-color: #1E2D6A;
   box-shadow: 0 5px #666;
