@@ -7,12 +7,17 @@ css:
 
 
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap" rel="stylesheet">
+
 <style>
   #box1 { text align: center; }
 body {
     font-family: 'Noto Sans', sans-serif; font-size: 22px;
 }
+</style>
+
+<style>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
 .card {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
