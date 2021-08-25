@@ -117,7 +117,7 @@ img {
 <p></p>
 
 <div class="card">
-    <img src="{{ site.url }}/assets/img/people/dh_joe.png" alt="Daeho_Joe" style="width:100%">
+    <img src="{{ site.url }}/assets/img/people/dh_joe.png" alt="Daeho Joe" style="width:100%">
     <div class="container">
          <h4><b>Daeho Joe, BS</b></h4> 
     <p>Research Assistant</p> 
@@ -132,7 +132,7 @@ img {
 
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/jy_ko.png" alt="Junyong Ko" style="width:100%">
- <div class="container">
+    <div class="container">
          <h4><b>Junyong Ko</b></h4> 
     <p>Junior, SKKU</p> 
     <p>TBD</p>
@@ -146,10 +146,10 @@ img {
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/yj_nam.jpg" alt="Yoonjoo Nam" style="width:100%">
     <div class="container">
-    <h4><b>Yoonjoo Nam</b></h4> 
-        <p>Senior,HanBat University</p>
-        <p>TBD</p>
-         <a href="{{ site.url }}/people/yj_nam" target="_blank" rel="noopener noreferrer">
+         <h4><b>Yoonjoo Nam</b></h4> 
+    <p>Senior,HanBat University</p>
+    <p>TBD</p>
+     <a href="{{ site.url }}/people/yj_nam" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
   </div>
 </div>
@@ -159,8 +159,8 @@ img {
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/ec_yeo.png" alt="Eunchae Yeo" style="width:100%">
      <div class="container">
-         <h4><b>Eunchae Yeo</b></h4> 
-        <p>BS, Korea University</p>
+          <h4><b>Eunchae Yeo</b></h4> 
+     <p>BS, Korea University</p>
         <p>Biomedical Engineering, Programmimg, Cancer targeting, Drug discovery</p>
          <a href="{{ site.url }}/people/ec_yeo" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
@@ -172,7 +172,7 @@ img {
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/jw_shon.png" alt="Jiwon Shon" style="width:100%">
     <div class="container">
-       <h4><b>Jiwon Shon</b></h4> 
+           <h4><b>Jiwon Shon</b></h4> 
         <p>BS, Ghent University, Global Campus</p>
         <p>Immunology, Bioinformatics, Cancer genomics</p>
          <a href="{{ site.url }}/people/jw_shon" target="_blank" rel="noopener noreferrer">
