@@ -89,18 +89,18 @@ img {vertical-align: middle;
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="{{site.url}}/assets/img/slideshow/photo1.jpg}" style="width:100%">
+  <img src="{{site.url}}/assets/img/slideshow/photo1.png" style="width:100%">
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="{{site.url}}/assets/img/slideshow/photo2.jpg" style="width:100%">
+  <img src="{{site.url}}/assets/img/slideshow/photo2.png" style="width:100%">
   <div class="text">Caption Two</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="{{site.url}}/assets/img/slideshow/photo3.jpg" style="width:100%">
+  <img src="{{site.url}}/assets/img/slideshow/photo3.png" style="width:100%">
 </div>
 
 </div>
