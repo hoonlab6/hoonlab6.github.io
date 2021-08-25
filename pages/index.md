@@ -8,7 +8,7 @@ permalink: /
 
 ### Our lab is Computational Biomedicine [@hoonbiolab](https://twitter.com/hoonbiolab).
 
-<head>
+
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap" rel="stylesheet">
 <style>
 body {
@@ -67,7 +67,7 @@ body {
     cursor: pointer;
 }
 </style>
-<head>
+
 
 
 <h2>Our Photo</h2>

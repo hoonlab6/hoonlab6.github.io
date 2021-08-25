@@ -2,7 +2,8 @@
 layout: page
 title: Publications
 ---
-<head>
+
+
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap" rel="stylesheet">
 <style>
 body {
