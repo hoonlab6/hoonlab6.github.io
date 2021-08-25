@@ -5,7 +5,7 @@ css:
   - /assets/css/style.css
 ---
 
-<head>
+
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap" rel="stylesheet">
 <style>
   #box1 { text align: center; }
@@ -82,7 +82,7 @@ img {
   position: relative;
 }
 </style>
-</head>
+
 
 
 
