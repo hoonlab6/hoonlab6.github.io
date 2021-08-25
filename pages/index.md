@@ -105,15 +105,6 @@ img {vertical-align: middle;
   <img src="{{site.url}}/assets/img/slideshow/photo3.png" style="width:100%">
 </div>
 
-</div>
-<br>
-
-<div style="text-align:center">
-  <span class="dot"></span> 
-  <span class="dot"></span> 
-  <span class="dot"></span> 
-</div>
-
 <script>
 var slideIndex = 0;
 showSlides();
