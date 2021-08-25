@@ -58,7 +58,7 @@ Available soon
   {% endfor %}
 </div></div>
 </div>
-</body>
+
 
 <script>
 $(function() {
