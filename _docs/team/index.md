@@ -11,11 +11,7 @@ css:
 body {
     font-family: 'Noto Sans', sans-serif; font-size: 22px;
 }
-</style>
-
-
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
 .card {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
@@ -84,18 +80,18 @@ img {
 .card .card-image {
   position: relative;
 }
-
 </style>
 </head>
 
 
+<body>
 
 # **TEAM HOON**
 {:.text-center}
 
 ## **Principal Investigator**
 
-<body>
+
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/Profile-184998_Kim_H.jpg" alt="Hoon Kim" />
     <div class="container">
@@ -106,11 +102,9 @@ img {
     </a>
   </div>
 </div>
-</body>
 
 ### **Students**
 
-<body>
 <div class="card">
   <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" style="width:100%">
   <div class="container">
@@ -163,13 +157,13 @@ img {
     <p><button>Read more</button></p>
   </div>
 </div>
-</body>
+
 
 <p></p>
 
 ## **Interns**
 
-<body>
+
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/jy_ko.png" alt="Junyong Ko" style="width:100%">
  <div class="container">
@@ -219,11 +213,11 @@ img {
    <p><button>Read more</button></p>
   </div>
 </div>
-</body>
+
 
 ## **Staffs**
 
-<body>
+
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/ys_kim.png" alt="Yeonsik Kim" style="width:100%">
     <div class="container">
@@ -248,7 +242,7 @@ img {
   </div>
 </div>
 
-</body>
+
 
 
 <!-- Open Positions, if any, will populate here -->
@@ -270,3 +264,4 @@ img {
   {% endfor %}
 </div></div>
 </div>
+</body>
