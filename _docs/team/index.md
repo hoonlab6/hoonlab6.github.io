@@ -85,7 +85,7 @@ img {
 </head>
 
 
-<body>
+
 
 **<div id="box1">TEAM HOON</div>**
 
@@ -265,4 +265,3 @@ img {
   {% endfor %}
 </div></div>
 </div>
-</body>
