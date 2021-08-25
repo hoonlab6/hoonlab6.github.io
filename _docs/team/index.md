@@ -86,10 +86,10 @@ img {
 
 <body>
 
-# **TEAM HOON**
+# TEAM HOON
 {:.text-center}
 
-## **Principal Investigator**
+## Principal Investigator
 
 
 <div class="card">
@@ -103,7 +103,7 @@ img {
   </div>
 </div>
 
-### **Students**
+### Students
 
 <div class="card">
   <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" style="width:100%">
@@ -161,7 +161,7 @@ img {
 
 <p></p>
 
-## **Interns**
+## Interns
 
 
 <div class="card">
@@ -215,7 +215,7 @@ img {
 </div>
 
 
-## **Staffs**
+## Staffs
 
 
 <div class="card">
