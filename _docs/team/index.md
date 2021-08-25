@@ -129,6 +129,19 @@ img {
 <p></p>
 
 <div class="card">
+    <img src="{{ site.url }}/assets/img/people/jy_ko.png" alt="Junyong Ko" style="width:100%">
+    <div class="container">
+         <h4><b>Junyong Ko</b></h4> 
+    <p>Junior, SKKU</p> 
+    <p>TBD</p>
+     <a href="{{ site.url }}/people/jy_ko" target="_blank" rel="noopener noreferrer">
+    <p><button>Read more</button></p>
+  </div>
+</div>
+
+<p></p>
+
+<div class="card">
     <img src="{{ site.url }}/assets/img/people/yj_nam.jpg" alt="Yoonjoo Nam" style="width:100%">
     <div class="container">
          <h4><b>Yoonjoo Nam</b></h4> 
@@ -194,24 +207,3 @@ img {
 </div>
 
 
-
-
-<!-- Open Positions, if any, will populate here -->
-
-<div class="row">
-<div id="accordion col-sm-12"><hr class="small"></div>
-<div id="accordion col-sm-12">
-<div id="accordion">
-  {% assign counter = 1 %}
-  {% for post in site.categories.positions limit:5 %}
-  {% if post.postjob == true %}
-  <h4><i class="iconfont"></i> {% if post.date %}<time class="icon-calendar pr20" datetime='{{ post.date | date: "%Y-%m-%d" }}' itemprop="datePublished"> {{ post.date | date: "%Y-%m-%d" }}</time> {% endif %}{{ post.title }}</h4>
-    <div>
-      {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | escape }}{% elsif post.excerpt %}{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}{% endif %}
-      <a href="{{ site.url }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a>
-    </div>
-  {% endif %}
-  {% assign counter=counter | plus:1 %}
-  {% endfor %}
-</div></div>
-</div>
