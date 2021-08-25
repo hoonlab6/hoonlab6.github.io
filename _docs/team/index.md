@@ -54,7 +54,7 @@ img {
 
 
 
-<p style="text-align:center">Team Hoon</p>
+# Team Hoon
 
 
 ## Principal Investigator

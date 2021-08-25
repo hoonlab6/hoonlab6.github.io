@@ -8,7 +8,7 @@ permalink: /
 <style>
 body {
     font-family: 'Noto Sans', sans-serif; font-size: 22px;
-    }
+}
 </style>
 
 # Welcome to Hoon Lab
