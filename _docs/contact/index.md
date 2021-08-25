@@ -4,19 +4,18 @@ title: "Contact"
 
 ---
 
-<head>
+
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap" rel="stylesheet">
 <style>
 body {
     font-family: 'Noto Sans', sans-serif; font-size: 22px;
 }
 </style>
-</head>
 
-<body>
+
 <i class="fa fa-twitter"></i> Follow <a href="https://twitter.com/wisekh6" title="Follow @wisekh6" alt="Follow @wisekh6">@wisekh6</a> for lab updates and information related to our research.
 
-## **Correspondence**
+## Correspondence
 
 Hoon Kim, PhD  
 
