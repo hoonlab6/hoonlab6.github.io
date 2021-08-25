@@ -9,6 +9,7 @@ permalink: /
 ### Our lab is Computational Biomedicine [@hoonbiolab](https://twitter.com/hoonbiolab).
 
 
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap" rel="stylesheet">
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -81,27 +82,26 @@ img {vertical-align: middle;
 
 
 
-<h2>Automatic Slideshow</h2>
+<h2>Lab Photo</h2>
 <p>Change image every 2 seconds:</p>
 
 <div class="slideshow-container">
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="img_nature_wide.jpg" style="width:100%">
-  <div class="text">Caption Text</div>
+  <img src="{{site.url}}/assets/img/slideshow/photo1.jpg}" style="width:100%">
+  <div class="text">Basketball</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="img_snow_wide.jpg" style="width:100%">
+  <img src="{{site.url}}/assets/img/slideshow/photo2.jpg" style="width:100%">
   <div class="text">Caption Two</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="img_mountains_wide.jpg" style="width:100%">
-  <div class="text">Caption Three</div>
+  <img src="{{site.url}}/assets/img/slideshow/photo3.jpg" style="width:100%">
 </div>
 
 </div>
