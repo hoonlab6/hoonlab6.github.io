@@ -83,14 +83,13 @@ img {vertical-align: middle;
 
 
 <h2>Lab Photo</h2>
-<p>Change image every 2 seconds:</p>
+<p>If you want to see more photo, <a href="https://photos.google.com/u/0/share/AF1QipP5EpeeFRyzUYlB05eRdj0uSO-OLeG7xh4LmiYNmyp2ULNzuxmsR5TXkR3aWW_oKQ?key=WVVKUUhyZExyMndIcnVlNTBUekhjdDlkdThDcjJ3">click here</a></p>
 
 <div class="slideshow-container">
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
   <img src="{{site.url}}/assets/img/slideshow/photo1.jpg}" style="width:100%">
-  <div class="text">Basketball</div>
 </div>
 
 <div class="mySlides fade">
