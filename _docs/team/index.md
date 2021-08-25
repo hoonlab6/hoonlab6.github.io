@@ -47,31 +47,6 @@ img {
 .card button:hover {
   opacity: 0.7;
 }
-/* Float four columns side by side */
-.column {
-  float: left;
-  width: 25%;
-  padding: 0 10px;
-}
-/* Remove extra left and right margins, due to padding */
-.row {margin: 0 -5px;}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Responsive columns */
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-    display: block;
-    margin-bottom: 20px;
-  }
-}
-
 </style>
 
 
@@ -97,7 +72,7 @@ img {
 
 ### Students
 
-<div class="column">
+
 <div class="card">
   <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" style="width:100%">
   <div class="container">
@@ -109,6 +84,8 @@ img {
     </a>
   </div>
 </div>
+
+<p></p>
 
 <div class="card">
   <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seunghyun Kang" style="width:100%">
@@ -124,7 +101,6 @@ img {
 
 <p></p>
 
-<div class="column">
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/sy_kim.jpg" alt="Soyeon Kim" style="width:100%">
     <div class="container">
@@ -137,6 +113,7 @@ img {
   </div>
 </div>
 
+<p></p>
 
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/dh_joe.png" alt="Daeho Joe" style="width:100%">
@@ -152,7 +129,7 @@ img {
 <p></p>
 
 ## Interns
-<div class="column">
+
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/jy_ko.png" alt="Junyong Ko" style="width:100%">
     <div class="container">
@@ -163,6 +140,8 @@ img {
     <p><button>Read more</button></p>
   </div>
 </div>
+
+<p></p>
 
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/yj_nam.jpg" alt="Yoonjoo Nam" style="width:100%">
@@ -177,7 +156,6 @@ img {
 
 <p></p>
 
-<div class="column">
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/ec_yeo.png" alt="Eunchae Yeo" style="width:100%">
      <div class="container">
@@ -204,7 +182,7 @@ img {
 
 ## Staffs
 
-<div class="column">
+
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/ys_kim.png" alt="Yeonsik Kim" style="width:100%">
     <div class="container">
@@ -215,6 +193,8 @@ img {
    <p><button>Read more</button></p>
   </div>
 </div>
+
+<p></p>
 
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/yj_moon.png" alt="Youngjin Moon" style="width:100%">
