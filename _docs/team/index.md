@@ -54,7 +54,7 @@ img {
 
 
 
-# Team Hoon
+# <p style="text-align:center">Team Hoon</p>
 
 <p></p>
 
