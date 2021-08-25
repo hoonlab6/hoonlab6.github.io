@@ -9,124 +9,161 @@ permalink: /
 ### Our lab is Computational Biomedicine [@hoonbiolab](https://twitter.com/hoonbiolab).
 
 
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap" rel="stylesheet">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
 <style>
 body {
     font-family: 'Noto Sans', sans-serif; font-size: 22px;
+    }
+* {box-sizing: border-box;}
+body {font-family: Verdana, sans-serif;}
+.mySlides {display: none;}
+img {vertical-align: middle;
 }
-.wrapper {
-    display:flex;
-    flex-direction:row;
-    flex-wrap:wrap;
-    justify-content:center;
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
 }
-.box {
-    background-color: #fafafa;
-    box-shadow: 0px 2px 2px rgba(0,0,0,.2), 0px 0px 2px rgba(0,0,0,.2);
-    width: 100%;
-    border-radius: 2px;
-    margin:20px;
-    display:flex;
-    flex-direction:column;
-    cursor:pointer;
-}
-.box:hover {
-    box-shadow: 0px 15px 20px rgba(0,0,0,.25),0px 0px 30px rgba(0,0,0,.1);
-}
-.box .text {
-    padding: 24px;
-}
-.box .bb {
-    border: 1px solid red;
-}
-.box .title {
-    color:  black;
-    font-weight: 500;
-    font-size: 20px;
-    margin-top: -2px;
-    margin-bottom: 16px;
-}
-.box p {
-    color: rgba(0,0,0,.5);
-    font-size: 16px;
-    line-height: 24px;
-    margin: 0px;
-}
-.box .act {
-    padding: 8px 0;
-    text-align: right;
-}
-.card-button {
-    text-transform: uppercase;
-    display: inline-block;
-    font-size: 13px;
-    padding: 12px 10px;
-    color: #00a5ef;
-    font-weight: 500;
-    margin-right: 8px;
-    cursor: pointer;
-}
-</style>
-
-
-
-<h2>Our Photo</h2>
-<div class="wrapper">
-  {% for Photo in site.data.metadata.Photo %}<div class="box">
-  <div class="text">
-    <div class="title">{{ Photo.name }}</div>
-      <p><img src="{{ Google Photo.logo }}" style="height:140px; position:absolute">
-       <span style="width:50%; float:right">{{ Photo.description }}</span>
-      </p>
-    </div>
-    <div class="act">
-	<a href="{{ Photo.url }}" target="_blank"><div class="card-button">Click Here</div></a>
-    </div>
-  </div>{% endfor %}
-</div>
-
-<h2>Recent News</h2>
-<div class="wrapper">
-  {% for resource in site.data.metadata.resources %}<div class="box">
-  <div class="text">
-    <div class="title">{{ resource.name }}</div>
-      <p><img src="{{ resource.logo }}" style="height:160px; position:absolute">
-       <span style="width:50%; float:right">{{ resource.description }}</span>
-      </p>
-    </div>
-    <div class="act">
-	<a href="{{ resource.url }}" target="_blank"><div class="card-button">Documentation</div></a>
-    </div>
-  </div>{% endfor %}
-</div>
-
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-.button {
-  padding: 12px 20px;
-  font-size: 22px;
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
   text-align: center;
-  cursor: pointer;
-  outline: none;
-  color: #fff;
-  background-color: #1E2D6A;
-  border: none;
-  border-radius: 15px;
-  box-shadow: 0 9px #999;
 }
-.button:hover {background-color: #1E2D6A}
-.button:active {
-  background-color: #1E2D6A;
-  box-shadow: 0 5px #666;
-  transform: translateY(4px);
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+/* The dots/bullets/indicators */
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;/Users/nam-yunju/hoonlab6.github.io/_data/metadata.yml
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+.active {
+  background-color: #717171;
+}
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
 }
 </style>
-</head>
-<body>
 
-<button class="button"><a href='https://photos.google.com/u/0/share/AF1QipP5EpeeFRyzUYlB05eRdj0uSO-OLeG7xh4LmiYNmyp2ULNzuxmsR5TXkR3aWW_oKQ?key=WVVKUUhyZExyMndIcnVlNTBUekhjdDlkdThDcjJ3'>Click Here</a></button> to learn more about our lab
 
-</body>
+
+<h2>Automatic Slideshow</h2>
+<p>Change image every 2 seconds:</p>
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 3</div>
+  <img src="img_nature_wide.jpg" style="width:100%">
+  <div class="text">Caption Text</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 3</div>
+  <img src="img_snow_wide.jpg" style="width:100%">
+  <div class="text">Caption Two</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="img_mountains_wide.jpg" style="width:100%">
+  <div class="text">Caption Three</div>
+</div>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+</div>
+
+<script>
+var slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+  setTimeout(showSlides, 2000); // Change image every 2 seconds
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
