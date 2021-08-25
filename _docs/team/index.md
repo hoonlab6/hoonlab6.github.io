@@ -54,9 +54,8 @@ img {
 
 
 
-# <p style="text-align:center">Team Hoon</p>
+<p style="text-align:center">Team Hoon</p>
 
-<p></p>
 
 ## Principal Investigator
 
@@ -126,7 +125,6 @@ img {
     <p><button>Read more</button></p>
   </div>
 </div>
-
 
 <p></p>
 
