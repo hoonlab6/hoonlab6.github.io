@@ -8,6 +8,7 @@ css:
 <head>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap" rel="stylesheet">
 <style>
+  #box1 { text align: center; }
 body {
     font-family: 'Noto Sans', sans-serif; font-size: 22px;
 }
@@ -86,8 +87,8 @@ img {
 
 <body>
 
-# TEAM HOON
-{:.text-center}
+**<div id="box1">TEAM HOON</div>**
+
 
 ## Principal Investigator
 
