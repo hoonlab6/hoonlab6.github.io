@@ -91,9 +91,6 @@ img {
   </div>
 </div>
 
-<p></p>
-
-<div class="column">
 <div class="card">
   <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seunghyun Kang" style="width:100%">
   <div class="container">
@@ -121,9 +118,7 @@ img {
   </div>
 </div>
 
-<p></p>
 
-<div class="column">
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/dh_joe.png" alt="Daeho Joe" style="width:100%">
     <div class="container">
@@ -137,6 +132,7 @@ img {
 
 <p></p>
 
+## Interns
 <div class="column">
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/jy_ko.png" alt="Junyong Ko" style="width:100%">
@@ -149,9 +145,6 @@ img {
   </div>
 </div>
 
-<p></p>
-
-<div class="column">
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/yj_nam.jpg" alt="Yoonjoo Nam" style="width:100%">
     <div class="container">
@@ -177,9 +170,6 @@ img {
   </div>
 </div>
 
-<p></p>
-
-<div class="column">
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/jw_shon.png" alt="Jiwon Shon" style="width:100%">
     <div class="container">
@@ -191,6 +181,7 @@ img {
   </div>
 </div>
 
+<p></p>
 
 ## Staffs
 
@@ -206,9 +197,6 @@ img {
   </div>
 </div>
 
-<p></p>
-
-<div class="column">
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/yj_moon.png" alt="Youngjin Moon" style="width:100%">
     <div class="container">
