@@ -39,11 +39,6 @@ color: "#1a2d6e" # primary color for header, buttons
 # Build settings
 markdown: kramdown
 
-# If you add tags to pages, you can link them to some external search
-# If you want to disable this, comment the URL.
-tag_search_endpoint: https://ask.cyberinfrastructure.org/search?q=
-tag_color: danger # danger, success, warning, primary, info, secondary
-
 accentColor: "#e5c837" # purple, green, etc.
 themeColor: "#e5c837" # purple, green, blue, orange, purple, grey
 fixedNav: 'true' # true or false
