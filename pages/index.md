@@ -148,7 +148,6 @@ function showSlides() {
 <div class="posts-list">
   {% for post in posts %}
   <article class="post-preview">
-
     {%- capture thumbnail -%}
       {% if post.thumbnail-img %}
         {{ post.thumbnail-img }}
@@ -163,7 +162,7 @@ function showSlides() {
     {% endcapture %}
     {% assign thumbnail=thumbnail | strip %}
 
-    {% if site.feed_show_excerpt == false %}
+  {% if site.feed_show_excerpt == false %}
     {% if thumbnail != "" %}
     <div class="post-image post-image-normal">
       <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
@@ -173,30 +172,30 @@ function showSlides() {
     {% endif %}
     {% endif %}
 
-    <a href="{{ post.url | absolute_url }}">
+  <a href="{{ post.url | absolute_url }}">
       <h2 class="post-title">{{ post.title }}</h2>
 
-      {% if post.subtitle %}
+  {% if post.subtitle %}
         <h3  class="post-subtitle">
         {{  post.subtitle }}
         </h3>
       {% endif %}
     </a>
 
-    <p class="post-meta">
+  <p class="post-meta">
       {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
       Posted on {{ post.date | date: date_format }}
     </p>
 
-    {% if thumbnail != "" %}
+  {% if thumbnail != "" %}
     <div class="post-image post-image-small">
       <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
         <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
       </a>
     </div>
-    {% endif %}
+   {% endif %}
 
-    {% unless site.feed_show_excerpt == false %}
+  {% unless site.feed_show_excerpt == false %}
     {% if thumbnail != "" %}
     <div class="post-image post-image-short">
       <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
@@ -205,7 +204,7 @@ function showSlides() {
     </div>
     {% endif %}
 
-    <div class="post-entry">
+  <div class="post-entry">
       {% assign excerpt_length = site.excerpt_length | default: 50 %}
       {{ post.excerpt | strip_html | xml_escape | truncatewords: excerpt_length }}
       {% assign excerpt_word_count = post.excerpt | number_of_words %}
@@ -215,7 +214,7 @@ function showSlides() {
     </div>
     {% endunless %}
 
-    {% if site.feed_show_tags != false and post.tags.size > 0 %}
+  {% if site.feed_show_tags != false and post.tags.size > 0 %}
     <div class="blog-tags">
       Tags:
       {% for tag in post.tags %}
