@@ -16,7 +16,7 @@
 
 title: Hoon Lab at Pharmacy, SKKU
 email: research-computing-support@stanford.edu
-author: Stanford Research Computing Center
+author: Hoon Lab
 description: > # this means to ignore newlines until "baseurl:"
   The Stanford Research Computing Center offers resources for compute, storage,
   and office hours for user support.
@@ -34,7 +34,7 @@ url: "https://hoonlab6.github.io" # the base hostname & protocol for your site
 # logo: "assets/img/logo/SRCC-square-red.png"
 logo_width: 20
 logo_pixels: 20
-color: "#9faaab" # primary color for header, buttons
+color: "#fafcfc" # primary color for header, buttons
 
 # Build settings
 markdown: kramdown
@@ -44,8 +44,8 @@ markdown: kramdown
 tag_search_endpoint: https://ask.cyberinfrastructure.org/search?q=
 tag_color: danger # danger, success, warning, primary, info, secondary
 
-accentColor: red # purple, green, etc.
-themeColor: red # purple, green, blue, orange, purple, grey
+accentColor: black # purple, green, etc.
+themeColor: black # purple, green, blue, orange, purple, grey
 fixedNav: 'true' # true or false
 
 permalink: /:year/:title/
