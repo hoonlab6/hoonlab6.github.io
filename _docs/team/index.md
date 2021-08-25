@@ -14,9 +14,10 @@ body {
 }
 </style>
 
-<style>
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
+<style>
 .card {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
@@ -54,6 +55,7 @@ img {
 
 
 # Team Hoon
+
 <p></p>
 
 ## Principal Investigator
