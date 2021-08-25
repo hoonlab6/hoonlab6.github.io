@@ -52,8 +52,7 @@ img {
 
 
 
-
-# <div style="text-align:center">Team Hoon</div>
+# Team Hoon
 {:.text-center}
 
 
