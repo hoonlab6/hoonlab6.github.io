@@ -9,7 +9,6 @@ css:
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap" rel="stylesheet">
 
 <style>
-  #box1 { text align: center; }
 body {
     font-family: 'Noto Sans', sans-serif; font-size: 22px;
 }
@@ -47,45 +46,7 @@ img {
 .card button:hover {
   opacity: 0.7;
 }
-/*----3.a.Horizontal----*/
-.card.horizontal .card-image img {
-	height:100px;
-	width:100px;
-}
-.card.horizontal {
-  	display: -webkit-flex;
-  	display: -ms-flexbox;
-  	display: flex;
-}
-.card.horizontal.small .card-image,
- .card.horizontal.medium .card-image,
-  .card.horizontal.large .card-image {
-  	height: 100%;
-  	max-height: none;
-  	overflow: visible;
-}
-.card.horizontal .card-image img {
-  	width:150px;
-	height:150px;
-	margin-right:20px;
-}
-.card.horizontal .card-stacked {
-  	-webkit-flex-direction: column;
-    -ms-flex-direction: column;
-    flex-direction: column;
-  	-webkit-flex: 1;
-    -ms-flex: 1;
-    flex: 1;
-  	position: relative;
-}
-.card.horizontal .card-stacked .card-content {
-  	-webkit-flex-grow: 1;
-    -ms-flex-positive: 1;
-	flex-grow: 1;
-}
-.card .card-image {
-  position: relative;
-}
+.box1 { text align: center; }
 </style>
 
 
