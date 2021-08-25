@@ -47,7 +47,6 @@ img {
 .card button:hover {
   opacity: 0.7;
 }
-.box1 { text align: center; }
 </style>
 
 
@@ -55,6 +54,7 @@ img {
 
 
 # Team Hoon
+{:.text-center}
 
 
 ## Principal Investigator
@@ -122,19 +122,6 @@ img {
     <p>Research Assistant</p> 
     <p>Stem cell research, Bioinformatics</p>
      <a href="{{ site.url }}/people/dh_joe" target="_blank" rel="noopener noreferrer">
-    <p><button>Read more</button></p>
-  </div>
-</div>
-
-<p></p>
-
-<div class="card">
-    <img src="{{ site.url }}/assets/img/people/jy_ko.png" alt="Junyong Ko" style="width:100%">
-    <div class="container">
-         <h4><b>Junyong Ko</b></h4> 
-    <p>Junior, SKKU</p> 
-    <p>TBD</p>
-     <a href="{{ site.url }}/people/jy_ko" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
   </div>
 </div>
