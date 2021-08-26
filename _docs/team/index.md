@@ -47,7 +47,7 @@ img {
 .card button:hover {
   opacity: 0.7;
 }
-..fill {
+.fill {
   object-fit: fill;
 }
 </style>
@@ -171,6 +171,8 @@ img {
    </a>
   </div>
 </div>
+
+<p></p>
 
 <div class="card">
     <img class="fill" src="{{ site.url }}/assets/img/people/jw_shon.png" alt="Jiwon Shon" style="width:100%">
