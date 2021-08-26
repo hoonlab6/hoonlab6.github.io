@@ -34,7 +34,7 @@ url: "https://hoonlab6.github.io" # the base hostname & protocol for your site
 # logo: "assets/img/logo/SRCC-square-red.png"
 logo_width: 20
 logo_pixels: 20
-color: "#1a2d6e" # primary color for header, buttons
+color: "#A9A9A9" # primary color for header, buttons
 
 # Build settings
 markdown: kramdown
