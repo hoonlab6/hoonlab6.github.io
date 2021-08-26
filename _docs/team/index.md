@@ -62,15 +62,15 @@ img {
 
 
 <div class="center">
-<div style="font-weight: bold; font-size: 30px; color: #A9A9A9">
+<div style="font-weight: bold; font-size: 35px; color: #A9A9A9">
 Team Hoon
 </div>
 </div>
 <p></p>
 
-
-## Principal Investigator
-
+<div style="font-weight: 600; font-size: 28px; color: #A9A9A9">
+Principal Investigator
+</div>
 
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/Profile-184998_Kim_H.jpg" alt="Hoon Kim" />
@@ -83,8 +83,9 @@ Team Hoon
   </div>
 </div>
 
-### Students
-
+<div style="font-weight:600; font-size: 28px; color: #A9A9A9">
+Students
+</div>
 
 <div class="card">
   <img class="cover" src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" style="width:100%">
@@ -140,7 +141,9 @@ Team Hoon
   </div>
 </div>
 
-## Interns
+<div style="font-weight: 600; font-size: 28px; color: #A9A9A9">
+Interns
+</div>
 
 <div class="card">
     <img class="cover" src="{{ site.url }}/assets/img/people/jy_ko.png" alt="Junyong Ko" style="width:100%">
@@ -198,7 +201,9 @@ Team Hoon
 
 <p></p>
 
-## Staffs
+<div style="font-weight: 600; font-size: 28px; color: #A9A9A9">
+Staffs
+</div>
 
 <div class="card">
     <img class="cover" src="{{ site.url }}/assets/img/people/ys_kim.png" alt="Yeonsik Kim" style="width:100%">
