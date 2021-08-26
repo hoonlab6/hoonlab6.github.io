@@ -62,9 +62,11 @@ img {
 
 
 <div class="center">
-<dive style="font-weight: bold; font-size: 30px; color: #A9A9A9">Team Hoon</div>
+<div style="font-weight: bold; font-size: 30px; color: #A9A9A9">
+Team Hoon
 </div>
-
+</div>
+<p></p>
 
 
 ## Principal Investigator
