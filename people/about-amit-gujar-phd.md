@@ -13,7 +13,13 @@ comments: true
 mathjax: true
 noindex: false
 ---
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap" rel="stylesheet">
 
+<style>
+body {
+    font-family: 'Noto Sans', sans-serif; font-size: 22px;
+}
+</style>
 
 ### Education and Experience:
 

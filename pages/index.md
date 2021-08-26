@@ -8,6 +8,8 @@ permalink: /
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap');
+p{font-family: 'Noto Sans', sans-serif; font-size: 22px;: }
 * {box-sizing: border-box;}
 body {font-family: Verdana, sans-serif;}
 .mySlides {display: none;}
