@@ -127,6 +127,90 @@ img {
   </div>
 </div>
 
+## Interns
+
+<div class="card">
+    <img src="{{ site.url }}/assets/img/people/jy_ko.png" alt="Junyong Ko" style="width:100%">
+    <div class="container">
+         <h4><b>Junyong Ko</b></h4> 
+    <p>Junior, SKKU</p> 
+    <p>TBD</p>
+     <a href="{{ site.url }}/people/jy_ko" target="_blank" rel="noopener noreferrer">
+    <p><button>Read more</button></p>
+    </a>
+  </div>
+</div>
+
+<p></p>
+
+<div class="card">
+    <img src="{{ site.url }}/assets/img/people/yj_nam.jpg" alt="Yoonjoo Nam" style="width:100%">
+    <div class="container">
+         <h4><b>Yoonjoo Nam</b></h4> 
+    <p>Senior,HanBat University</p>
+    <p>TBD</p>
+     <a href="{{ site.url }}/people/yj_nam" target="_blank" rel="noopener noreferrer">
+   <p><button>Read more</button></p>
+   </a>
+  </div>
+</div>
+
+<p></p>
+
+<div class="card">
+    <img src="{{ site.url }}/assets/img/people/ec_yeo.png" alt="Eunchae Yeo" style="width:100%">
+     <div class="container">
+          <h4><b>Eunchae Yeo</b></h4> 
+     <p>BS, Korea University</p>
+        <p>Biomedical Engineering, Programmimg, Cancer targeting, Drug discovery</p>
+         <a href="{{ site.url }}/people/ec_yeo" target="_blank" rel="noopener noreferrer">
+   <p><button>Read more</button></p>
+   </a>
+  </div>
+</div>
+
+<div class="card">
+    <img src="{{ site.url }}/assets/img/people/jw_shon.png" alt="Jiwon Shon" style="width:100%">
+    <div class="container">
+           <h4><b>Jiwon Shon</b></h4> 
+        <p>BS, Ghent University, Global Campus</p>
+        <p>Immunology, Bioinformatics, Cancer genomics</p>
+         <a href="{{ site.url }}/people/jw_shon" target="_blank" rel="noopener noreferrer">
+   <p><button>Read more</button></p>
+   </a>
+  </div>
+</div>
+
+<p></p>
+
+## Staffs
+
+<div class="card">
+    <img src="{{ site.url }}/assets/img/people/ys_kim.png" alt="Yeonsik Kim" style="width:100%">
+    <div class="container">
+    <h4><b>Yeonsik Kim</b></h4>
+        <p>Korea Polytechnic University</p>
+        <p>languages(C, Java)</p>
+        <a href="{{ site.url }}/people/ys_kim" target="_blank" rel="noopener noreferrer">
+   <p><button>Read more</button></p>
+   </a>
+  </div>
+</div>
+
+<p></p>
+
+<div class="card">
+    <img src="{{ site.url }}/assets/img/people/yj_moon.png" alt="Youngjin Moon" style="width:100%">
+    <div class="container">
+    <h4><b>Youngjin Moon</b></h4>
+        <p>Jeonbuk National University</p>
+        <p>languqges(C, C++)</p>
+        <a href="{{ site.url }}/people/yj_moon" target="_blank" rel="noopener noreferrer">
+   <p><button>Read more</button></p>
+   </a>
+  </div>
+</div>
+
 
 
 
