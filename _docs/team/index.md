@@ -123,10 +123,11 @@ img {
     <p>Stem cell research, Bioinformatics</p>
      <a href="{{ site.url }}/people/dh_joe" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
+    </a>
   </div>
 </div>
 
-<p></p>
+
 
 
 
