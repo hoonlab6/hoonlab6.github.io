@@ -57,9 +57,9 @@ img {
 
 
 
-
+<dive style="font-weight: bold; font-size: 30px; font-fmaily: Noto Sans;>
 <div class="center">Team Hoon</div>
-
+</div>
 
 
 
