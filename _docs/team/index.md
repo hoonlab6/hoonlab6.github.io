@@ -50,13 +50,17 @@ img {
 .fill {
   object-fit: fill;
 }
+.center{
+  text-align: center;
+}
 </style>
 
 
 
 
-# Team Hoon
-{:.text-center}
+# <div class="center">Team Hoon</div>
+
+
 
 
 ## Principal Investigator
