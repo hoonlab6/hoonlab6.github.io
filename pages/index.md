@@ -4,12 +4,12 @@ title: Hoon Lab at Pharmacy, SKKU
 permalink: /
 ---
 
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap" rel="stylesheet">
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style>
 /*font*/
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap');
 body {
     font-family: 'Noto Sans', sans-serif; font-size: 22px;
 }
