@@ -58,7 +58,7 @@ img {
 
 
 
-**<div class="center">Team Hoon</div>**
+<div class="center">Team Hoon</div>
 
 
 
