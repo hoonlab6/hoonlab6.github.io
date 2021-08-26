@@ -47,6 +47,9 @@ img {
 .card button:hover {
   opacity: 0.7;
 }
+..fill {
+  object-fit: fill;
+}
 </style>
 
 
@@ -74,7 +77,7 @@ img {
 
 
 <div class="card">
-  <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" style="width:100%">
+  <img class="fill" src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" style="width:100%">
   <div class="container">
     <h4><b>Heesuk Chung, BS</b></h4> 
     <p>Research Assistant</p> 
@@ -88,7 +91,7 @@ img {
 <p></p>
 
 <div class="card">
-  <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seunghyun Kang" style="width:100%">
+  <img class="fill" src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seunghyun Kang" style="width:100%">
   <div class="container">
     <h4><b>Seunghyun Kang, BS</b></h4> 
     <p>Research Assistant</p> 
@@ -102,7 +105,7 @@ img {
 <p></p>
 
 <div class="card">
-    <img src="{{ site.url }}/assets/img/people/sy_kim.jpg" alt="Soyeon Kim" style="width:100%">
+    <img class="fill" src="{{ site.url }}/assets/img/people/sy_kim.jpg" alt="Soyeon Kim" style="width:100%">
     <div class="container">
      <h4><b>Soyeon Kim, BS</b></h4> 
     <p>Research Assistant</p> 
@@ -116,7 +119,7 @@ img {
 <p></p>
 
 <div class="card">
-    <img src="{{ site.url }}/assets/img/people/dh_joe.png" alt="Daeho Joe" style="width:100%">
+    <img class="fill" src="{{ site.url }}/assets/img/people/dh_joe.png" alt="Daeho Joe" style="width:100%">
     <div class="container">
          <h4><b>Daeho Joe, BS</b></h4> 
     <p>Research Assistant</p> 
@@ -130,7 +133,7 @@ img {
 ## Interns
 
 <div class="card">
-    <img src="{{ site.url }}/assets/img/people/jy_ko.png" alt="Junyong Ko" style="width:100%">
+    <img class="fill" src="{{ site.url }}/assets/img/people/jy_ko.png" alt="Junyong Ko" style="width:100%">
     <div class="container">
          <h4><b>Junyong Ko</b></h4> 
     <p>Junior, SKKU</p> 
@@ -144,7 +147,7 @@ img {
 <p></p>
 
 <div class="card">
-    <img src="{{ site.url }}/assets/img/people/yj_nam.jpg" alt="Yoonjoo Nam" style="width:100%">
+    <img class="fill" src="{{ site.url }}/assets/img/people/yj_nam.jpg" alt="Yoonjoo Nam" style="width:100%">
     <div class="container">
          <h4><b>Yoonjoo Nam</b></h4> 
     <p>Senior,HanBat University</p>
@@ -158,7 +161,7 @@ img {
 <p></p>
 
 <div class="card">
-    <img src="{{ site.url }}/assets/img/people/ec_yeo.png" alt="Eunchae Yeo" style="width:100%">
+    <img class="fill" src="{{ site.url }}/assets/img/people/ec_yeo.png" alt="Eunchae Yeo" style="width:100%">
      <div class="container">
           <h4><b>Eunchae Yeo</b></h4> 
      <p>BS, Korea University</p>
@@ -170,7 +173,7 @@ img {
 </div>
 
 <div class="card">
-    <img src="{{ site.url }}/assets/img/people/jw_shon.png" alt="Jiwon Shon" style="width:100%">
+    <img class="fill" src="{{ site.url }}/assets/img/people/jw_shon.png" alt="Jiwon Shon" style="width:100%">
     <div class="container">
            <h4><b>Jiwon Shon</b></h4> 
         <p>BS, Ghent University, Global Campus</p>
@@ -186,7 +189,7 @@ img {
 ## Staffs
 
 <div class="card">
-    <img src="{{ site.url }}/assets/img/people/ys_kim.png" alt="Yeonsik Kim" style="width:100%">
+    <img class="fill" src="{{ site.url }}/assets/img/people/ys_kim.png" alt="Yeonsik Kim" style="width:100%">
     <div class="container">
     <h4><b>Yeonsik Kim</b></h4>
         <p>Korea Polytechnic University</p>
@@ -200,7 +203,7 @@ img {
 <p></p>
 
 <div class="card">
-    <img src="{{ site.url }}/assets/img/people/yj_moon.png" alt="Youngjin Moon" style="width:100%">
+    <img class="fill" src="{{ site.url }}/assets/img/people/yj_moon.png" alt="Youngjin Moon" style="width:100%">
     <div class="container">
     <h4><b>Youngjin Moon</b></h4>
         <p>Jeonbuk National University</p>
