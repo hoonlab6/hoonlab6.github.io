@@ -13,7 +13,6 @@ permalink: /
 body {
     font-family: 'Noto Sans', sans-serif; font-size: 22px;
 }
-/*start*/
 * {box-sizing: border-box;}
 body {font-family: Verdana, sans-serif;}
 .mySlides {display: none;}
@@ -78,7 +77,6 @@ img {vertical-align: middle;
 </style>
 
 
-
 # Welcome to Hoon Lab
 
 ## Our lab is Computational Biomedicine [@hoonbiolab](https://twitter.com/hoonbiolab).
@@ -115,6 +113,7 @@ img {vertical-align: middle;
 </div>
 
 <script>
+/*It is linked with Lab photo*/
 var slideIndex = 0;
 showSlides();
 
