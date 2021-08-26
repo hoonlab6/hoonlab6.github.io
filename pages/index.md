@@ -4,25 +4,16 @@ title: Hoon Lab at Pharmacy, SKKU
 permalink: /
 ---
 
-<head>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap" rel="stylesheet">
-
-<style>
-body {
-    font-family: 'Noto Sans', sans-serif; font-size: 22px;
-}
-</style>
-</head>
-
-<body>
-Welcome to Hoon Lab
-
-Our lab is Computational Biomedicine [@hoonbiolab](https://twitter.com/hoonbiolab).
-</body>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style>
+/*font*/
+body {
+    font-family: 'Noto Sans', sans-serif; font-size: 22px;
+}
+/*start*/
 * {box-sizing: border-box;}
 body {font-family: Verdana, sans-serif;}
 .mySlides {display: none;}
@@ -85,6 +76,12 @@ img {vertical-align: middle;
   .text {font-size: 11px}
 }
 </style>
+
+
+
+# Welcome to Hoon Lab
+
+## Our lab is Computational Biomedicine [@hoonbiolab](https://twitter.com/hoonbiolab).
 
 
 
