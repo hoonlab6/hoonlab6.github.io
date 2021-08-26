@@ -62,7 +62,7 @@ img {
 
 
 
-<dive style="font-weight: bold; font-size: 30px; font-fmaily: Noto Sans;" >
+<dive style="font-weight: bold; font-size: 30px;">
 <div class="center">Team Hoon</div>
 </div>
 
