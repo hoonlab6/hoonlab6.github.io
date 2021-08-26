@@ -61,9 +61,8 @@ img {
 </style>
 
 
-
-<dive style="font-weight: bold; font-size: 30px;">
-<div class="center">Team Hoon</div>
+<div class="center">
+<dive style="font-weight: bold; font-size: 30px; color: #A9A9A9">Team Hoon</div>
 </div>
 
 
