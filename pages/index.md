@@ -69,15 +69,18 @@ img {vertical-align: middle;
 @media only screen and (max-width: 300px) {
   .text {font-size: 11px}
 }
+.center{
+  text-align: center;
+}
 </style>
 
-<h1>Welcome to Hoon Lab</h1>
+# **Welcome to Hoon Lab**
 
-<h3>Our lab is Computational Biomedicine [@hoonbiolab](https://twitter.com/hoonbiolab).</h3>
+### Our lab is Computational Biomedicine [@hoonbiolab](https://twitter.com/hoonbiolab).
 
 <p></p>
 
-<h1>Lab Photo</h1>
+# Lab Photo
 <p>If you want to see more photo, <a href="https://photos.google.com/u/0/share/AF1QipP5EpeeFRyzUYlB05eRdj0uSO-OLeG7xh4LmiYNmyp2ULNzuxmsR5TXkR3aWW_oKQ?key=WVVKUUhyZExyMndIcnVlNTBUekhjdDlkdThDcjJ3">click here</a></p>
 
 <div class="slideshow-container">
@@ -132,7 +135,7 @@ function showSlides() {
 
 <hr>
 
-<div class="row text-center"><div class="col-sm-12">
+<div class="col-sm-12"> <div class="center">
 <h2><i class="fa fa-info-circle"> <a href="{{site.url}}/blog">twitter</a></i></h2>
 </div></div>
 

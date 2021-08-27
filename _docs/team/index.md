@@ -8,6 +8,7 @@ css:
 
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap" rel="stylesheet">
 
+
 <style>
 body {
     font-family: 'Noto Sans', sans-serif; font-size: 22px;
@@ -53,6 +54,11 @@ img {
 .center{
   text-align: center;
 }
+.grid-container {
+   display: grid;
+   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+   grid-gap: 20px;
+}
 </style>
 
 
@@ -67,6 +73,7 @@ Team Hoon
 Principal Investigator
 </div>
 
+<div class="grid-container">
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/Profile-184998_Kim_H.jpg" alt="Hoon Kim" />
     <div class="container">
@@ -75,6 +82,7 @@ Principal Investigator
         <a href="{{ site.url }}/people/about" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
+    </div>
   </div>
 </div>
 
