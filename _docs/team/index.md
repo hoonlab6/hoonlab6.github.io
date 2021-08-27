@@ -56,11 +56,9 @@ img {
 }
 .grid-container {
   display: grid;
-  height: 400px;
   align-content: center;
   grid-template-columns: auto auto;
   grid-gap: 10px;
-  background-color: #fff;
   padding: 10px;
 }
 </style>
