@@ -71,12 +71,11 @@ img {vertical-align: middle;
 }
 </style>
 
+<h1>Welcome to Hoon Lab</h1>
 
-# Welcome to Hoon Lab
+<h3>Our lab is Computational Biomedicine [@hoonbiolab](https://twitter.com/hoonbiolab).</h3>
 
-### Our lab is Computational Biomedicine [@hoonbiolab](https://twitter.com/hoonbiolab).
-
-
+<p></p>
 
 <h1>Lab Photo</h1>
 <p>If you want to see more photo, <a href="https://photos.google.com/u/0/share/AF1QipP5EpeeFRyzUYlB05eRdj0uSO-OLeG7xh4LmiYNmyp2ULNzuxmsR5TXkR3aWW_oKQ?key=WVVKUUhyZExyMndIcnVlNTBUekhjdDlkdThDcjJ3">click here</a></p>
@@ -129,6 +128,20 @@ function showSlides() {
   setTimeout(showSlides, 2000); // Change image every 2 seconds
 }
 </script>
+
+
+<hr>
+
+<div class="row text-center"><div class="col-sm-12">
+<h2><i class="fa fa-info-circle"> <a href="{{site.url}}/blog">twitter</a></i></h2>
+</div></div>
+
+<div class="row">
+  <div class="col-sm-6">
+<a class="twitter-timeline" href="https://twitter.com/roelverhaak?ref_src=twsrc%5Etfw">Tweets by roelverhaak</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/wisekh6?ref_src=twsrc%5Etfw">Tweets by wisekh6</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+</div>
 
 
 
