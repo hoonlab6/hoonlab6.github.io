@@ -143,11 +143,13 @@ function showSlides() {
   />
 
 
-<div class="outside">
+
 <div class="col-sm-12"> <div class="center">
 <h2><i class="fab fa-twitter">TWITTER</i></h2>
 </div></div>
 
+
+<div class="outside">
 <div class="row">
   <div class="col-sm-6">
 <a class="twitter-timeline" href="https://twitter.com/roelverhaak?ref_src=twsrc%5Etfw">Tweets by roelverhaak</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
