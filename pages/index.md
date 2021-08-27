@@ -137,8 +137,13 @@ function showSlides() {
 
 <hr>
 
+<link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
+  />
+
+
 <div class="outside">
-<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 <div class="col-sm-12"> <div class="center">
 <h2><i class="fab fa-twitter">TWITTER</i></h2>
 </div></div>
