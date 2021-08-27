@@ -134,6 +134,8 @@ function showSlides() {
 
 <hr>
 
+
+<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 <div class="col-sm-12"> <div class="center">
 <h2><i class="fab fa-twitter">TWITTER</i></h2>
 </div></div>
