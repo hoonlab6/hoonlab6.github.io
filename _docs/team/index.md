@@ -82,7 +82,6 @@ Principal Investigator
         <a href="{{ site.url }}/about" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
-    </div>
   </div>
 </div>
 
@@ -102,6 +101,7 @@ Students
     <a href="{{ site.url }}/people/hs_chung/" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
+    </div>
   </div>
 </div>
 
@@ -117,6 +117,7 @@ Students
     <a href="{{ site.url }}/people/sk_kang" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
+    </div>
   </div>
 </div>
 
@@ -132,6 +133,7 @@ Students
     <a href="{{ site.url }}/people/sy_kim" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
+    </div>
   </div>
 </div>
 
@@ -147,6 +149,7 @@ Students
      <a href="{{ site.url }}/people/dh_joe" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
+    </div>
   </div>
 </div>
 
