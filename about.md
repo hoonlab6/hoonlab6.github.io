@@ -32,10 +32,10 @@ css:
 
 <div class="center"><div style="font-weight: bold; font-size: 40px;">
 About
-</div></div>
-<p>
+</div>
+<p></p>
 Hoon Kim
-
+</div>
 <!-- Avoid edit from here... -->
 <div class="row text-center">
 <div class="col"><div class="holder smooth">
