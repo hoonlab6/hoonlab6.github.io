@@ -145,6 +145,18 @@ Students
     </div>
   </div>
 
+<div class="card">
+    <img src="{{ site.url }}/assets/img/people/hj_sun.jpeg" alt="Hyun Jeong Sun" style="width:100%">
+    <div class="container">
+         <h4><b>Hyunjeong Sun, BS</b></h4> 
+    <p>Research Assistant</p> 
+    <p>Regulatory Science, cancer genomic, bioinformatics</p>
+     <a href="{{ site.url }}/people/hj_sun" target="_blank" rel="noopener noreferrer">
+    <p><button>Read more</button></p>
+    </a>
+    </div>
+  </div>
+
 
 <p></p>
 
