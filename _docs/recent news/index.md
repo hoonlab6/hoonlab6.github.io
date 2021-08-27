@@ -23,15 +23,15 @@ img.sticky {
   />
 
 <div class="center">
-<h1><b><i class="far fa-newspaper">Recent News</i><b></h1>
+<b><i class="far fa-newspaper">Recent News</i><b>
 </div>
 
-<img class="sticky" src="/assets/img/jy_birthday.png"  height="480px" width="360px">
+<img src="/assets/img/jy_birthday.png"  height="480px" width="360px">
 <h2>We celebrated Junyong's Birthday in our lab!!</h2>
 <p>Happy Birthday!!</p>
 <p>Posted on June 23, 2021</p> 
 
-<img class="sticky" src="/assets/img/hs_birthday.png"  height="480px" width="360px">
+<img src="/assets/img/hs_birthday.png"  height="480px" width="360px">
 <h2>We celebrated Heesuk's Birthday during KSBMB international Conference!!</h2>
 <p>Happy Birthday!!</p>
 <p>Posted on May 29, 2021</p> 
