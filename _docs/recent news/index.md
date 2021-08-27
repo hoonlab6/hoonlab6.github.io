@@ -37,7 +37,7 @@ body {
 </div>
 
 <div class="container">
-  <img src="/w3images/notebook.jpg" alt="Notebook" style="width:100%;">
+  <img src="/assets/img/jy_birthday.png" height="480px" width="360px">
   <div class="content">
     <h1>We celebrated JunYong's birthday in our lab!!</h1>
     <p>Happy birthday Junyong!! he is our 1st undergraduate intern!!</p>
@@ -46,3 +46,4 @@ body {
 
   </div>
 </div>
+
