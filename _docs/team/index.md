@@ -64,7 +64,7 @@ Team Hoon
 </div>
 <p></p>
 
-<div style="font-weight: 600; font-size: 30px; color: #A9A9A9">
+<div style="font-weight: 600; font-size: 30px; color: #030303">
 Principal Investigator
 </div>
 
