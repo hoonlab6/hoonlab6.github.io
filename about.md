@@ -46,6 +46,8 @@ Hoon Kim
 <span class="social-icons text-center" style="padding-bottom: 1px; font-size: 4rem;"><a href="{{ site.work_profile }}" class="social-icons" title="JAX Faculty Profile"><i class="fa fa-id-card cvmeta"></i></a> <a href="{{ site.url }}/files/HoonKim-CV.pdf" class="social-icons" title="Curriculum Vitae"><i class="fa fa-graduation-cap cvmeta"></i></a> <a href="https://twitter.com/{{ site.author.twitter }}" class="social-icons" title="Tweet @wisekh6"><i class="fa fa-twitter cvmeta"></i></a></span>
 <!-- until here! -->
 
+<p></p>
+
 The Hoon Lab started in 2021 in the [School of Pharmacy](https://skb.skku.edu/eng_pharm/index.do) at [**Sungkyunkwan University (SKKU)**](https://www.skku.edu/eng/index.do), in Suwon, South Korea.
 
 ### **Previously** 
