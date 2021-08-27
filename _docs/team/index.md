@@ -55,9 +55,13 @@ img {
   text-align: center;
 }
 .grid-container {
-   display: grid;
-   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-   grid-gap: 20px;
+  display: grid;
+  height: 400px;
+  align-content: center;
+  grid-template-columns: auto auto;
+  grid-gap: 10px;
+  background-color: #fff;
+  padding: 10px;
 }
 </style>
 
@@ -72,7 +76,6 @@ Team Hoon
 <div style="font-weight: 600; font-size: 30px; color: #A9A9A9">
 Principal Investigator
 </div>
-
 
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/Profile-184998_Kim_H.jpg" alt="Hoon Kim" />
@@ -92,6 +95,7 @@ Students
 </div>
 
 <div class="grid-container">
+<div>
 <div class="card">
   <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" style="width:100%">
   <div class="container">
@@ -101,13 +105,13 @@ Students
     <a href="{{ site.url }}/people/hs_chung/" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
+    <div>
     </div>
   </div>
-</div>
 
 <p></p>
 
-<div class="grid-container">
+<div>
 <div class="card">
   <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seunghyun Kang" style="width:100%">
   <div class="container">
@@ -117,13 +121,14 @@ Students
     <a href="{{ site.url }}/people/sk_kang" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
+    <div>
     </div>
   </div>
-</div>
+
 
 <p></p>
 
-<div class="grid-container">
+<div>
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/sy_kim.jpg" alt="Soyeon Kim" style="width:100%">
     <div class="container">
@@ -133,13 +138,14 @@ Students
     <a href="{{ site.url }}/people/sy_kim" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
+    <div>
     </div>
   </div>
-</div>
+
 
 <p></p>
 
-<div class="grid-container">
+<div>
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/dh_joe.png" alt="Daeho Joe" style="width:100%">
     <div class="container">
@@ -149,9 +155,10 @@ Students
      <a href="{{ site.url }}/people/dh_joe" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
+    <div>
     </div>
   </div>
-</div>
+  </div>
 
 <p></p>
 
