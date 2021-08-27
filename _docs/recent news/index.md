@@ -36,10 +36,14 @@ body {
 <h2>Recent News</h2>
 </div>
 
+<h1>
+<img src="/assets/img/events.png" height="40px">We celebrated JunYong's birthday in our lab!!
+</h1>
+
+
 <div class="container">
   <img src="/assets/img/jy_birthday.png" height="480px" width="360px">
   <div class="content">
-    <h1>We celebrated JunYong's birthday in our lab!!</h1>
     <p>Happy birthday Junyong!! he is our 1st undergraduate intern!!</p>
     <p>We are so happy that you are one of lab members!! We love you <3.</p>
     <p>To get to know about Junyong, <a href= "https://hoonlab6.github.io/people/jy_ko/">click here</a> and find out.</p>
