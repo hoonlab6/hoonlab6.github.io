@@ -72,6 +72,9 @@ img {vertical-align: middle;
 .center{
   text-align: center;
 }
+.outside{
+  margin: 10px 30px 10px 30px;
+}
 </style>
 
 # Welcome to Hoon Lab
@@ -134,7 +137,7 @@ function showSlides() {
 
 <hr>
 
-
+<div class="outside">
 <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 <div class="col-sm-12"> <div class="center">
 <h2><i class="fab fa-twitter">TWITTER</i></h2>
@@ -145,6 +148,7 @@ function showSlides() {
 <a class="twitter-timeline" href="https://twitter.com/roelverhaak?ref_src=twsrc%5Etfw">Tweets by roelverhaak</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <a class="twitter-timeline" href="https://twitter.com/wisekh6?ref_src=twsrc%5Etfw">Tweets by wisekh6</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
+</div>
 </div>
 
 
