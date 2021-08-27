@@ -107,6 +107,7 @@ Students
 
 <p></p>
 
+<div class="grid-container">
 <div class="card">
   <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seunghyun Kang" style="width:100%">
   <div class="container">
@@ -121,6 +122,7 @@ Students
 
 <p></p>
 
+<div class="grid-container">
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/sy_kim.jpg" alt="Soyeon Kim" style="width:100%">
     <div class="container">
@@ -135,6 +137,7 @@ Students
 
 <p></p>
 
+<div class="grid-container">
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/dh_joe.png" alt="Daeho Joe" style="width:100%">
     <div class="container">
