@@ -135,7 +135,7 @@ function showSlides() {
 <hr>
 
 <div class="col-sm-12"> <div class="center">
-<h2><i class="fa fa-info-circle"> <a href="{{site.url}}/blog">twitter</a></i></h2>
+<h2><i class="fa fa-info-circle"> <a href="{{site.url}}/blog">TWITTER</a></i></h2>
 </div></div>
 
 <div class="row">

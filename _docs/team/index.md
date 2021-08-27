@@ -73,7 +73,7 @@ Team Hoon
 Principal Investigator
 </div>
 
-<div class="grid-container">
+
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/Profile-184998_Kim_H.jpg" alt="Hoon Kim" />
     <div class="container">
@@ -92,6 +92,7 @@ Principal Investigator
 Students
 </div>
 
+<div class="grid-container">
 <div class="card">
   <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" style="width:100%">
   <div class="container">
