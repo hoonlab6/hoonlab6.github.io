@@ -3,107 +3,46 @@ layout: page
 title: "Recent News"
 ---
 
-<div class="row text-center"><div class="col-sm-12">
-<h2><i class="fa fa-info-circle"> <a href="{{site.url}}/blog">Recent News</a></i></h2>
-</div></div>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial;
+  font-size: 17px;
+}
+.container {
+  position: relative;
+  max-width: 800px;
+  margin: 0 auto;
+}
+.container img {vertical-align: middle;}
+.container .content {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+}
+.center{
+  text-align: center;
+}
+</style>
 
-
-{% assign posts = paginator.posts | default: site.posts %}
-
-<div class="posts-list">
-  {% for post in posts %}
-  <article class="post-preview">
-
-    {%- capture thumbnail -%}
-      {% if post.thumbnail-img %}
-        {{ post.thumbnail-img }}
-      {% elsif post.cover-img %}
-        {% if post.cover-img.first %}
-          {{ post.cover-img[0].first.first }}
-        {% else %}
-          {{ post.cover-img }}
-        {% endif %}
-      {% else %}
-      {% endif %}
-    {% endcapture %}
-    {% assign thumbnail=thumbnail | strip %}
-
-    {% if site.feed_show_excerpt == false %}
-    {% if thumbnail != "" %}
-    <div class="post-image post-image-normal">
-      <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
-        <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
-      </a>
-    </div>
-    {% endif %}
-    {% endif %}
-
-    <a href="{{ post.url | absolute_url }}">
-      <h2 class="post-title">{{ post.title }}</h2>
-
-      {% if post.subtitle %}
-        <h3  class="post-subtitle">
-        {{  post.subtitle }}
-        </h3>
-      {% endif %}
-    </a>
-
-    <p class="post-meta">
-      {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-      Posted on {{ post.date | date: date_format }}
-    </p>
-
-    {% if thumbnail != "" %}
-    <div class="post-image post-image-small">
-      <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
-        <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
-      </a>
-    </div>
-    {% endif %}
-
-    {% unless site.feed_show_excerpt == false %}
-    {% if thumbnail != "" %}
-    <div class="post-image post-image-short">
-      <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
-        <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
-      </a>
-    </div>
-    {% endif %}
-
-    <div class="post-entry">
-      {% assign excerpt_length = site.excerpt_length | default: 50 %}
-      {{ post.excerpt | strip_html | xml_escape | truncatewords: excerpt_length }}
-      {% assign excerpt_word_count = post.excerpt | number_of_words %}
-      {% if post.content != post.excerpt or excerpt_word_count > excerpt_length %}
-        <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
-      {% endif %}
-    </div>
-    {% endunless %}
-
-    {% if site.feed_show_tags != false and post.tags.size > 0 %}
-    <div class="blog-tags">
-      Tags:
-      {% for tag in post.tags %}
-      <a href="{{ '/tags' | absolute_url }}#{{- tag -}}">{{- tag -}}</a>
-      {% endfor %}
-    </div>
-    {% endif %}
-
-   </article>
-  {% endfor %}
+<div class="center">
+<h2>Recent News</h2>
 </div>
 
-{% if paginator.total_pages > 1 %}
-<ul class="pagination main-pager">
-  {% if paginator.previous_page %}
-  <li class="page-item previous">
-    <a class="page-link" href="{{ paginator.previous_page_path | absolute_url }}">&larr; Newer Posts</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="page-item next">
-    <a class="page-link" href="{{ paginator.next_page_path | absolute_url }}">Older Posts &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
+<div class="container">
+  <img src="/w3images/notebook.jpg" alt="Notebook" style="width:100%;">
+  <div class="content">
+    <h1>We celebrated JunYong's birthday in our lab!!</h1>
+    <p>Happy birthday Junyong!! he is our 1st undergraduate intern!!</p>
+    <p>We are so happy that you are one of lab members!! We love you <3.</p>
+    <p>To get to know about Junyong, <a href= "https://hoonlab6.github.io/people/jy_ko/">click here</a> and find out.</p>
+
+  </div>
+</div>
