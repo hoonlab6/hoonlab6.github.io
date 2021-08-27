@@ -58,7 +58,7 @@ img {
 
 
 <div class="center">
-<div style="font-weight: bold; font-size: 40px; color: #A9A9A9">
+<div style="font-weight: bold; font-size: 40px; color: #030303">
 Team Hoon
 </div>
 </div>
