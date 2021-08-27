@@ -54,13 +54,6 @@ img {
 .center{
   text-align: center;
 }
-.grid-container {
-  display: grid;
-  align-content: center;
-  grid-template-columns: auto auto;
-  grid-gap: 10px;
-  padding: 10px;
-}
 </style>
 
 
@@ -92,8 +85,8 @@ Principal Investigator
 Students
 </div>
 
-<div class="grid-container">
-<div>
+
+
 <div class="card">
   <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" style="width:100%">
   <div class="container">
@@ -103,13 +96,11 @@ Students
     <a href="{{ site.url }}/people/hs_chung/" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
-    <div>
     </div>
   </div>
 
 <p></p>
 
-<div>
 <div class="card">
   <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seunghyun Kang" style="width:100%">
   <div class="container">
@@ -119,14 +110,13 @@ Students
     <a href="{{ site.url }}/people/sk_kang" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
-    <div>
     </div>
   </div>
 
 
 <p></p>
 
-<div>
+
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/sy_kim.jpg" alt="Soyeon Kim" style="width:100%">
     <div class="container">
@@ -136,14 +126,13 @@ Students
     <a href="{{ site.url }}/people/sy_kim" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
-    <div>
     </div>
   </div>
 
 
 <p></p>
 
-<div>
+
 <div class="card">
     <img src="{{ site.url }}/assets/img/people/dh_joe.png" alt="Daeho Joe" style="width:100%">
     <div class="container">
@@ -153,10 +142,9 @@ Students
      <a href="{{ site.url }}/people/dh_joe" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
-    <div>
     </div>
   </div>
-  </div>
+
 
 <p></p>
 
