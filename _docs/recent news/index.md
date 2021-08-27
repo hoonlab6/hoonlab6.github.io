@@ -23,7 +23,7 @@ img.sticky {
   />
 
 <div class="center">
-<b><i class="far fa-newspaper">Recent News</i><b>
+<p><i class="far fa-newspaper">Recent News</i></p>
 </div>
 
 <img src="/assets/img/jy_birthday.png"  height="480px" width="360px">

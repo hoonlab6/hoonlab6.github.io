@@ -19,7 +19,7 @@ css:
 
 <div class="row">
 <div class="col"><div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/sy_kim.jpg" alt="Soyeon Kim" />
+    <img src="{{ site.url }}/assets/img/people/hj_sun.jpeg" alt="Hyunjeong Sun"/>
 </div></div>
 </div>
 
