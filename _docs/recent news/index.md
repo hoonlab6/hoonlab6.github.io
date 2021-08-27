@@ -4,52 +4,35 @@ title: "Recent News"
 ---
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
 <style>
-* {
-  box-sizing: border-box;
-}
-body {
-  font-family: 'Noto Sans', sans-serif;
-  font-size: 17px;
-}
-.container {
-  position: relative;
-  max-width: 800px;
-  margin: 0 auto;
-}
-.container img {vertical-align: middle;}
-.container .content {
-  position: absolute;
-  bottom: 0;
-  background: rgb(0, 0, 0); /* Fallback color */
-  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
-  color: #f1f1f1;
-  width: 100%;
-  padding: 20px;
+img.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  width: 200px;
 }
 .center{
   text-align: center;
 }
 </style>
 
+<link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
+  />
+
 <div class="center">
-<div style="font-weight: bold; font-size: 40px; color: #A9A9A9">
-<h2>Recent News</h2>
-</div>
+<h1><b><i class="far fa-newspaper">Recent News</i><b></h1>
 </div>
 
+<img class="sticky" src="/assets/img/jy_birthday.png"  height="480px" width="360px">
+<h2>We celebrated Junyong's Birthday in our lab!!</h2>
+<p>Happy Birthday!!</p>
+<p>Posted on June 23, 2021</p> 
 
-<img src="/assets/img/events.png" height="40px">
-<h1><p>We celebrated JunYong's birthday in our lab!!</p></h1>
-
-
-<div class="container">
-  <img src="/assets/img/jy_birthday.png" height="480px" width="360px">
-  <div class="content">
-    <p>Happy birthday Junyong!! he is our 1st undergraduate intern!!</p>
-    <p>We are so happy that you are one of lab members!! We love you <3.</p>
-    <p>To get to know about Junyong, <a href= "https://hoonlab6.github.io/people/jy_ko/">click here</a> and find out.</p>
-
-  </div>
-</div>
+<img class="sticky" src="/assets/img/hs_birthday.png"  height="480px" width="360px">
+<h2>We celebrated Heesuk's Birthday during KSBMB international Conference!!</h2>
+<p>Happy Birthday!!</p>
+<p>Posted on May 29, 2021</p> 
 
