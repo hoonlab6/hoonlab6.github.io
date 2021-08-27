@@ -9,7 +9,7 @@ title: "Recent News"
   box-sizing: border-box;
 }
 body {
-  font-family: Arial;
+  font-family: 'Noto Sans', sans-serif;
   font-size: 17px;
 }
 .container {
@@ -33,12 +33,14 @@ body {
 </style>
 
 <div class="center">
+<div style="font-weight: bold; font-size: 40px; color: #A9A9A9">
 <h2>Recent News</h2>
 </div>
+</div>
 
-<h1>
-<img src="/assets/img/events.png" height="40px">We celebrated JunYong's birthday in our lab!!
-</h1>
+
+<img src="/assets/img/events.png" height="40px">
+<h1><p>We celebrated JunYong's birthday in our lab!!</p></h1>
 
 
 <div class="container">
