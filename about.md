@@ -34,8 +34,10 @@ css:
 About
 </div>
 <p></p>
+<div style="font-weight: bold; font-size: 25px;">
 Hoon Kim
-</div>
+</div></div>
+
 <!-- Avoid edit from here... -->
 <div class="row text-center">
 <div class="col"><div class="holder smooth">
