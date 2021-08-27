@@ -81,7 +81,7 @@ Principal Investigator
 
 <p></p>
 
-<div style="font-weight:600; font-size: 30px; color: #A9A9A9">
+<div style="font-weight:600; font-size: 30px; color: #030303">
 Students
 </div>
 
@@ -160,7 +160,7 @@ Students
 
 <p></p>
 
-<div style="font-weight: 600; font-size: 30px; color: #A9A9A9">
+<div style="font-weight: 600; font-size: 30px; color: #030303">
 Interns
 </div>
 
@@ -220,7 +220,7 @@ Interns
 
 <p></p>
 
-<div style="font-weight: 600; font-size: 30px; color: #A9A9A9">
+<div style="font-weight: 600; font-size: 30px; color: #030303">
 Staffs
 </div>
 
