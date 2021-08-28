@@ -44,8 +44,8 @@ Hoon Kim
 </div>
 </div></div>
 
-
-<span class="social-icons text-center" style="padding-bottom: 1px; font-size: 4rem;"><a href="{{ site.work_profile }}" class="social-icons" title="JAX Faculty Profile"><i class="fa fa-id-card cvmeta"></i></a> <a href="{{ site.url }}/files/HoonKim-CV.pdf" class="social-icons" title="Curriculum Vitae"><i class="fa fa-graduation-cap cvmeta"></i></a> <a href="https://twitter.com/{{ site.author.twitter }}" class="social-icons" title="Tweet @wisekh6"><i class="fa fa-twitter cvmeta"></i></a></span>
+<div class=center>
+<span class="social-icons text-center" style="padding-bottom: 1px; font-size: 4rem;"><a href="{{ site.work_profile }}" class="social-icons" title="JAX Faculty Profile"><i class="fa fa-id-card cvmeta"></i></a> <a href="{{ site.url }}/files/HoonKim-CV.pdf" class="social-icons" title="Curriculum Vitae"><i class="fa fa-graduation-cap cvmeta"></i></a> <a href="https://twitter.com/{{ site.author.twitter }}" class="social-icons" title="Tweet @wisekh6"><i class="fa fa-twitter cvmeta"></i></a></span></div>
 <!-- until here! -->
 
 <p></p>
