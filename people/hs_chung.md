@@ -34,8 +34,9 @@ Heesuk Chung
 </div></div>
 
 
-
+<div class="center">
 <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" width="480px" height="568px" alt="Heesuk Jung" />
+</div>
 
 
 ### **Research Interest**
