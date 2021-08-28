@@ -44,9 +44,9 @@ img {
   text-align: center;
 }
 .img {
-  width: 240px;
+  width: 250px;
   height: 284px;
-  object-fit: fill; 
+  object-fit: cover; 
 }
 </style>
 
