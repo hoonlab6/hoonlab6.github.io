@@ -93,7 +93,7 @@ Students
 
 
 <div class="card"><div class="img">
-  <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" style="width:100%"></div>
+  <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung"></div>
   <div class="container">
     <h4><b>Heesuk Chung, BS</b></h4> 
     <p>Research Assistant</p> 
@@ -107,7 +107,7 @@ Students
 <p></p>
 
 <div class="card"><div class="img">
-  <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seunghyun Kang" style="width:100%"></div>
+  <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seunghyun Kang"></div>
   <div class="container">
     <h4><b>Seunghyun Kang, BS</b></h4> 
     <p>Research Assistant</p> 
@@ -123,7 +123,7 @@ Students
 
 
 <div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/sy_kim.jpg" alt="Soyeon Kim" style="width:100%"></div>
+    <img src="{{ site.url }}/assets/img/people/sy_kim.jpg" alt="Soyeon Kim"></div>
     <div class="container">
      <h4><b>Soyeon Kim, BS</b></h4> 
     <p>Research Assistant</p> 
@@ -139,7 +139,7 @@ Students
 
 
 <div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/dh_joe.png" alt="Daeho Joe" style="width:100%"></div>
+    <img src="{{ site.url }}/assets/img/people/dh_joe.png" alt="Daeho Joe">
     <div class="container">
          <h4><b>Daeho Joe, BS</b></h4> 
     <p>Research Assistant</p> 
@@ -148,12 +148,13 @@ Students
     <p><button>Read more</button></p>
     </a>
     </div>
+    </div>
   </div>
 
 <p></p>
 
 <div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/hj_sun.jpeg" alt="Hyun Jeong Sun" style="width:100%"></div>
+    <img src="{{ site.url }}/assets/img/people/hj_sun.jpeg" alt="Hyun Jeong Sun">
     <div class="container">
          <h4><b>Hyunjeong Sun, BS</b></h4> 
     <p>Research Assistant</p> 
@@ -161,6 +162,7 @@ Students
      <a href="{{ site.url }}/people/hj_sun" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
+    </div>
     </div>
   </div>
 
