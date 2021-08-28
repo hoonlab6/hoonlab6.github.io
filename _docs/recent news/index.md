@@ -103,9 +103,9 @@ title: "Recent News"
     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
   />
 
-<div class= center>
-<h2><i class="far fa-newspaper"></i> Recent News</h2>
-</div>
+<div class= center><div style="font-weight:450; font-size: 25px; color: #030303">
+<i class="far fa-newspaper"></i> Recent News
+</div></div>
 
 <div style="font-weight:500; font-size: 25px; color: #030303">
 <a href="{{ site.url }}/_posts/2021-06-24-JY_birthday.md" target="_blank" rel="noopener noreferrer">We celebrated Junyong's Birthday in our lab!!</a>
