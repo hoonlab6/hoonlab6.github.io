@@ -34,7 +34,7 @@ Jiwon Shon
     <img src="{{ site.url }}/assets/img/people/jw_shon.png" width="480px" height="568px" alt="Jiwon Shon" />
 </div>
 
-**Expected join in lab at 2021/10/1**
+### **Expected join in lab at 2021/10/1**
 
 ### **Research Interest**
 Immunology, Bioinformatics, Cancer genomics
