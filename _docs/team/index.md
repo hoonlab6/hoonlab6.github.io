@@ -5,17 +5,6 @@ css:
   - /assets/css/style.css
 ---
 
-
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap" rel="stylesheet">
-
-
-<style>
-body {
-    font-family: 'Noto Sans', sans-serif; font-size: 22px;
-}
-</style>
-
-
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style>
