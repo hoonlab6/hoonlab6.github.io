@@ -40,7 +40,7 @@ About
 </div>
 <i class="fad fa-horizontal-rule"></i>
 <p></p>
-<div style="font-weight: bold; font-size: 25px;">
+<div style="font-weight: bold; font-size: 32px;">
 Hoon Kim
 </div></div>
 
