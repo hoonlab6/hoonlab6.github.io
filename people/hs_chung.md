@@ -16,17 +16,26 @@ css:
   - /css/custom_home.css
 ---
 
+<style>
+.center{
+  text-align: center;
+}
+</style>  
+
+
 <div class="center"><div style="font-weight: bold; font-size: 40px;">
 About
-</div>
+</div></div>
+
 <p></p>
-<div style="font-weight: bold; font-size: 32px;">
+
+<div class="center"><div style="font-weight: bold; font-size: 32px;">
 Heesuk Chung
 </div></div>
 
 
 
-<img src="{{ site.url }}/assets/img/people/hs_jung.jpg" width="600px" height="710px" alt="Heesuk Jung" />
+<img src="{{ site.url }}/assets/img/people/hs_jung.jpg" width="480px" height="568px" alt="Heesuk Jung" />
 
 
 ### **Research Interest**
