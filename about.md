@@ -35,7 +35,7 @@ css:
   />
 
 
-<div class="center"><div style="font-weight: bold; font-size: 40px;">
+<div class="center"><div style="font-weight: bold; font-size: 50px;">
 About
 </div></div>
 <i class="fad fa-horizontal-rule"></i>
@@ -43,7 +43,7 @@ About
 <p></p>
 
 <div class=center>
-<div style="font-weight: bold; font-size: 32px;">
+<div style="font-weight: bold; font-size: 38px;">
 Hoon Kim
 </div></div>
 
