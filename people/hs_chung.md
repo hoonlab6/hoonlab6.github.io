@@ -24,11 +24,8 @@ css:
 
 
 <div class="center"><div style="font-weight: bold; font-size: 40px;">
-About
-</div></div>
-
+About</div></div>
 <br>
-
 <div class="center"><div style="font-weight: bold; font-size: 32px;">
 Heesuk Chung
 </div></div>
