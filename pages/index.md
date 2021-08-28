@@ -73,7 +73,7 @@ img {vertical-align: middle;
   text-align: center;
 }
 .outside{
-  margin: 10px 50px 10px 50px;
+  margin: 10px 80px 10px 80px;
 }
 </style>
 
