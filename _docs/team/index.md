@@ -46,6 +46,19 @@ img {
 .img {
  object-fit: cover;
 }
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the four columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
 </style>
 
 
@@ -78,7 +91,7 @@ Students
 </div>
 
 
-
+<div class="row">
 <div class="card"><div class="img">
   <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" width="100%"></div>
   <div class="container">
@@ -104,7 +117,7 @@ Students
     </a>
     </div>
   </div>
-
+</div>
 
 <p></p>
 
