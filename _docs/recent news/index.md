@@ -104,7 +104,7 @@ title: "Recent News"
   />
 
 <div class= center>
-<h2><i class="far fa-newspaper"></i>Recent News</h2>
+<h2><i class="far fa-newspaper"></i> Recent News</h2>
 </div>
 
 
@@ -119,7 +119,7 @@ title: "Recent News"
 <p>Happy Birthday!!</p>
 <p>Posted on May 29, 2021</p>
 
-<img id="myImg" src="/assets/img/jy_birthday.png" style="width:100%;max-width:300px">
+<img id="myImg" src="/assets/img/hs_birthday.png" style="width:100%;max-width:300px">
 
 
 
