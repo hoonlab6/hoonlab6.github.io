@@ -97,7 +97,7 @@ Students
   <div class="container">
     <h4><b>Heesuk Chung, BS</b></h4> 
     <p>Research Assistant</p> 
-    <p>Extrachromosomal DNA in brain tumor</p>
+    <p>hadgie@g.skku.edu</p>
     <a href="{{ site.url }}/people/hs_chung/" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
@@ -111,7 +111,7 @@ Students
   <div class="container">
     <h4><b>Seunghyun Kang, BS</b></h4> 
     <p>Research Assistant</p> 
-    <p>Extrachromosomal DNA in Gastric Cancer</p>
+    <p>steve941101@gmail.com</p>
     <a href="{{ site.url }}/people/sk_kang" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
@@ -127,7 +127,7 @@ Students
     <div class="container">
      <h4><b>Soyeon Kim, BS</b></h4> 
     <p>Research Assistant</p> 
-    <p>Cancer Genomics</p>
+    <p>sok006@ucsd.edu</p>
     <a href="{{ site.url }}/people/sy_kim" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
@@ -143,7 +143,7 @@ Students
     <div class="container">
          <h4><b>Daeho Joe, BS</b></h4> 
     <p>Research Assistant</p> 
-    <p>Stem cell research, Bioinformatics</p>
+    <p>daeho1027@g.skku.edu</p>
      <a href="{{ site.url }}/people/dh_joe" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
@@ -157,7 +157,7 @@ Students
     <div class="container">
          <h4><b>Hyunjeong Sun, BS</b></h4> 
     <p>Research Assistant</p> 
-    <p>Regulatory Science, cancer genomic, bioinformatics</p>
+    <p>~</p>
      <a href="{{ site.url }}/people/hj_sun" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
@@ -176,7 +176,7 @@ Interns
     <div class="container">
          <h4><b>Junyong Ko</b></h4> 
     <p>Junior, SKKU</p> 
-    <p>TBD</p>
+    <p>junyongi1@g.skku.edu</p>
      <a href="{{ site.url }}/people/jy_ko" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
@@ -190,7 +190,7 @@ Interns
     <div class="container">
          <h4><b>Yoonjoo Nam</b></h4> 
     <p>Senior,HanBat University</p>
-    <p>TBD</p>
+    <p>nyj990613@gmail.com</p>
      <a href="{{ site.url }}/people/yj_nam" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
    </a>
@@ -204,7 +204,7 @@ Interns
      <div class="container">
           <h4><b>Eunchae Yeo</b></h4> 
      <p>BS, Korea University</p>
-        <p>Biomedical Engineering, Programmimg, Cancer targeting, Drug discovery</p>
+        <p>ecyeo93@gmail.com</p>
          <a href="{{ site.url }}/people/ec_yeo" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
    </a>
@@ -218,7 +218,7 @@ Interns
     <div class="container">
            <h4><b>Jiwon Shon</b></h4> 
         <p>BS, Ghent University, Global Campus</p>
-        <p>Immunology, Bioinformatics, Cancer genomics</p>
+        <p>~</p>
          <a href="{{ site.url }}/people/jw_shon" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
    </a>
