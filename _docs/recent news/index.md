@@ -107,7 +107,7 @@ title: "Recent News"
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
-<br>
+<p></p>
 
 <h2>We celebrated Junyong's Birthday in our lab!!</h2>
 <p>Happy birthday Junyong!! he is our 1st undergraduate intern!!
