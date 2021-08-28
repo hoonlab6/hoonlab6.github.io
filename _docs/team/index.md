@@ -85,8 +85,8 @@ Students
   <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" width="100%"></div>
   <div class="container">
     <h4><b>Heesuk Chung, BS</b></h4> 
-    <p>Research Assistant</p> 
-    <p>hadgie@g.skku.edu</p>
+    <p>Research Assistant
+       hadgie@g.skku.edu</p>
     <a href="{{ site.url }}/people/hs_chung/" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
@@ -115,8 +115,8 @@ Students
     <img src="{{ site.url }}/assets/img/people/sy_kim.jpg" alt="Soyeon Kim" width="100%"></div>
     <div class="container">
      <h4><b>Soyeon Kim, BS</b></h4> 
-    <p>Research Assistant</p> 
-    <p>sok006@ucsd.edu</p>
+    <p>Research Assistant
+       sok006@ucsd.edu</p>
     <a href="{{ site.url }}/people/sy_kim" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
@@ -131,8 +131,8 @@ Students
     <img src="{{ site.url }}/assets/img/people/dh_joe.png" alt="Daeho Joe" width="100%"></div>
     <div class="container">
          <h4><b>Daeho Joe, BS</b></h4> 
-    <p>Research Assistant</p> 
-    <p>daeho1027@g.skku.edu</p>
+    <p>Research Assistant
+       daeho1027@g.skku.edu</p>
      <a href="{{ site.url }}/people/dh_joe" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
@@ -145,8 +145,8 @@ Students
     <img src="{{ site.url }}/assets/img/people/hj_sun.jpeg" alt="Hyun Jeong Sun" width="100%"></div>
     <div class="container">
          <h4><b>Hyunjeong Sun, BS</b></h4> 
-    <p>Research Assistant</p> 
-    <p>~</p>
+    <p>Research Assistant 
+       ~</p>
      <a href="{{ site.url }}/people/hj_sun" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
@@ -164,8 +164,8 @@ Interns
     <img src="{{ site.url }}/assets/img/people/jy_ko.png" alt="Junyong Ko" width="100%"></div>
     <div class="container">
          <h4><b>Junyong Ko</b></h4> 
-    <p>Junior, SKKU</p> 
-    <p>junyongi1@g.skku.edu</p>
+    <p>Junior, SKKU 
+       junyongi1@g.skku.edu</p>
      <a href="{{ site.url }}/people/jy_ko" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
@@ -178,8 +178,8 @@ Interns
     <img src="{{ site.url }}/assets/img/people/yj_nam.jpg" alt="Yoonjoo Nam" width="100%"></div>
     <div class="container">
          <h4><b>Yoonjoo Nam</b></h4> 
-    <p>Senior,HanBat University</p>
-    <p>nyj990613@gmail.com</p>
+    <p>Senior,HanBat University
+       nyj990613@gmail.com</p>
      <a href="{{ site.url }}/people/yj_nam" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
    </a>
@@ -192,8 +192,8 @@ Interns
     <img src="{{ site.url }}/assets/img/people/ec_yeo.png" alt="Eunchae Yeo" width="100%"></div>
      <div class="container">
           <h4><b>Eunchae Yeo</b></h4> 
-     <p>BS, Korea University</p>
-        <p>ecyeo93@gmail.com</p>
+     <p>BS, Korea University
+        ecyeo93@gmail.com</p>
          <a href="{{ site.url }}/people/ec_yeo" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
    </a>
@@ -206,8 +206,8 @@ Interns
     <img src="{{ site.url }}/assets/img/people/jw_shon.png" alt="Jiwon Shon" width="100%"></div>
     <div class="container">
            <h4><b>Jiwon Shon</b></h4> 
-        <p>BS, Ghent University, Global Campus</p>
-        <p>~</p>
+        <p>BS, Ghent University, Global Campus
+           ~</p>
          <a href="{{ site.url }}/people/jw_shon" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
    </a>
@@ -224,8 +224,8 @@ Staffs
     <img src="{{ site.url }}/assets/img/people/ys_kim.png" alt="Yeonsik Kim" width="100%"></div>
     <div class="container">
     <h4><b>Yeonsik Kim</b></h4>
-        <p>Korea Polytechnic University</p>
-        <p>languages(C, Java)</p>
+        <p>Korea Polytechnic University
+           languages(C, Java)</p>
         <a href="{{ site.url }}/people/ys_kim" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
    </a>
@@ -238,8 +238,8 @@ Staffs
     <img src="{{ site.url }}/assets/img/people/yj_moon.png" alt="Youngjin Moon" width="100%"></div>
     <div class="container">
     <h4><b>Youngjin Moon</b></h4>
-        <p>Jeonbuk National University</p>
-        <p>languqges(C, C++)</p>
+        <p>Jeonbuk National University
+           languqges(C, C++)</p>
         <a href="{{ site.url }}/people/yj_moon" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
    </a>
