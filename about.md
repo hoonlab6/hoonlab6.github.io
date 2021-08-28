@@ -50,7 +50,9 @@ Hoon Kim
 <!-- Avoid edit from here... -->
 <div class="row text-center">
 <div class="col"><div class="holder smooth">
+<div class=center>
     <img src="{{ site.url }}/assets/img/people/Profile-184998_Kim_H.jpg" alt="Hoon Kim" />
+</div>
 </div></div>
 </div>
 
