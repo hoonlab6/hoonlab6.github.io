@@ -33,8 +33,7 @@ css:
 <div class="center"><div style="font-weight: bold; font-size: 50px;">
 About
 </div></div>
-<p></p>
-
+<bar>
 <div class="center"><div style="font-weight: bold; font-size: 50px;">
 Hoon Kim
 </div></div>
