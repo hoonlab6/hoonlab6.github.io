@@ -108,7 +108,7 @@ title: "Recent News"
 </div>
 
 
-<h2><a href="{{ site.url }}/_posts/2021-06-24-JY_birthday">We celebrated Junyong's Birthday in our lab!!</a></h2>
+<h2><a href="{{ site.url }}/_posts/2021-06-24-JY_birthday.md">We celebrated Junyong's Birthday in our lab!!</a></h2>
 <p>Happy Birthday!!</p>
 <p>Posted oon June 23, 2021</p>
 
