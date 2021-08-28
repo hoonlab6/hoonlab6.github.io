@@ -29,16 +29,13 @@ css:
 }
 </style>
 
-<link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css"
-  />
-
 
 <div class="center"><div style="font-weight: bold; font-size: 50px;">
 About
 </div></div>
-<i class="fad fa-horizontal-rule"></i>
+<div style="font-weight: bold; font-size: 50px;">
+-
+</div>
 
 <p></p>
 
