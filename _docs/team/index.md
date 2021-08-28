@@ -1,261 +1,168 @@
----
-layout: page
-title:  "Team"
-css:
-  - /assets/css/style.css
----
-
-
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap" rel="stylesheet">
-
 
 <style>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
 body {
-    font-family: 'Noto Sans', sans-serif; font-size: 22px;
+    font-family: "Montserrat";
+    background-color: #b8b6b6;
+    color: #fdfdfd;
 }
-</style>
-
-
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-<style>
 .card {
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  transition: 0.3s;
-  width: 35%;
-  border-radius: 5px;
+    max-width: 250px;
+    margin: 150px auto 0;
+    background-color: #42515a;
+    box-shadow: 0 10px 90px #00000024;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 15px;
 }
-.card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+
+.card .card-header {
+    position: relative;
+    height: 48px;
 }
-img {
-  border-radius: 5px 5px 0 0;
+.card .card-header .profile-img {
+    width: 130px;
+    height: 130px;
+    border-radius: 1000px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 8px solid #c74385;
+    box-shadow: 0 0 20px #00000033;
 }
-.container {
-  padding: 2px 16px;
+
+.card .card-header .profile-img:hover {
+    width: 180px;
+    height: 180px;
+    border: 8px solid #d885af;
 }
-.card button {
-  border: none;
-  outline: 0;
-  padding: 12px;
-  color: white;
-  background-color: #000;
-  text-align: center;
-  cursor: pointer;
-  width: 100%;
-  font-size: 18px;
+.card .card-body {
+    padding: 10px 40px;
 }
-.card button:hover {
-  opacity: 0.7;
+
+.card .card-body .name {
+    margin-top: 30px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #c74385;
 }
-.fill {
-  object-fit: fill;
+
+.card .card-body .name:hover {
+    margin-top: 30px;
+    font-size: 24px;
+    color: #d885af;
 }
-.center{
-  text-align: center;
+
+.card .card-body .mail {
+    font-size: 14px;
+    color: #c2bdbd;
 }
-.img {
-  width: 240px;
-  height: 284px;
-  object-fit: fill; 
+
+.card .card-body .mail:hover {
+    font-size: 16px;
+    color: #ffffff;
+}
+
+.card .card-body .job {
+    margin-top: 10px;
+    font-size: 14px;
+}
+.card .social-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.card .social-links .social-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    width: 40px;
+    background-color: #c74385;
+    color: #ffffff;
+    font-size: 20px;
+    border-radius: 100%;
+    text-decoration: none;
+    margin: 0 13px 30px 0;
+}
+
+.card .social-links .social-icon:last-child {
+    margin-right: 0;
+}
+
+.card .social-links .social-icon:hover {
+    background-color: #d885af;
+    height: 50px;
+    width: 50px;
+    text-decoration: none;
+}
+@media screen and (max-width: 575px) {
+    .card {
+        width: 96%;
+    }
+
+    .card .card-body {
+        padding: 10px 20px;
+    }
 }
 </style>
 
 
-<div class="center">
-<div style="font-weight: bold; font-size: 40px; color: #030303">
-Team Hoon
-</div>
-</div>
-<p></p>
-
-<div style="font-weight: 600; font-size: 30px; color: #030303">
-Principal Investigator
-</div>
+<meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+    <link rel="stylesheet" href="style.css">
+    <title>Awesome Profile Card</title>
 
 <div class="card">
-    <img src="{{ site.url }}/assets/img/people/Profile-184998_Kim_H.jpg" alt="Hoon Kim" />
-    <div class="container">
-        <h4><b>Hoon Kim, PhD</b></h4> 
-        <p>Associate Professor</p>
-        <a href="{{ site.url }}/about" target="_blank" rel="noopener noreferrer">
-    <p><button>Read more</button></p>
-    </a>
-  </div>
-</div>
+        <div class="card-header">
+            <img src="img/profile-image-placeholder.jpg" alt="Profile Image" class="profile-img">
+        </div>
+        <div class="card-body">
+            <p class="name">Yoonjoo Nam</p>
+            <a href="#" class="mail">nyj990613@gmail.com</a>
+            <p class="job">Senior,HanBat University</p>
+            <p>TBD</p>
+        </div>
 
-<p></p>
-
-<div style="font-weight:600; font-size: 30px; color: #030303">
-Students
-</div>
-
-
-
-<div class="card"><div class="img">
-  <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" width="100%"></div>
-  <div class="container">
-    <h4><b>Heesuk Chung, BS</b></h4> 
-    <p>Research Assistant</p> 
-    <p>Extrachromosomal DNA in brain tumor</p>
-    <a href="{{ site.url }}/people/hs_chung/" target="_blank" rel="noopener noreferrer">
-    <p><button>Read more</button></p>
-    </a>
-    </div>
-  </div>
-
-<p></p>
-
-<div class="card"><div class="img">
-  <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seunghyun Kang" width="100%"></div>
-  <div class="container">
-    <h4><b>Seunghyun Kang, BS</b></h4> 
-    <p>Research Assistant</p> 
-    <p>Extrachromosomal DNA in Gastric Cancer</p>
-    <a href="{{ site.url }}/people/sk_kang" target="_blank" rel="noopener noreferrer">
-    <p><button>Read more</button></p>
-    </a>
-    </div>
-  </div>
+<div class="social-links">
+            <a href="#" class="fab fa-github social-icon"></a>
+            <a href="#" class="fab fa-twitter social-icon"></a>
+            <a href="#" class="fab fa-youtube social-icon"></a>
+            <a href="#" class="fab fa-linkedin social-icon"></a>
+        </div>
 
 
-<p></p>
 
 
-<div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/sy_kim.jpg" alt="Soyeon Kim" width="100%"></div>
-    <div class="container">
-     <h4><b>Soyeon Kim, BS</b></h4> 
-    <p>Research Assistant</p> 
-    <p>Cancer Genomics</p>
-    <a href="{{ site.url }}/people/sy_kim" target="_blank" rel="noopener noreferrer">
-    <p><button>Read more</button></p>
-    </a>
-    </div>
-  </div>
 
 
-<p></p>
 
 
-<div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/dh_joe.png" alt="Daeho Joe" width="100%"></div>
-    <div class="container">
-         <h4><b>Daeho Joe, BS</b></h4> 
-    <p>Research Assistant</p> 
-    <p>Stem cell research, Bioinformatics</p>
-     <a href="{{ site.url }}/people/dh_joe" target="_blank" rel="noopener noreferrer">
-    <p><button>Read more</button></p>
-    </a>
-    </div>
-  </div>
-
-<p></p>
-
-<div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/hj_sun.jpeg" alt="Hyun Jeong Sun" width="100%"></div>
-    <div class="container">
-         <h4><b>Hyunjeong Sun, BS</b></h4> 
-    <p>Research Assistant</p> 
-    <p>Regulatory Science, cancer genomic, bioinformatics</p>
-     <a href="{{ site.url }}/people/hj_sun" target="_blank" rel="noopener noreferrer">
-    <p><button>Read more</button></p>
-    </a>
-    </div>
-  </div>
 
 
-<p></p>
 
-<div style="font-weight: 600; font-size: 30px; color: #030303">
-Interns
-</div>
 
-<div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/jy_ko.png" alt="Junyong Ko" width="100%"></div>
-    <div class="container">
-         <h4><b>Junyong Ko</b></h4> 
-    <p>Junior, SKKU</p> 
-    <p>TBD</p>
-     <a href="{{ site.url }}/people/jy_ko" target="_blank" rel="noopener noreferrer">
-    <p><button>Read more</button></p>
-    </a>
-  </div>
-</div>
 
-<p></p>
 
-<div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/yj_nam.jpg" alt="Yoonjoo Nam" width="100%"></div>
-    <div class="container">
-         <h4><b>Yoonjoo Nam</b></h4> 
-    <p>Senior,HanBat University</p>
-    <p>TBD</p>
-     <a href="{{ site.url }}/people/yj_nam" target="_blank" rel="noopener noreferrer">
-   <p><button>Read more</button></p>
-   </a>
-  </div>
-</div>
 
-<p></p>
 
-<div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/ec_yeo.png" alt="Eunchae Yeo" width="100%"></div>
-     <div class="container">
-          <h4><b>Eunchae Yeo</b></h4> 
-     <p>BS, Korea University</p>
-        <p>Biomedical Engineering, Programmimg, Cancer targeting, Drug discovery</p>
-         <a href="{{ site.url }}/people/ec_yeo" target="_blank" rel="noopener noreferrer">
-   <p><button>Read more</button></p>
-   </a>
-  </div>
-</div>
 
-<p></p>
 
-<div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/jw_shon.png" alt="Jiwon Shon" width="100%"></div>
-    <div class="container">
-           <h4><b>Jiwon Shon</b></h4> 
-        <p>BS, Ghent University, Global Campus</p>
-        <p>Immunology, Bioinformatics, Cancer genomics</p>
-         <a href="{{ site.url }}/people/jw_shon" target="_blank" rel="noopener noreferrer">
-   <p><button>Read more</button></p>
-   </a>
-  </div>
-</div>
 
-<p></p>
 
-<div style="font-weight: 600; font-size: 30px; color: #030303">
-Staffs
-</div>
 
-<div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/ys_kim.png" alt="Yeonsik Kim" width="100%"></div>
-    <div class="container">
-    <h4><b>Yeonsik Kim</b></h4>
-        <p>Korea Polytechnic University</p>
-        <p>languages(C, Java)</p>
-        <a href="{{ site.url }}/people/ys_kim" target="_blank" rel="noopener noreferrer">
-   <p><button>Read more</button></p>
-   </a>
-  </div>
-</div>
 
-<p></p>
-
-<div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/yj_moon.png" alt="Youngjin Moon" width="100%"></div>
-    <div class="container">
-    <h4><b>Youngjin Moon</b></h4>
-        <p>Jeonbuk National University</p>
-        <p>languqges(C, C++)</p>
-        <a href="{{ site.url }}/people/yj_moon" target="_blank" rel="noopener noreferrer">
-   <p><button>Read more</button></p>
-   </a>
-  </div>
-</div>
 
 
 
