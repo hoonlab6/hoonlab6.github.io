@@ -91,14 +91,39 @@ title: "Recent News"
     width: 100%;
   }
 }
+.center{
+  text-align: center;
+}
 </style>
 
 
-<h2>We celebrated Junyong's Birthday in our lab!!</h2>
+
+<link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
+  />
+
+<div class= center>
+## **<i class="far fa-newspaper"></i>Recent News**
+</div>
+
+
+<h2><a href="{{ site.url }}/_posts/2021-06-24-JY_birthday">We celebrated Junyong's Birthday in our lab!!</a></h2>
 <p>Happy Birthday!!</p>
-<p>Posted in June 23, 2021</p>
+<p>Posted oon June 23, 2021</p>
 
 <img id="myImg" src="/assets/img/jy_birthday.png" style="width:100%;max-width:300px">
+
+
+<h2>We celebrated Heesuk's BirthDay during KSBMB international Conference!!</h2>
+<p>Happy Birthday!!</p>
+<p>Posted on May 29, 2021</p>
+
+<img id="myImg" src="/assets/img/jy_birthday.png" style="width:100%;max-width:300px">
+
+
+
+
 
 <!-- The Modal -->
 <div id="myModal" class="modal">
