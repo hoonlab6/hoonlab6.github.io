@@ -99,8 +99,8 @@ Students
   <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seunghyun Kang" width="100%"></div>
   <div class="container">
     <h4><b>Seunghyun Kang, BS</b></h4> 
-    <p>Research Assistant</p> 
-    <p>steve941101@gmail.com</p>
+    <p>Research Assistant
+       steve941101@gmail.com</p> 
     <a href="{{ site.url }}/people/sk_kang" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
