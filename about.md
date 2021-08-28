@@ -32,25 +32,20 @@ css:
 
 <div class="center"><div style="font-weight: bold; font-size: 50px;">
 About
-</div><div>
-<bar>
+</div></div>
+<p></p>
+
 <div class="center"><div style="font-weight: bold; font-size: 50px;">
-------
-</div><div>
-<bar>
-<div class=center>
-<div style="font-weight: bold; font-size: 38px;">
 Hoon Kim
 </div></div>
 
 <!-- Avoid edit from here... -->
-<div class="row text-center">
 <div class="col"><div class="holder smooth">
 <div class=center>
     <img src="{{ site.url }}/assets/img/people/Profile-184998_Kim_H.jpg" alt="Hoon Kim" />
 </div>
 </div></div>
-</div>
+
 
 <span class="social-icons text-center" style="padding-bottom: 1px; font-size: 4rem;"><a href="{{ site.work_profile }}" class="social-icons" title="JAX Faculty Profile"><i class="fa fa-id-card cvmeta"></i></a> <a href="{{ site.url }}/files/HoonKim-CV.pdf" class="social-icons" title="Curriculum Vitae"><i class="fa fa-graduation-cap cvmeta"></i></a> <a href="https://twitter.com/{{ site.author.twitter }}" class="social-icons" title="Tweet @wisekh6"><i class="fa fa-twitter cvmeta"></i></a></span>
 <!-- until here! -->
