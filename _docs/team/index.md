@@ -237,7 +237,7 @@ Staffs
     <div class="container">
     <h4><b>Youngjin Moon</b></h4>
         <p>Jeonbuk National University
-           languqges(C, C++)</p>
+           languages(C, C++)</p>
         <a href="{{ site.url }}/people/yj_moon" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
    </a>
