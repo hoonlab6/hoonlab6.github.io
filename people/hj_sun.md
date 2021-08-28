@@ -16,19 +16,30 @@ css:
   - /css/custom_home.css
 ---
 
+<style>
+.center{
+  text-align: center;
+}
+</style>  
 
-<div class="row">
-<div class="col"><div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/hj_sun.jpeg" alt="Hyunjeong Sun"/>
+
+<div class="center"><div style="font-weight: bold; font-size: 40px;">
+About</div></div>
+<div class="center"><div style="font-weight: bold; font-size: 32px;">
+Hyunjeong Sun
 </div></div>
+
+
+<div class="center">
+    <img src="{{ site.url }}/assets/img/people/hj_sun.jpeg" width="480px" height="568px" alt="Hyunjeong Sun"/>
 </div>
 
-### Research Interest
+### **Research Interest**
 Regulatory Science, cancer genomic, bioinformatics
 
-### Education and Experience
+### **Education and Experience**
 
-**Jeonbuk National University **
+**Jeonbuk National University**
 - BS, Biology, 03/2017 ~ 02/2021
 - BS, History Education
 

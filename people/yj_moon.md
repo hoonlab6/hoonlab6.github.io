@@ -16,12 +16,22 @@ css:
   - /css/custom_home.css
 ---
 
+<style>
+.center{
+  text-align: center;
+}
+</style>  
 
 
-<div class="row">
-<div class="col"><div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/yj_moon.png" alt="Youngjin Moon" />
+<div class="center"><div style="font-weight: bold; font-size: 40px;">
+About</div></div>
+<div class="center"><div style="font-weight: bold; font-size: 32px;">
+Younghin Moon
 </div></div>
+
+
+<div class="center">
+    <img src="{{ site.url }}/assets/img/people/yj_moon.png" width="480px" height="568px" alt="Youngjin Moon" />
 </div>
 
 

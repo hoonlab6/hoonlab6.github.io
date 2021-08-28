@@ -16,11 +16,22 @@ css:
   - /css/custom_home.css
 ---
 
+<style>
+.center{
+  text-align: center;
+}
+</style>  
 
 
-<div class="row">
-<div class="col"><div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/ys_kim.png" alt="Yeonsik Kim" />
+<div class="center"><div style="font-weight: bold; font-size: 40px;">
+About</div></div>
+<div class="center"><div style="font-weight: bold; font-size: 32px;">
+Yeonsik Kim
+</div></div>
+
+
+<div class="center">
+    <img src="{{ site.url }}/assets/img/people/ys_kim.png" width="480px" height="568px" alt="Yeonsik Kim" />
 </div></div>
 </div>
 
