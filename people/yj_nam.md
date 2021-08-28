@@ -31,7 +31,7 @@ Yoonjoo Nam
 
 
 <div class="center">
-    <img src="{{ site.url }}/assets/img/people/yj_nam.jpg" width="480px" height="568px" alt="Yoonjoo Nam" />
+    <img src="{{ site.url }}/assets/img/people/yj_nam.png" width="480px" height="568px" alt="Yoonjoo Nam" />
 </div>
 
 

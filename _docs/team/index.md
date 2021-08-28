@@ -46,19 +46,6 @@ img {
 .img {
  object-fit: cover;
 }
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Responsive layout - makes the four columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
-}
 </style>
 
 
@@ -186,7 +173,7 @@ Interns
 <p></p>
 
 <div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/yj_nam.jpg" alt="Yoonjoo Nam" width="100%"></div>
+    <img src="{{ site.url }}/assets/img/people/yj_nam.png" alt="Yoonjoo Nam" width="100%"></div>
     <div class="container">
          <h4><b>Yoonjoo Nam</b></h4> 
     <p>Senior,HanBat University
