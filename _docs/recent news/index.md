@@ -107,11 +107,13 @@ title: "Recent News"
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
-<div style="font-weight:500; font-size: 25px; color: #030303">
+<br>
+
+<div style="font-weight:200; font-size: 25px; color: #030303">
 We celebrated Junyong's Birthday in our lab!!
 </div>
 <p>Happy birthday Junyong!! he is our 1st undergraduate intern!!
-We are so happy that you are one of lab members!! We love you <3.</p>
+   We are so happy that you are one of lab members!! We love you <3.</p>
    <p>Posted on June 23, 2021</p>
 
 <img id="myImg" src="/assets/img/jy_birthday.png" style="width:100%;max-width:300px">
