@@ -55,8 +55,8 @@ img {
   text-align: center;
 }
 .img {
-  width: 945px;
-  height: 814px;
+  width: 120px;
+  height: 142px;
   object-fit: fill; 
 }
 </style>
