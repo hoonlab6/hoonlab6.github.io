@@ -109,7 +109,7 @@ title: "Recent News"
 
 <br>
 
-<div style="font-weight:200; font-size: 25px; color: #030303">
+<div style="font-weight:220; font-size: 28px; color: #030303">
 We celebrated Junyong's Birthday in our lab!!
 </div>
 <p>Happy birthday Junyong!! he is our 1st undergraduate intern!!
@@ -120,7 +120,8 @@ We celebrated Junyong's Birthday in our lab!!
 
 
 <h2>We celebrated Heesuk's BirthDay during KSBMB international Conference!!</h2>
-<p>Happy Birthday!!</p>
+<p>Happy birthday Heesuk!! He is our 1st member of Computational Biomedicine Lab.
+We are so happy that you are one of lab members!! We love you <3.</p>
 <p>Posted on May 29, 2021</p>
 
 <img id="myImg" src="/assets/img/hs_birthday.png" style="width:100%;max-width:300px">
