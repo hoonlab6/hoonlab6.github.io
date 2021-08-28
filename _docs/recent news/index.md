@@ -104,7 +104,7 @@ title: "Recent News"
   />
 
 <div class= center>
-## **<i class="far fa-newspaper"></i>Recent News**
+<h2><i class="far fa-newspaper"></i>Recent News</h2>
 </div>
 
 
