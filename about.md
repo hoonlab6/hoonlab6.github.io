@@ -29,10 +29,16 @@ css:
 }
 </style>
 
+<link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
+  />
+
 
 <div class="center"><div style="font-weight: bold; font-size: 40px;">
 About
 </div>
+<i class="fad fa-horizontal-rule"></i>
 <p></p>
 <div style="font-weight: bold; font-size: 25px;">
 Hoon Kim
