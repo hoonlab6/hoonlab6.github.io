@@ -27,7 +27,7 @@ css:
 About
 </div></div>
 
-<p></p>
+<br>
 
 <div class="center"><div style="font-weight: bold; font-size: 32px;">
 Heesuk Chung
