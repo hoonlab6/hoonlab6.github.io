@@ -32,7 +32,6 @@ Yeonsik Kim
 
 <div class="center">
     <img src="{{ site.url }}/assets/img/people/ys_kim.png" width="480px" height="568px" alt="Yeonsik Kim" />
-</div></div>
 </div>
 
 

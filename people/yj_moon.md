@@ -35,7 +35,7 @@ Younghin Moon
 </div>
 
 
-### Education and Experience
+### **Education and Experience**
 
 **Jeonbuk National University**
 - BS, Electric Engineering &amp; Computer Science Minor, 02/2011 ~ 07/2017
@@ -43,5 +43,5 @@ Younghin Moon
 **Junior Engineer**
 - 11/2017 ~ current
 
-### Experienced in programming
+### **Experienced in programming**
 languages (C, C++) 
