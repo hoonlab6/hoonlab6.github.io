@@ -265,7 +265,7 @@ Staffs
     <div class="container">
     <h4><b>Yeonsik Kim</b></h4>
         <p>Korea Polytechnic University
-           languages(C, Java)</p>
+           languages  (C, Java)</p>
         <a href="{{ site.url }}/people/ys_kim" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
    </a>
