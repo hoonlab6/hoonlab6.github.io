@@ -102,7 +102,7 @@ Team Hoon
 Principal Investigator
 </div>
 
-<div class="card3">
+<div class="card">
     <img src="{{ site.url }}/assets/img/people/Profile-184998_Kim_H.jpg" alt="Hoon Kim" />
     <div class="container3">
         <h4><b>Hoon Kim, PhD</b></h4> 
@@ -182,7 +182,7 @@ Students
 
 <p></p>
 
-<div class="zkem"><div class="img">
+<div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/hj_sun.jpeg" alt="Hyun Jeong Sun" width="100%"></div>
     <div class="container">
          <h4><b>Hyunjeong Sun, BS</b></h4> 
