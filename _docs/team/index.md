@@ -49,8 +49,8 @@ img {
 /* Float four columns side by side */
 .column {
   float: left;
-  width: 100%;
-  padding: 0 0px;
+  width: 50%;
+  padding: 0 10px;
 }
 
 /* Remove extra left and right margins, due to padding */
