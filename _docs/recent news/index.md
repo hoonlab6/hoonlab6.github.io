@@ -139,7 +139,6 @@ title: "Recent News"
   <button class="btn active" onclick="filterSelection('resource')"> Resoucre</button>
 </div>
 
-<p></p>
 
 <div class="row">
 <div class="column lab event">
