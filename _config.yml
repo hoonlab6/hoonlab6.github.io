@@ -34,14 +34,14 @@ url: "https://hoonlab6.github.io" # the base hostname & protocol for your site
 # logo: "assets/img/logo/SRCC-square-red.png"
 logo_width: 20
 logo_pixels: 20
-color: "grey" # primary color for header, buttons
+color: "#87C4D6" # primary color for header, buttons
 
 # Build settings
 markdown: kramdown
 
-accentColor: "CornflowerBlue" # purple, green, etc.
-themeColor: "grey" # purple, green, blue, orange, purple, grey
-fixedNav: 'grey' # true or false
+accentColor: "#87C4D6" # purple, green, etc.
+themeColor: "#87C4D6" # purple, green, blue, orange, purple, grey
+fixedNav: true # true or false
 
 permalink: /:year/:title/
 markdown: kramdown
