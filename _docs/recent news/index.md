@@ -129,7 +129,7 @@ title: "Recent News"
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
-<br>
+<p></p>
 
 <div id="myBtnContainer">
   <button class="btn active" onclick="filterSelection('lab event')"> Lab Event</button>
@@ -149,7 +149,6 @@ title: "Recent News"
    <p>Posted on June 23, 2021</p>
 <img id="myImg" src="/assets/img/jy_birthday.png" style="width:100%;max-width:300px">
 </div>
-
 <div class="column lab event">
 <h2>We celebrated Heesuk's BirthDay during KSBMB international Conference!!</h2>
 <p>Happy birthday Heesuk!! He is our 1st member of Computational Biomedicine Lab.
@@ -157,7 +156,6 @@ We are so happy that you are one of lab members!! We love you <3.</p>
 <p>Posted on May 29, 2021</p>
 <img id="myImg" src="/assets/img/hs_birthday.png" style="width:100%;max-width:300px">
 </div>
-
 <div class="column lab event">
 <h2>We celebrated 1st Teacher's Day in our Lab !!</h2>
 <p>Happy Teacher’s Day, we had 1st teacher’s day celebration with Prof. Kim.</p>
@@ -166,18 +164,19 @@ We are so happy that you are one of lab members!! We love you <3.</p>
 </div>
 </div>
 
+<div class="row">
 <div class="column scholarship">
 <h2>Soyeon was awarded Graduate Scholarship !!!</h2>
 <p>Congratulations, Soyeon, for awarded the “Graduate scholarship student in the second semester of 2021” !!!</p>
 <p>Posted on May 1, 2021</p>
 <img id="myImg" src="/assets/img/soyeon_scholarship.png" style="width:100%;max-width:300px">
 </div>
-
 <div class="column scholarship">
 <h2>Jun-yong was awarded National Scholarship !!!</h2>
 <p>Congratulations, Jun-yong, for awarded the prestigious “National Academic Excellence Scholarship (Science and Engineering)” !!!</p>
 <p>Posted on April 27, 2021</p>
 <img id="myImg" src="/assets/img/202104-junyong_scholarship.png" style="width:100%;max-width:300px">
+</div>
 </div>
 
 <div class=row>
