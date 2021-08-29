@@ -36,10 +36,10 @@ img {
   padding: 2px 16px;
 }
 .container2 {
-  padding: 4px 16px;
+  padding: 6px 16px;
 }
 .container3 {
-  padding: 6px 16px;
+  padding: 10px 16px;
 }
 .card button {
   border: none;
