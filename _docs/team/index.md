@@ -14,7 +14,7 @@ css:
   width: 70%;
   border-radius: 5px;
 }
-.card2 {
+.zkem {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
   width: 35%;
@@ -182,7 +182,7 @@ Students
 
 <p></p>
 
-<div class="card2"><div class="img">
+<div class="zkem"><div class="img">
     <img src="{{ site.url }}/assets/img/people/hj_sun.jpeg" alt="Hyun Jeong Sun" width="100%"></div>
     <div class="container">
          <h4><b>Hyunjeong Sun, BS</b></h4> 
