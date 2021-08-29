@@ -58,17 +58,18 @@ img {
 
 /* Clear floats after the columns */
 .row:after {
+  content: "";
   display: table;
   clear: both;
 }
 
 
 /* Responsive columns */
-@media screen and (max-width: 100px) {
+@media screen and (max-width: 600px) {
   .column {
     width: 100%;
     display: block;
-    margin-bottom:0px;
+    margin-bottom:20px;
   }
 }
 </style>
