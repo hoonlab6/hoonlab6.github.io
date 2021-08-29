@@ -144,7 +144,7 @@ function showSlides() {
 
 <div class="outside">
 <div class="col-sm-12"> <div class="center">
-<h2><i class="fab fa-twitter"> TWITTER </i></h2>
+<h2><i class="fab fa-twitter"></i> TWITTER</h2>
 </div></div>
 
 <div class="row">
