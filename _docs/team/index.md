@@ -46,6 +46,31 @@ img {
 .img {
  object-fit: cover;
 }
+/* Float four columns side by side */
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+}
+
+/* Remove extra left and right margins, due to padding */
+.row {margin: 0 -5px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive columns */
+@media screen and (max-width: 900px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom:0px;
+  }
+}
 </style>
 
 
@@ -79,6 +104,7 @@ Students
 
 
 <div class="row">
+  <div class="column">
 <div class="card"><div class="img">
   <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" width="100%"></div>
   <div class="container">
@@ -89,10 +115,12 @@ Students
     <p><button>Read more</button></p>
     </a>
     </div>
+    </div>
   </div>
 
-<p></p>
 
+
+  <div class="column">
 <div class="card"><div class="img">
   <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seunghyun Kang" width="100%"></div>
   <div class="container">
@@ -102,6 +130,7 @@ Students
     <a href="{{ site.url }}/people/sk_kang" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
+    </div>
     </div>
   </div>
 </div>
