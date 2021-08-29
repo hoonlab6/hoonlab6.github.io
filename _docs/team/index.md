@@ -44,7 +44,7 @@ img {
   text-align: center;
   cursor: pointer;
   width: 100%;
-  font-size: 18px;
+  font-size: 16px;
 }
 .card button:hover {
   opacity: 0.7;
@@ -180,10 +180,9 @@ Students
     <img src="{{ site.url }}/assets/img/people/hj_sun.jpeg" alt="Hyun Jeong Sun" width="100%"></div>
     <div class="container">
          <h4><b>Hyunjeong Sun, BS</b></h4> 
-    <p>Research Assistant 
-       ~</p>
+    <p>Research Assistant </p>
      <a href="{{ site.url }}/people/hj_sun" target="_blank" rel="noopener noreferrer">
-    <p><button>Read more</button></p>
+    <p><button> Read more </button></p>
     </a>
     </div>
   </div>
@@ -213,7 +212,7 @@ Interns
     <img src="{{ site.url }}/assets/img/people/yj_nam.png" alt="Yoonjoo Nam" width="100%"></div>
     <div class="container">
          <h4><b>Yoonjoo Nam</b></h4> 
-    <p>Senior,HanBat University
+    <p>Senior, HanBat University
        nyj990613@gmail.com</p>
      <a href="{{ site.url }}/people/yj_nam" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
@@ -244,8 +243,7 @@ Interns
     <img src="{{ site.url }}/assets/img/people/jw_shon.png" alt="Jiwon Shon" width="100%"></div>
     <div class="container">
            <h4><b>Jiwon Shon</b></h4> 
-        <p>BS, Ghent University, Global Campus
-           ~</p>
+        <p>BS, Ghent University, Global Campus</p>
          <a href="{{ site.url }}/people/jw_shon" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
    </a>
