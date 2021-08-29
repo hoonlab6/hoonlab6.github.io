@@ -43,7 +43,7 @@ img {
   background-color: #000;
   text-align: center;
   cursor: pointer;
-  width: 70%;
+  width: 100%;
   font-size: 18px;
 }
 .card button:hover {
@@ -102,7 +102,7 @@ Principal Investigator
         <h4><b>Hoon Kim, PhD</b></h4> 
         <p>Associate Professor</p>
         <a href="{{ site.url }}/about" target="_blank" rel="noopener noreferrer">
-    <p><button>Read more</button></p>
+    <p><button><div class="center">Read more</button></p></div>
     </a>
   </div>
 </div>
