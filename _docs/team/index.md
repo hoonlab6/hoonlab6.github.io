@@ -96,8 +96,8 @@ Team Hoon
 Principal Investigator
 </div>
 
-<div class="card3">
-    <img src="{{ site.url }}/assets/img/people/Profile-184998_Kim_H.jpg" alt="Hoon Kim" />
+<div class="card3"><div class="img">
+    <img src="{{ site.url }}/assets/img/people/Profile-184998_Kim_H.jpg" alt="Hoon Kim" /></div>
     <div class="container">
         <h4><b>Hoon Kim, PhD</b></h4> 
         <p>Associate Professor</p>
