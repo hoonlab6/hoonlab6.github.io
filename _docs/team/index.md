@@ -35,6 +35,9 @@ img {
 .container {
   padding: 2px 16px;
 }
+.container2 {
+  padding: 4px 16px;
+}
 .container3 {
   padding: 6px 16px;
 }
@@ -181,7 +184,7 @@ Students
 
 <div class="card2"><div class="img">
     <img src="{{ site.url }}/assets/img/people/hj_sun.jpeg" alt="Hyun Jeong Sun" width="100%"></div>
-    <div class="container">
+    <div class="container2">
          <h4><b>Hyunjeong Sun, BS</b></h4> 
     <p>Research Assistant </p>
      <a href="{{ site.url }}/people/hj_sun" target="_blank" rel="noopener noreferrer">
