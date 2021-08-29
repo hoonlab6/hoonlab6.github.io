@@ -62,7 +62,14 @@ img {
   display: table;
   clear: both;
 }
-
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 50%;
+    display: block;
+    margin-bottom:10px;
+  }
+}
 </style>
 
 
@@ -97,8 +104,8 @@ Students
 
 <div class="row">
   <div class="column">
-<div class="card"><div class="img">
-  <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" width="100%"></div>
+<div class="card">
+  <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" width="100%">
   <div class="container">
     <h4><b>Heesuk Chung, BS</b></h4> 
     <p>Research Assistant
@@ -110,8 +117,8 @@ Students
     </div>
   </div>
   <div class="column">
-<div class="card"><div class="img">
-  <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seunghyun Kang" width="100%"></div>
+<div class="card">
+  <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seunghyun Kang" width="100%">
   <div class="container">
     <h4><b>Seunghyun Kang, BS</b></h4> 
     <p>Research Assistant
