@@ -63,15 +63,6 @@ img {
   clear: both;
 }
 
-
-/* Responsive columns */
-@media screen and (max-width: 600px) {
-  .column {
-    width: 50%;
-    display: block;
-    margin-bottom:10px;
-  }
-}
 </style>
 
 
