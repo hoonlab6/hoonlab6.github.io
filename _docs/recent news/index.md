@@ -103,8 +103,9 @@ title: "Recent News"
   cursor: pointer;
 }
 
-.btn:hover {
+.btn.active {
   background-color: #ddd;
+  color: white;
 }
 /* The "show" class is added to the filtered elements */
 .show {
@@ -131,11 +132,11 @@ title: "Recent News"
 <br>
 
 <div id="myBtnContainer">
-  <button class="btn" onclick="filterSelection('lab event')"> Lab Event</button>
-  <button class="btn" onclick="filterSelection('scholarship')"> Scholarship</button>
-  <button class="btn" onclick="filterSelection('grant')"> Grant</button>
-  <button class="btn" onclick="filterSelection('paper')"> Paper</button>
-  <button class="btn" onclick="filterSelection('resource')"> Resoucre</button>
+  <button class="btn active" onclick="filterSelection('lab event')"> Lab Event</button>
+  <button class="btn active" onclick="filterSelection('scholarship')"> Scholarship</button>
+  <button class="btn active" onclick="filterSelection('grant')"> Grant</button>
+  <button class="btn active" onclick="filterSelection('paper')"> Paper</button>
+  <button class="btn active" onclick="filterSelection('resource')"> Resoucre</button>
 </div>
 
 <p></p>
