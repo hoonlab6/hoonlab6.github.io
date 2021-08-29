@@ -49,7 +49,7 @@ img {
 /* Float four columns side by side */
 .column {
   float: left;
-  width: 80%;
+  width: 70%;
   padding: 0 10px;
 }
 
