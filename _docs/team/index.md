@@ -38,7 +38,7 @@ img {
 .card button {
   border: none;
   outline: 0;
-  padding: 12px;
+  padding: 10px;
   color: white;
   background-color: #000;
   text-align: center;
