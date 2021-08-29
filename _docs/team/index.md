@@ -224,6 +224,7 @@ Interns
          <a href="{{ site.url }}/people/ec_yeo" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
    </a>
+   </div>
   </div>
 </div>
   <div class="column">
