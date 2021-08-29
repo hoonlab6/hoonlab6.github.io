@@ -106,14 +106,14 @@ title: "Recent News"
 .btn:hover {
   background-color: #ddd;
 }
-
-.btn.active {
-  background-color: #666;
-  color: white;
-}
 /* The "show" class is added to the filtered elements */
 .show {
   display: block;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 </style>
 
@@ -128,16 +128,19 @@ title: "Recent News"
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
+<br>
+
 <div id="myBtnContainer">
   <button class="btn" onclick="filterSelection('lab event')"> Lab Event</button>
   <button class="btn" onclick="filterSelection('scholarship')"> Scholarship</button>
-  <button class="btn" onclick="filterSelection('paper')"> Paper</button>
   <button class="btn" onclick="filterSelection('grant')"> Grant</button>
+  <button class="btn" onclick="filterSelection('paper')"> Paper</button>
   <button class="btn" onclick="filterSelection('resource')"> Resoucre</button>
 </div>
 
 <p></p>
 
+<div class="row">
 <div class="column lab event">
 <h2>We celebrated Junyong's Birthday in our lab!!</h2>
 <p>Happy birthday Junyong!! he is our 1st undergraduate intern!!
@@ -160,6 +163,7 @@ We are so happy that you are one of lab members!! We love you <3.</p>
 <p>Posted on May 14, 2021</p>
 <img id="myImg" src="/assets/img/cakecut.gif" style="width:100%;max-width:300px">
 </div>
+</div>
 
 <div class="column scholarship">
 <h2>Soyeon was awarded Graduate Scholarship !!!</h2>
@@ -175,7 +179,17 @@ We are so happy that you are one of lab members!! We love you <3.</p>
 <img id="myImg" src="/assets/img/202104-junyong_scholarship.png" style="width:100%;max-width:300px">
 </div>
 
+<div class=row>
+<div class="column grant">
+<h2>NIH/NCI R21 grant application score was posted (top 3 %) !!!</h2>
+<p>Hoon’s NIH/NCI R21 grant application about extrachromosomal DNA received the top 3 % with impact score 24. It is the most likely to be within the funding line !!!</p>
+<p>Posted on March 3, 2021</p>
+<img id="myImg" src="/assets/img/papers/nih-grants-logo.png" style="width:100%;max-width:300px">
+</div>
+</div>
 
+
+<div class=row>
 <div class="column paper">
 <h2>Extrachromosomal DNA functions as mobile enhancers !!!</h2>
 <p>Congratulations, Yanfen & Amit !!!
@@ -185,13 +199,6 @@ Zhu et al. report the chromatin connectivity networks of circular and extrachrom
 <img id="myImg" src="/assets/img/papers/2021-04-10-Yanfen_ecdnaecDNA.jpeg" style="width:100%;max-width:300px">
 </div>
 
-
-<div class="column grant">
-<h2>NIH/NCI R21 grant application score was posted (top 3 %) !!!</h2>
-<p>Hoon’s NIH/NCI R21 grant application about extrachromosomal DNA received the top 3 % with impact score 24. It is the most likely to be within the funding line !!!</p>
-<p>Posted on March 3, 2021</p>
-<img id="myImg" src="/assets/img/papers/nih-grants-logo.png" style="width:100%;max-width:300px">
-</div>
 
 <div class="column paper">
 <h2>Pan-Cancer analysis of extrachromosomal DNA amplification</h2>
@@ -246,7 +253,7 @@ Samirkumar B. Amin, Kevin J. Anderson, C. Elizabeth Boudreau, Emmanuel Martinez-
 <p>Posted on November 20, 2019</p>
 <img id="myImg" src="/assets/img/papers/glass-nature2019.png" style="width:100%;max-width:300px">
 </div>
-
+</div>
 
 
 
