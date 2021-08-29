@@ -36,7 +36,7 @@ img {
   padding: 2px 16px;
 }
 .container3 {
-  padding: 5px 16px;
+  padding: 6px 16px;
 }
 .card button {
   border: none;
