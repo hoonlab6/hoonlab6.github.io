@@ -23,7 +23,7 @@ css:
 .card3 {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
-  width: 45%;
+  width: 40%;
   border-radius: 5px;
 }
 .card:hover {
@@ -44,7 +44,7 @@ img {
   text-align: center;
   cursor: pointer;
   width: 100%;
-  font-size: 16px;
+  font-size: 18px;
 }
 .card button:hover {
   opacity: 0.7;
@@ -96,8 +96,8 @@ Team Hoon
 Principal Investigator
 </div>
 
-<div class="card3"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/Profile-184998_Kim_H.jpg" alt="Hoon Kim" /></div>
+<div class="card3">
+    <img src="{{ site.url }}/assets/img/people/Profile-184998_Kim_H.jpg" alt="Hoon Kim" />
     <div class="container">
         <h4><b>Hoon Kim, PhD</b></h4> 
         <p>Associate Professor</p>
