@@ -67,9 +67,9 @@ img {
 /* Responsive columns */
 @media screen and (max-width: 600px) {
   .column {
-    width: 100%;
+    width: 50%;
     display: block;
-    margin-bottom:20px;
+    margin-bottom:10px;
   }
 }
 </style>
