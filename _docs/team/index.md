@@ -133,7 +133,8 @@ Students
 
 <p></p>
 
-
+<div class="row">
+  <div class="column">
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/sy_kim.jpg" alt="Soyeon Kim" width="100%"></div>
     <div class="container">
@@ -144,12 +145,9 @@ Students
     <p><button>Read more</button></p>
     </a>
     </div>
+    </div>
   </div>
-
-
-<p></p>
-
-
+  <div class="column">
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/dh_joe.png" alt="Daeho Joe" width="100%"></div>
     <div class="container">
@@ -159,6 +157,8 @@ Students
      <a href="{{ site.url }}/people/dh_joe" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
+    </div>
+    </div>
     </div>
   </div>
 
@@ -182,7 +182,8 @@ Students
 <div style="font-weight: 600; font-size: 30px; color: #030303">
 Interns
 </div>
-
+<div class="row">
+  <div class="column">
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/jy_ko.png" alt="Junyong Ko" width="100%"></div>
     <div class="container">
@@ -192,11 +193,10 @@ Interns
      <a href="{{ site.url }}/people/jy_ko" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
+    </div>
   </div>
 </div>
-
-<p></p>
-
+  <div class="column">
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/yj_nam.png" alt="Yoonjoo Nam" width="100%"></div>
     <div class="container">
@@ -206,11 +206,15 @@ Interns
      <a href="{{ site.url }}/people/yj_nam" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
    </a>
+   </div>
+   </div>
   </div>
 </div>
 
 <p></p>
 
+<div class="row">
+  <div class="column">
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/ec_yeo.png" alt="Eunchae Yeo" width="100%"></div>
      <div class="container">
@@ -222,9 +226,7 @@ Interns
    </a>
   </div>
 </div>
-
-<p></p>
-
+  <div class="column">
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/jw_shon.png" alt="Jiwon Shon" width="100%"></div>
     <div class="container">
@@ -234,6 +236,8 @@ Interns
          <a href="{{ site.url }}/people/jw_shon" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
    </a>
+   </div>
+   </div>
   </div>
 </div>
 
@@ -243,6 +247,8 @@ Interns
 Staffs
 </div>
 
+<div class="row">
+  <div class="column">
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/ys_kim.png" alt="Yeonsik Kim" width="100%"></div>
     <div class="container">
@@ -252,11 +258,10 @@ Staffs
         <a href="{{ site.url }}/people/ys_kim" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
    </a>
+   </div>
   </div>
 </div>
-
-<p></p>
-
+  <div class="column">
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/yj_moon.png" alt="Youngjin Moon" width="100%"></div>
     <div class="container">
@@ -266,6 +271,8 @@ Staffs
         <a href="{{ site.url }}/people/yj_moon" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
    </a>
+   </div>
+   </div>
   </div>
 </div>
 
