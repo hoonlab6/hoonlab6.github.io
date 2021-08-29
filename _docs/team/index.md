@@ -49,7 +49,7 @@ img {
 /* Float four columns side by side */
 .column {
   float: left;
-  width: 35%;
+  width: 50%;
   padding: 0 10px;
 }
 
@@ -118,9 +118,6 @@ Students
     </div>
     </div>
   </div>
-
-
-
   <div class="column">
 <div class="card"><div class="img">
   <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seunghyun Kang" width="100%"></div>
