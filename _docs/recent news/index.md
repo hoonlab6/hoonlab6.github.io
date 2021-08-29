@@ -129,7 +129,7 @@ title: "Recent News"
 </div></div>
 
 <div id="myBtnContainer">
-  <button class="btn active" onclick="filterSelection('lab event')"> Lab Event</button>
+  <button class="btn" onclick="filterSelection('lab event')"> Lab Event</button>
   <button class="btn" onclick="filterSelection('scholarship')"> Scholarship</button>
   <button class="btn" onclick="filterSelection('paper')"> Paper</button>
   <button class="btn" onclick="filterSelection('grant')"> Grant</button>

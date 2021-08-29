@@ -49,7 +49,7 @@ img {
 /* Float four columns side by side */
 .column {
   float: left;
-  width: 25%;
+  width: 50%;
   padding: 0 10px;
 }
 
@@ -64,7 +64,7 @@ img {
 }
 
 /* Responsive columns */
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1000px) {
   .column {
     width: 100%;
     display: block;
