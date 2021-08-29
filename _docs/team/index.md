@@ -186,7 +186,8 @@ Students
     <img src="{{ site.url }}/assets/img/people/hj_sun.jpeg" alt="Hyun Jeong Sun" width="100%"></div>
     <div class="container">
          <h4><b>Hyunjeong Sun, BS</b></h4> 
-    <p>Research Assistant </p>
+    <p>Research Assistant 
+       daeho1027@g.skku.edu</p>
      <a href="{{ site.url }}/people/hj_sun" target="_blank" rel="noopener noreferrer">
     <p><button> Read more </button></p>
     </a>
