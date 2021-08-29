@@ -35,6 +35,9 @@ img {
 .container {
   padding: 2px 16px;
 }
+.container3 {
+  padding: 5px 16px;
+}
 .card button {
   border: none;
   outline: 0;
@@ -98,7 +101,7 @@ Principal Investigator
 
 <div class="card3">
     <img src="{{ site.url }}/assets/img/people/Profile-184998_Kim_H.jpg" alt="Hoon Kim" />
-    <div class="container">
+    <div class="container3">
         <h4><b>Hoon Kim, PhD</b></h4> 
         <p>Associate Professor</p>
         <a href="{{ site.url }}/about" target="_blank" rel="noopener noreferrer">
