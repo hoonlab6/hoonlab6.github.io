@@ -14,6 +14,12 @@ css:
   width: 80%;
   border-radius: 5px;
 }
+.card_2 {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 50%;
+  border-radius: 5px;
+}
 .card:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
@@ -84,7 +90,7 @@ Team Hoon
 Principal Investigator
 </div>
 
-<div class="card">
+<div class="card_2">
     <img src="{{ site.url }}/assets/img/people/Profile-184998_Kim_H.jpg" alt="Hoon Kim" />
     <div class="container">
         <h4><b>Hoon Kim, PhD</b></h4> 
@@ -164,7 +170,7 @@ Students
 
 <p></p>
 
-<div class="card"><div class="img">
+<div class="card_2"><div class="img">
     <img src="{{ site.url }}/assets/img/people/hj_sun.jpeg" alt="Hyun Jeong Sun" width="100%"></div>
     <div class="container">
          <h4><b>Hyunjeong Sun, BS</b></h4> 
