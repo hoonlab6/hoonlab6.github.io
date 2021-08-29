@@ -94,6 +94,27 @@ title: "Recent News"
 .center{
   text-align: center;
 }
+/* Style the buttons */
+.btn {
+  border: none;
+  outline: none;
+  padding: 12px 16px;
+  background-color: white;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #ddd;
+}
+
+.btn.active {
+  background-color: #666;
+  color: white;
+}
+/* The "show" class is added to the filtered elements */
+.show {
+  display: block;
+}
 </style>
 
 
@@ -107,55 +128,82 @@ title: "Recent News"
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
+<div id="myBtnContainer">
+  <button class="btn active" onclick="filterSelection('lab event')"> Lab Event</button>
+  <button class="btn" onclick="filterSelection('scholarship')"> Scholarship</button>
+  <button class="btn" onclick="filterSelection('paper')"> Paper</button>
+  <button class="btn" onclick="filterSelection('grant')"> Grant</button>
+  <button class="btn" onclick="filterSelection('resource')"> Resoucre</button>
+</div>
+
 <p></p>
 
+<div class="column lab event">
 <h2>We celebrated Junyong's Birthday in our lab!!</h2>
 <p>Happy birthday Junyong!! he is our 1st undergraduate intern!!
    We are so happy that you are one of lab members!! We love you <3.</p>
    <p>Posted on June 23, 2021</p>
 <img id="myImg" src="/assets/img/jy_birthday.png" style="width:100%;max-width:300px">
+</div>
 
-
+<div class="column lab event">
 <h2>We celebrated Heesuk's BirthDay during KSBMB international Conference!!</h2>
 <p>Happy birthday Heesuk!! He is our 1st member of Computational Biomedicine Lab.
 We are so happy that you are one of lab members!! We love you <3.</p>
 <p>Posted on May 29, 2021</p>
 <img id="myImg" src="/assets/img/hs_birthday.png" style="width:100%;max-width:300px">
+</div>
 
+<div class="column lab event">
 <h2>We celebrated 1st Teacher's Day in our Lab !!</h2>
 <p>Happy Teacher’s Day, we had 1st teacher’s day celebration with Prof. Kim.</p>
 <p>Posted on May 14, 2021</p>
 <img id="myImg" src="/assets/img/cakecut.gif" style="width:100%;max-width:300px">
+</div>
 
+<div class="column scholarship">
 <h2>Soyeon was awarded Graduate Scholarship !!!</h2>
 <p>Congratulations, Soyeon, for awarded the “Graduate scholarship student in the second semester of 2021” !!!</p>
 <p>Posted on May 1, 2021</p>
 <img id="myImg" src="/assets/img/soyeon_scholarship.png" style="width:100%;max-width:300px">
+</div>
 
+<div class="column scholarship">
 <h2>Jun-yong was awarded National Scholarship !!!</h2>
 <p>Congratulations, Jun-yong, for awarded the prestigious “National Academic Excellence Scholarship (Science and Engineering)” !!!</p>
 <p>Posted on April 27, 2021</p>
 <img id="myImg" src="/assets/img/202104-junyong_scholarship.png" style="width:100%;max-width:300px">
+</div>
 
+
+<div class="column paper">
 <h2>Extrachromosomal DNA functions as mobile enhancers !!!</h2>
 <p>Congratulations, Yanfen & Amit !!!
 
 Zhu et al. report the chromatin connectivity networks of circular and extrachromosomal DNA elements (ecDNA) in cancer, revealing that ecDNAs can function as mobile super-enhancers, which drives genome-wide transcriptional amplification, including that of oncogenes. These findings support an expanded role for ecDNA in trans-regulating chromosomal genes in promoting tumor growth.</p>
 <p>Posted on April 8, 2021</p>
 <img id="myImg" src="/assets/img/papers/2021-04-10-Yanfen_ecdnaecDNA.jpeg" style="width:100%;max-width:300px">
+</div>
 
+
+<div class="column grant">
 <h2>NIH/NCI R21 grant application score was posted (top 3 %) !!!</h2>
 <p>Hoon’s NIH/NCI R21 grant application about extrachromosomal DNA received the top 3 % with impact score 24. It is the most likely to be within the funding line !!!</p>
 <p>Posted on March 3, 2021</p>
 <img id="myImg" src="/assets/img/papers/nih-grants-logo.png" style="width:100%;max-width:300px">
+</div>
 
+<div class="column paper">
 <h2>Pan-Cancer analysis of extrachromosomal DNA amplification</h2>
 <p>Follow up to [our previous work]({{site.url}}/archive/2018-04-ecdna_gbm/) on extra-chrmosomal DNA (ecDNA) amplifications in glioblastoma, [Hoon Kim]({{site.url}}/people/h_kim/) led the pan-cancer analysis of ecDNA amplifications in 3,212 tumor and 1,810 normal samples across 29 cancer types. Read more about our work at [*Nature Genetics*](https://pubmed.ncbi.nlm.nih.gov/32807987/) and in [the press release](https://www.jax.org/news-and-insights/2020/august/extra-chromosomal-dna-and-cancer).<!--more-->
 
 Kim, H., Nguyen, N. P., Turner, K., Wu, S., Gujar, A. D., Luebeck, J., Liu, J., Deshpande, V., Rajkumar, U., Namburi, S., Amin, S. B., Yi, E., Menghi, F., Schulte, J. H., Henssen, A. G., Chang, H. Y., Beck, C. R., Mischel, P. S., Bafna, V., & Verhaak, R. Extrachromosomal DNA is associated with oncogene amplification and poor outcome across multiple cancers. *Nature Genetics* 08/2020. [https://pubmed.ncbi.nlm.nih.gov/32807987/](https://pubmed.ncbi.nlm.nih.gov/32807987/)</p>
 <p>Posted on August 20, 2020</p>
 <img id="myImg" src="/assets/img/pancan_aa_freq.png" style="width:100%;max-width:300px">
+</div>
 
+
+<div class="column paper">
 <h2>Learning from spontaneous gliomas in companion dogs</h2>
 <p>
 
@@ -182,7 +230,9 @@ Samirkumar B. Amin, Kevin J. Anderson, C. Elizabeth Boudreau, Emmanuel Martinez-
 *Cancer Cell* 2020;37:243–57.e7. doi: [10.1016/j.ccell.2020.01.004](https://doi.org/10.1016/j.ccell.2020.01.004).</p>
 <p>Posted on February 10, 2020</p>
 <img id="myImg" src="/assets/img/papers/canine.jpg" style="width:100%;max-width:300px">
+</div>
 
+<div class="column paper">
 <h2>Glioma evolution over time characterized</h2>
 <p>Floris Barthel, Kevin Johnson are the lead authors on a new study on longitudinal analysis of glioma in adult patients, with contributions from many lab members. This is a first seminal study that leverages the [GLASS Data Resource](https://www.glass-consortium.org/data-resource/) and the first publication in collaboration with the GLASS Consortium. We identified multiple types of evolution and/or treatment associated changes in the glioma genome over time. This seminal work was published in [*Nature*](https://www.nature.com/articles/s41586-019-1775-1).</p><!--more-->
 
@@ -195,7 +245,7 @@ Samirkumar B. Amin, Kevin J. Anderson, C. Elizabeth Boudreau, Emmanuel Martinez-
 *Nature*. 2019 Dec;576(7785):112-120. doi: [10.1038/s41586-019-1775-1](https://doi.org/10.1038/s41586-019-1775-1).</p>
 <p>Posted on November 20, 2019</p>
 <img id="myImg" src="/assets/img/papers/glass-nature2019.png" style="width:100%;max-width:300px">
-
+</div>
 
 
 
@@ -224,7 +274,6 @@ img.onclick = function(){
 
 // Get the <span> element that closes the modal
 var span = document.getElementsByClassName("close")[0];
-
 // When the user clicks on <span> (x), close the modal
 span.onclick = function() { 
   modal.style.display = "none";
@@ -232,3 +281,50 @@ span.onclick = function() {
 </script>
 
 
+
+// Added thing
+<script>
+filterSelection("all")
+function filterSelection(c) {
+  var x, i;
+  x = document.getElementsByClassName("column");
+  if (c == "all") c = "";
+  for (i = 0; i < x.length; i++) {
+    w3RemoveClass(x[i], "show");
+    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
+  }
+}
+
+function w3AddClass(element, name) {
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    if (arr1.indexOf(arr2[i]) == -1) {element.className += " " + arr2[i];}
+  }
+}
+
+function w3RemoveClass(element, name) {
+  var i, arr1, arr2;
+  arr1 = element.className.split(" ");
+  arr2 = name.split(" ");
+  for (i = 0; i < arr2.length; i++) {
+    while (arr1.indexOf(arr2[i]) > -1) {
+      arr1.splice(arr1.indexOf(arr2[i]), 1);     
+    }
+  }
+  element.className = arr1.join(" ");
+}
+
+
+// Add active class to the current button (highlight it)
+var btnContainer = document.getElementById("myBtnContainer");
+var btns = btnContainer.getElementsByClassName("btn");
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function(){
+    var current = document.getElementsByClassName("active");
+    current[0].className = current[0].className.replace(" active", "");
+    this.className += " active";
+  });
+}
+</script>
