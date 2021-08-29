@@ -43,7 +43,7 @@ img {
   background-color: #000;
   text-align: center;
   cursor: pointer;
-  width: 100%;
+  width: 70%;
   font-size: 18px;
 }
 .card button:hover {
