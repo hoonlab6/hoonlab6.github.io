@@ -50,11 +50,11 @@ img {
 .column {
   float: left;
   width: 100%;
-  padding: 0 10px;
+  padding: 0 0px;
 }
 
 /* Remove extra left and right margins, due to padding */
-
+.row {margin: 0 0px;}
 
 /* Clear floats after the columns */
 .row:after {
