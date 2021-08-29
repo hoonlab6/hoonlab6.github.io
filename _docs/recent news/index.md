@@ -157,21 +157,45 @@ Kim, H., Nguyen, N. P., Turner, K., Wu, S., Gujar, A. D., Luebeck, J., Liu, J., 
 <img id="myImg" src="/assets/img/pancan_aa_freq.png" style="width:100%;max-width:300px">
 
 <h2>Learning from spontaneous gliomas in companion dogs</h2>
-<p>Our paper focusing on comparative oncology of cross-species gliomas is out today in *Cancer Cell*. Dogs get spontaneous tumors similar to humans in an immuno-competent environment. <!--more--> We sought to trace molecular life history of gliomas across two species, i.e., to identify common set of somatic alterations and underlying evolutionary conserved mutational processes. We also queried age-related impact on development of glioma in canines vs. human pediatric and adult patients of glioma to show if canine gliomas resemble more of human pediatric or adult gliomas.
+<p>
+
+Our paper focusing on comparative oncology of cross-species gliomas is out today in **Cancer Cell**. Dogs get spontaneous tumors similar to humans in an immuno-competent environment. <!--more--> We sought to trace molecular life history of gliomas across two species, i.e., to identify common set of somatic alterations and underlying evolutionary conserved mutational processes. We also queried age-related impact on development of glioma in canines vs. human pediatric and adult patients of glioma to show if canine gliomas resemble more of human pediatric or adult gliomas.</p>
+
+<p>
 
 We performed genomic, epigenomic, and transcriptomic characterization of sporadic glioma in dogs (n=83), and compared those to available genomic profiling of patients of human pediatric and adult gliomas. Canine gliomas were marked by **significantly lower somatic mutation burden** than human adult gliomas but similar to human pediatric gliomas. Despite lower somatic mutation burden, gliomas across canine and human pediatric and adult patients were marked by presence of recurrent, hot-spot, somatic mutations in known glioma drivers like PDGFRA, PIK3CA, and IDH1, suggesting **convergent evolution of cross-species gliomas**. Overall, gliomas in dogs, despite their prevalence in adult dogs, **resembled human pediatric gliomas by mutational burden and DNA methylation**.
+</p>
 
-Comparative oncology of spontaneous cancer in companion dogs can yield not only insights into evolutionary origins of cancer but also provide strong rationale to conduct parallel clinical trials in immuno-competent companion dogs for potential benefits to both, humans and their best friend!
+<p>Comparative oncology of spontaneous cancer in companion dogs can yield not only insights into evolutionary origins of cancer but also provide strong rationale to conduct parallel clinical trials in immuno-competent companion dogs for potential benefits to both, humans and their best friend!</p>
 
-For more, please [read our paper here](https://authors.elsevier.com/a/1aYXc_YwcvlkVR)[^1]. We also provide companion website, [https://canineglioma.verhaaklab.com](https://canineglioma.verhaaklab.com), that hosts extended methods and code to generate figures.
+<p>
 
-Samirkumar B. Amin, Kevin J. Anderson, C. Elizabeth Boudreau, Emmanuel Martinez-Ledesma, Emre Kocakavuk, Kevin C. Johnson, Floris P. Barthel, Frederick S. Varn, Cynthia Kassab, Xiaoyang Ling, Hoon Kim, Mary Barter, Ching C. Lau, Chew Yee Ngan, Margaret Chapman, Jennifer W. Koehler, James P. Long, Andrew D. Miller, C. Ryan Miller, Brian F. Porter, Daniel R. Rissi, Christina Mazcko, Amy K. LeBlanc, Peter J. Dickinson, Rebecca A. Packer, Amanda R. Taylor, John H. Rossmeisl Jr, Kevin D. Woolard, Amy B. Heimberger, Jonathan M. Levine, Roel G. W. Verhaak.
+For more, please [read our paper here](https://authors.elsevier.com/a/1aYXc_YwcvlkVR). We also provide companion website, [https://canineglioma.verhaaklab.com](https://canineglioma.verhaaklab.com), that hosts extended methods and code to generate figures.</p>
 
-Comparative Molecular Life History of Spontaneous Canine and Human Gliomas.
+<p>
+Samirkumar B. Amin, Kevin J. Anderson, C. Elizabeth Boudreau, Emmanuel Martinez-Ledesma, Emre Kocakavuk, Kevin C. Johnson, Floris P. Barthel, Frederick S. Varn, Cynthia Kassab, Xiaoyang Ling, Hoon Kim, Mary Barter, Ching C. Lau, Chew Yee Ngan, Margaret Chapman, Jennifer W. Koehler, James P. Long, Andrew D. Miller, C. Ryan Miller, Brian F. Porter, Daniel R. Rissi, Christina Mazcko, Amy K. LeBlanc, Peter J. Dickinson, Rebecca A. Packer, Amanda R. Taylor, John H. Rossmeisl Jr, Kevin D. Woolard, Amy B. Heimberger, Jonathan M. Levine, Roel G. W. Verhaak.</p>
+
+<p>Comparative Molecular Life History of Spontaneous Canine and Human Gliomas.</p>
+
+<p>
 
 *Cancer Cell* 2020;37:243–57.e7. doi: [10.1016/j.ccell.2020.01.004](https://doi.org/10.1016/j.ccell.2020.01.004).</p>
 <p>Posted on February 10, 2020</p>
 <img id="myImg" src="/assets/img/papers/canine.jpg" style="width:100%;max-width:300px">
+
+<h2>Glioma evolution over time characterized</h2>
+<p>Floris Barthel, Kevin Johnson are the lead authors on a new study on longitudinal analysis of glioma in adult patients, with contributions from many lab members. This is a first seminal study that leverages the [GLASS Data Resource](https://www.glass-consortium.org/data-resource/) and the first publication in collaboration with the GLASS Consortium. We identified multiple types of evolution and/or treatment associated changes in the glioma genome over time. This seminal work was published in [*Nature*](https://www.nature.com/articles/s41586-019-1775-1).</p><!--more-->
+
+<p>Barthel FP, Johnson KC, Varn FS, Moskalik AD, Tanner G, Kocakavuk E, Anderson KJ, Abiola O, Aldape K, Alfaro KD, Alpar D, Amin SB, Ashley DM, Bandopadhayay P, Barnholtz-Sloan JS, Beroukhim R, Bock C, Brastianos PK, Brat DJ, Brodbelt AR, Bruns AF, Bulsara KR, Chakrabarty A, Chakravarti A, Chuang JH, Claus EB, Cochran EJ, Connelly J, Costello JF, Finocchiaro G, Fletcher MN, French PJ, Gan HK, Gilbert MR, Gould PV, Grimmer MR, Iavarone A, Ismail A, Jenkinson MD, Khasraw M, Kim H, Kouwenhoven MCM, LaViolette PS, Li M, Lichter P, Ligon KL, Lowman AK, Malta TM, Mazor T, McDonald KL, Molinaro AM, Nam DH, Nayyar N, Ng HK, Ngan CY, Niclou SP, Niers JM, Noushmehr H, Noorbakhsh J, Ormond DR, Park CK, Poisson LM, Rabadan R, Radlwimmer B, Rao G, Reifenberger G, Sa JK, Schuster M, Shaw BL, Short SC, Smitt PAS, Sloan AE, Smits M, Suzuki H, Tabatabai G, Van Meir EG, Watts C, Weller M, Wesseling P, Westerman BA, Widhalm G, Woehrer A, Yung WKA, Zadeh G, Huse JT, De Groot JF, Stead LF, Verhaak RGW; GLASS Consortium.</p>
+
+<p>Longitudinal molecular trajectories of diffuse glioma in adults.</p>
+
+<p>
+
+*Nature*. 2019 Dec;576(7785):112-120. doi: [10.1038/s41586-019-1775-1](https://doi.org/10.1038/s41586-019-1775-1).</p>
+<p>Posted on November 20, 2019</p>
+<img id="myImg" src="/assets/img/papers/glass-nature2019.png" style="width:100%;max-width:300px">
+
 
 
 
