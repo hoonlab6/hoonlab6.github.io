@@ -49,12 +49,12 @@ img {
 /* Float four columns side by side */
 .column {
   float: left;
-  width: 150%;
+  width: 100%;
   padding: 0 10px;
 }
 
 /* Remove extra left and right margins, due to padding */
-.row {margin: 0 -5px;}
+
 
 /* Clear floats after the columns */
 .row:after {
@@ -66,7 +66,7 @@ img {
 /* Responsive columns */
 @media screen and (max-width: 100px) {
   .column {
-    width: 10%;
+    width: 100%;
     display: block;
     margin-bottom:0px;
   }
