@@ -57,6 +57,11 @@ img {
 .row {margin: 0 0px;}
 
 /* Clear floats after the columns */
+.row:after {
+  display: table;
+  clear: both;
+}
+
 
 /* Responsive columns */
 @media screen and (max-width: 100px) {
