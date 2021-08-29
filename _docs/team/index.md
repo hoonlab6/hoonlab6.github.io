@@ -11,13 +11,13 @@ css:
 .card {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
-  width: 35%;
+  width: 80%;
   border-radius: 5px;
 }
 .card_2 {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
-  width: 50%;
+  width: 35%;
   border-radius: 5px;
 }
 .card:hover {
