@@ -104,7 +104,7 @@ title: "Recent News"
 }
 
 .btn.active {
-  background-color: #ddd;
+  background-color: #87C4D6;
   color: white;
 }
 /* The "show" class is added to the filtered elements */
