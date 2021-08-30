@@ -203,7 +203,7 @@ We are so happy that you are one of lab members!! We love you <3.</p>
 <p>Congratulations, Yanfen & Amit !!!
 
 Zhu et al. report the chromatin connectivity networks of circular and extrachromosomal DNA elements (ecDNA) in cancer, revealing that ecDNAs can function as mobile super-enhancers, which drives genome-wide transcriptional amplification, including that of oncogenes. These findings support an expanded role for ecDNA in trans-regulating chromosomal genes in promoting tumor growth.</p>
-<p>Posted on April 8, 2021</p>
+<p><div style="font-style: italic">Posted on April 8, 2021</div></p>
 <img id="myImg" src="/assets/img/papers/2021-04-10-Yanfen_ecdnaecDNA.jpeg" style="width:100%;max-width:300px">
 
 
