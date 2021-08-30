@@ -148,6 +148,19 @@ title: "Recent News"
   cursor: pointer;
   border-radius: 16px;
 }
+.button5 {
+  background-color: #8AED8C;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  font-size: 20px;
+  text-decoration: none;
+  display: inline-block;
+  margin: 2px 1px;
+  cursor: pointer;
+  border-radius: 16px;
+}
 </style>
 
 
@@ -263,7 +276,75 @@ Longitudinal molecular trajectories of diffuse glioma in adults.
 <img id="myImg" src="/assets/img/papers/glass-nature2019.png" style="width:100%;max-width:300px">
 
 
+<h2><button class="button2">Paper</button> Circular ecDNA promotes accessible chromatin and high oncogene expression</h2>
 
+deCarvalho AC, Kim H, Poisson LM, Winn ME, Mueller C, Cherba D, et al. Discordant inheritance of chromosomal and extrachromosomal DNA elements contributes to dynamic disease evolution in glioblastoma. Nat Genet 2018. PMID: [29686388](https://www.ncbi.nlm.nih.gov/pubmed/29686388)
+
+<p><div style="font-style: italic">Posted on November 20, 2019</div></p>
+<img id="myImg" src="/assets/img/papers/wu-ecdna-2019.png" style="width:100%;max-width:300px">
+
+
+<h2><button class="button5">Resource</button> GLASS Data Resource released</h2>
+
+The mission of the Glioma Longitudinal Analysis (GLASS) Consortium is to create a longitudinal molecular reference data set that can be used to characterize and understand the processes that drive glioma evolution and therapy resistance. Towards that goal, the first GLASS Data Resource was released today, consisting of multiple time-point exome and/or whole genome sequencing profiles from 257 glioma patients.
+
+Patient data and matching clinical annotations were provided by many labs across the world; data pre-processing was all done by the Verhaak laboratory. For more information, see [www.glass-consortium.org](https://www.glass-consortium.org/).
+
+
+<p><div style="font-style: italic">Posted on November 18, 2019</div></p>
+<img id="myImg" src="/assets/img/papers/glass_logo.png" style="width:100%;max-width:300px">
+
+
+<h2><button class="button2">Paper</button> Announcing Glioma Longitudinal AnalySiS (GLASS) Consortium</h2>
+
+The **G**lioma **L**ongitudinal **A**naly**S**i**S** (GLASS) Consortium announces itself to the world in *Neuro-Oncology*, with Roel as corresponding author.
+
+GLASS Consortium. Glioma Through the Looking GLASS: Molecular Evolution of Diffuse Gliomas and the Glioma Longitudinal AnalySiS Consortium. Neuro Oncol 2018. PMID: [29432615](https://www.ncbi.nlm.nih.gov/pubmed/29432615)
+
+<p><div style="font-style: italic">Posted on June 18, 2018</div></p>
+<img id="myImg" src="/assets/img/papers/glass-neuro-2018.jpg" style="width:100%;max-width:300px">
+
+
+<h2><button class="button2">Paper</button> extrachromosomal DNA amplification in GBM</h2>
+
+A formative publication for the Verhaak lab, our first publication fully focused on extrachromosomal DNA amplification, with co-first author Hoon, proudly published in *Nature Genetics*.
+
+>deCarvalho AC, Kim H, Poisson LM, Winn ME, Mueller C, Cherba D, et al. Discordant inheritance of chromosomal and extrachromosomal DNA elements contributes to dynamic disease evolution in glioblastoma. Nat Genet 2018. PMID: [29686388](https://www.ncbi.nlm.nih.gov/pubmed/29686388)
+
+<p><div style="font-style: italic">Posted on April 23, 2018</div></p>
+<img id="myImg" src="/assets/img/ecdna_glioma_evolution.png" style="width:100%;max-width:300px">
+
+
+<h2><button class="button2">Paper</button> Next chapter of the Expression Subtypes of Glioblastoma</h2>
+
+Qianghu build the next chapter of the "expression subtypes of glioblastoma” saga, building on Roel’s GBM subtypes postdoc paper and appropriately published in *Cancer Cell*.
+
+>Wang Q, Hu B, Hu X, Kim H, Squatrito M, Scarpace L, et al. Tumor Evolution of Glioma-Intrinsic Gene Expression Subtypes Associates with Immunological Changes in the Microenvironment. Cancer Cell 2017;32:42–56.e6. PMID: [28697342](https://www.ncbi.nlm.nih.gov/pubmed/28697342)
+
+<p><div style="font-style: italic">Posted on July 10, 2017</div></p>
+<img id="myImg" src="/assets/img/ecdna_glioma_evolution.png" style="width:100%;max-width:300px">
+
+
+<h2><button class="button2">Paper</button> TCGA Low Grade Glioma Paper</h2>
+
+The TCGA lower grade glioma paper was published in the New England Journal today with critical contributions from our lab. Roel was cited on [NBC news](http://www.nbcnews.com/health/cancer/how-deadly-brain-tumor-only-dna-can-tell-n373326)!
+
+[MD Anderson News Release](http://www.mdanderson.org/newsroom/news-releases/2015/study-redefines-brain-tumor-diagnosis-and-treatment.html)
+
+>TCGA Network. Comprehensive, Integrative Genomic Analysis of Diffuse Lower-Grade Gliomas. *N Engl J Med.* 2015. PMID: [26061751](http://www.ncbi.nlm.nih.gov/pubmed/26061751), [Full text article](http://www.nejm.org/doi/full/10.1056/NEJMoa1402121)
+
+<p><div style="font-style: italic">Posted on June 11, 2015</div></p>
+<img id="myImg" src="/assets/img/papers/nejm-lgg.jpeg" style="width:100%;max-width:300px">
+
+
+<h2><button class="button2">Paper</button> Tumor evolution in glioblastoma</h2>
+
+Hoon and Siyuan are co-first authors of our Genome Research publication on tumor evolution in glioblastoma. Congratulations!
+
+>Kim H, Zheng S, ..., Verhaak RG. Whole-genome and multisector exome sequencing of primary and post-treatment glioblastoma reveals patterns of tumor evolution. *Genome Res.* 2015. PMID: [25650244](http://www.ncbi.nlm.nih.gov/pubmed/25650244) [Full text article](http://genome.cshlp.org/content/early/2015/02/03/gr.180612.114.abstract)
+
+<p><div style="font-style: italic">Posted on February 3, 2015</div></p>
+<img id="myImg" src="/assets/img/papers/GenomeRes-2015-Kim.png" style="width:100%;max-width:300px">
 
 
 
