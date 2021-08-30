@@ -135,7 +135,7 @@ Students
     </div>
   </div>
   <div class="column">
-<div class="card2">
+<div class="card">
   <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seunghyun Kang" width="100%">
   <div class="container">
     <h4><b>Seunghyun Kang, BS</b></h4> 
@@ -182,7 +182,7 @@ Students
 
 <p></p>
 
-<div class="card"><div class="img">
+<div class="card2"><div class="img">
     <img src="{{ site.url }}/assets/img/people/hj_sun.jpeg" alt="Hyun Jeong Sun" width="100%"></div>
     <div class="container">
          <h4><b>Hyunjeong Sun, BS</b></h4> 
