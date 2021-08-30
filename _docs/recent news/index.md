@@ -148,9 +148,6 @@ title: "Recent News"
   cursor: pointer;
   border-radius: 16px;
 }
-.button:hover {
-  background-color: #f1f1f1;
-}
 </style>
 
 
