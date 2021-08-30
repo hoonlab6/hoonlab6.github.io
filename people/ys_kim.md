@@ -35,7 +35,7 @@ Yeonsik Kim
 </div>
 
 
-### Education and Experience
+### **Education and Experience**
 
 **Korea Polytechnic University**
 - BS, Computer Engineering, 02/2008 ~ 02/2016
@@ -43,5 +43,5 @@ Yeonsik Kim
 **Associate Research Engineer**
 - 04/2016 ~ current
 
-### Experienced in programming
+### **xperienced in programming**
 languages (C, Java) 
