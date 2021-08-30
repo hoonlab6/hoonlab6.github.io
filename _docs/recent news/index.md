@@ -258,6 +258,7 @@ Barthel FP, Johnson KC, Varn FS, Moskalik AD, Tanner G, Kocakavuk E, Anderson KJ
 Longitudinal molecular trajectories of diffuse glioma in adults.
 
 *Nature*. 2019 Dec;576(7785):112-120. doi: [10.1038/s41586-019-1775-1](https://doi.org/10.1038/s41586-019-1775-1).
+
 <p><div style="font-style: italic">Posted on November 20, 2019</div></p>
 <img id="myImg" src="/assets/img/papers/glass-nature2019.png" style="width:100%;max-width:300px">
 
