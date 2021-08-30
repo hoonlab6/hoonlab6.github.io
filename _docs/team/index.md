@@ -52,6 +52,7 @@ img {
   width: 100%;
   font-size: 18px;
 }
+
 .card button:hover {
   opacity: 0.7;
 }
@@ -102,7 +103,7 @@ Team Hoon
 Principal Investigator
 </div>
 
-<div class="card">
+<div class="card3">
     <img src="{{ site.url }}/assets/img/people/Profile-184998_Kim_H.jpg" alt="Hoon Kim" />
     <div class="container3">
         <h4><b>Hoon Kim, PhD</b></h4> 
@@ -189,7 +190,7 @@ Students
     <p>Research Assistant 
        daeho1027@g.skku.edu</p>
      <a href="{{ site.url }}/people/hj_sun" target="_blank" rel="noopener noreferrer">
-    <p><button> Read more </button></p>
+    <p><button>Read more</button></p>
     </a>
     </div>
   </div>
