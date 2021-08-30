@@ -104,8 +104,8 @@ title: "Recent News"
   cursor: pointer;
 }
 
-.lab event {background-color: #87C4D6;} /* Blue */
-.lab event:hover {background-color: #87C4D6;}
+.event {background-color: #87C4D6;} /* Blue */
+.event:hover {background-color: #87C4D6;}
 
 .grant {background-color: #AEBF95;} /* Green */
 .grant:hover {background: #AEBF95;}
@@ -133,7 +133,7 @@ title: "Recent News"
 
 
 
-<button class="btn lab evnet">Lab Event</button>
+<button class="btn evnet">Lab Event</button>
 <h2>We celebrated Junyong's Birthday in our lab!!</h2>
 <p>Happy birthday Junyong!! he is our 1st undergraduate intern!!
    We are so happy that you are one of lab members!! We love you <3.</p>
