@@ -127,7 +127,7 @@ title: "Recent News"
 
 
 
-<h2><button class="button">Lab Event</button>We celebrated Junyong's Birthday in our lab!!</h2>
+<h2><button class="button">Lab Event</button> We celebrated Junyong's Birthday in our lab!!</h2>
 <p>Happy birthday Junyong!! he is our 1st undergraduate intern!!
    We are so happy that you are one of lab members!! We love you <3.</p>
    <p>Posted on June 23, 2021</p>
