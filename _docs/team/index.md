@@ -63,6 +63,17 @@ img {
   width: 100%;
   font-size: 18px;
 }
+.card3 button {
+  border: none;
+  outline: 0;
+  padding: 10px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
 .card button:hover {
   opacity: 0.7;
 }
