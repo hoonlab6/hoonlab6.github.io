@@ -76,7 +76,7 @@ img {vertical-align: middle;
 }
 </style>
 
-# Welcome to Hoon Lab
+# **Welcome to Hoon Lab**
 
 ### Our lab is Computational Biomedicine [@hoonbiolab](https://twitter.com/hoonbiolab).
 
