@@ -135,7 +135,7 @@ Students
     </div>
   </div>
   <div class="column">
-<div class="card">
+<div class="card"><div style= width: "40%">
   <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seunghyun Kang" width="100%">
   <div class="container">
     <h4><b>Seunghyun Kang, BS</b></h4> 
@@ -144,6 +144,7 @@ Students
     <a href="{{ site.url }}/people/sk_kang" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
+    </div>
     </div>
     </div>
   </div>
@@ -182,7 +183,7 @@ Students
 
 <p></p>
 
-<div class="card", width="40%"><div class="img">
+<div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/hj_sun.jpeg" alt="Hyun Jeong Sun" width="100%"></div>
     <div class="container">
          <h4><b>Hyunjeong Sun, BS</b></h4> 
