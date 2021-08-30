@@ -26,8 +26,7 @@ Gyeonggi-do, South Korea, 16419
 
 
 <i class="fa fa-phone"></i> +82-031-290-7709
-
-<i class="fa fa-paper-plane"></i> wisekh@skku.edu
+<i class="fa fa-paper-plane"></i> <wisekh@skku.edu>
 
 
 <!-- Open Positions, if any, will populate here -->
