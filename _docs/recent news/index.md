@@ -99,7 +99,7 @@ title: "Recent News"
 .button {
   background-color: #87C4D6;
   border: none;
-  color: black;
+  color: white;
   padding: 5px 10px;
   text-align: center;
   text-decoration: none;
