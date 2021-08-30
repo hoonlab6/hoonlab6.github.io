@@ -233,7 +233,7 @@ Zhu et al. report the chromatin connectivity networks of circular and extrachrom
 
 Follow up to [our previous work]({{site.url}}/archive/2018-04-ecdna_gbm/) on extra-chrmosomal DNA (ecDNA) amplifications in glioblastoma, [Hoon Kim]({{site.url}}/people/h_kim/) led the pan-cancer analysis of ecDNA amplifications in 3,212 tumor and 1,810 normal samples across 29 cancer types. Read more about our work at [*Nature Genetics*](https://pubmed.ncbi.nlm.nih.gov/32807987/) and in [the press release](https://www.jax.org/news-and-insights/2020/august/extra-chromosomal-dna-and-cancer).
 
-Kim, H., Nguyen, N. P., Turner, K., Wu, S., Gujar, A. D., Luebeck, J., Liu, J., Deshpande, V., Rajkumar, U., Namburi, S., Amin, S. B., Yi, E., Menghi, F., Schulte, J. H., Henssen, A. G., Chang, H. Y., Beck, C. R., Mischel, P. S., Bafna, V., & Verhaak, R. Extrachromosomal DNA is associated with oncogene amplification and poor outcome across multiple cancers. *Nature Genetics* 08/2020. [https://pubmed.ncbi.nlm.nih.gov/32807987/](https://pubmed.ncbi.nlm.nih.gov/32807987/)
+>Kim, H., Nguyen, N. P., Turner, K., Wu, S., Gujar, A. D., Luebeck, J., Liu, J., Deshpande, V., Rajkumar, U., Namburi, S., Amin, S. B., Yi, E., Menghi, F., Schulte, J. H., Henssen, A. G., Chang, H. Y., Beck, C. R., Mischel, P. S., Bafna, V., & Verhaak, R. Extrachromosomal DNA is associated with oncogene amplification and poor outcome across multiple cancers. *Nature Genetics* 08/2020. [https://pubmed.ncbi.nlm.nih.gov/32807987/](https://pubmed.ncbi.nlm.nih.gov/32807987/)
 
 <p><div style="font-style: italic">Posted on August 20, 2020</div></p>
 <img id="myImg" src="/assets/img/pancan_aa_freq.png" style="width:100%;max-width:300px">
@@ -253,7 +253,7 @@ Comparative oncology of spontaneous cancer in companion dogs can yield not only 
 
 For more, please [read our paper here](https://authors.elsevier.com/a/1aYXc_YwcvlkVR). We also provide companion website, [https://canineglioma.verhaaklab.com](https://canineglioma.verhaaklab.com), that hosts extended methods and code to generate figures.
 
-Samirkumar B. Amin, Kevin J. Anderson, C. Elizabeth Boudreau, Emmanuel Martinez-Ledesma, Emre Kocakavuk, Kevin C. Johnson, Floris P. Barthel, Frederick S. Varn, Cynthia Kassab, Xiaoyang Ling, Hoon Kim, Mary Barter, Ching C. Lau, Chew Yee Ngan, Margaret Chapman, Jennifer W. Koehler, James P. Long, Andrew D. Miller, C. Ryan Miller, Brian F. Porter, Daniel R. Rissi, Christina Mazcko, Amy K. LeBlanc, Peter J. Dickinson, Rebecca A. Packer, Amanda R. Taylor, John H. Rossmeisl Jr, Kevin D. Woolard, Amy B. Heimberger, Jonathan M. Levine, Roel G. W. Verhaak.
+>Samirkumar B. Amin, Kevin J. Anderson, C. Elizabeth Boudreau, Emmanuel Martinez-Ledesma, Emre Kocakavuk, Kevin C. Johnson, Floris P. Barthel, Frederick S. Varn, Cynthia Kassab, Xiaoyang Ling, Hoon Kim, Mary Barter, Ching C. Lau, Chew Yee Ngan, Margaret Chapman, Jennifer W. Koehler, James P. Long, Andrew D. Miller, C. Ryan Miller, Brian F. Porter, Daniel R. Rissi, Christina Mazcko, Amy K. LeBlanc, Peter J. Dickinson, Rebecca A. Packer, Amanda R. Taylor, John H. Rossmeisl Jr, Kevin D. Woolard, Amy B. Heimberger, Jonathan M. Levine, Roel G. W. Verhaak.
 
 Comparative Molecular Life History of Spontaneous Canine and Human Gliomas.
 
@@ -266,7 +266,7 @@ Comparative Molecular Life History of Spontaneous Canine and Human Gliomas.
 <h2><button class="button2">Paper</button> Glioma evolution over time characterized</h2>
 Floris Barthel, Kevin Johnson are the lead authors on a new study on longitudinal analysis of glioma in adult patients, with contributions from many lab members. This is a first seminal study that leverages the [GLASS Data Resource](https://www.glass-consortium.org/data-resource/) and the first publication in collaboration with the GLASS Consortium. We identified multiple types of evolution and/or treatment associated changes in the glioma genome over time. This seminal work was published in [*Nature*](https://www.nature.com/articles/s41586-019-1775-1).
 
-Barthel FP, Johnson KC, Varn FS, Moskalik AD, Tanner G, Kocakavuk E, Anderson KJ, Abiola O, Aldape K, Alfaro KD, Alpar D, Amin SB, Ashley DM, Bandopadhayay P, Barnholtz-Sloan JS, Beroukhim R, Bock C, Brastianos PK, Brat DJ, Brodbelt AR, Bruns AF, Bulsara KR, Chakrabarty A, Chakravarti A, Chuang JH, Claus EB, Cochran EJ, Connelly J, Costello JF, Finocchiaro G, Fletcher MN, French PJ, Gan HK, Gilbert MR, Gould PV, Grimmer MR, Iavarone A, Ismail A, Jenkinson MD, Khasraw M, Kim H, Kouwenhoven MCM, LaViolette PS, Li M, Lichter P, Ligon KL, Lowman AK, Malta TM, Mazor T, McDonald KL, Molinaro AM, Nam DH, Nayyar N, Ng HK, Ngan CY, Niclou SP, Niers JM, Noushmehr H, Noorbakhsh J, Ormond DR, Park CK, Poisson LM, Rabadan R, Radlwimmer B, Rao G, Reifenberger G, Sa JK, Schuster M, Shaw BL, Short SC, Smitt PAS, Sloan AE, Smits M, Suzuki H, Tabatabai G, Van Meir EG, Watts C, Weller M, Wesseling P, Westerman BA, Widhalm G, Woehrer A, Yung WKA, Zadeh G, Huse JT, De Groot JF, Stead LF, Verhaak RGW; GLASS Consortium.
+>Barthel FP, Johnson KC, Varn FS, Moskalik AD, Tanner G, Kocakavuk E, Anderson KJ, Abiola O, Aldape K, Alfaro KD, Alpar D, Amin SB, Ashley DM, Bandopadhayay P, Barnholtz-Sloan JS, Beroukhim R, Bock C, Brastianos PK, Brat DJ, Brodbelt AR, Bruns AF, Bulsara KR, Chakrabarty A, Chakravarti A, Chuang JH, Claus EB, Cochran EJ, Connelly J, Costello JF, Finocchiaro G, Fletcher MN, French PJ, Gan HK, Gilbert MR, Gould PV, Grimmer MR, Iavarone A, Ismail A, Jenkinson MD, Khasraw M, Kim H, Kouwenhoven MCM, LaViolette PS, Li M, Lichter P, Ligon KL, Lowman AK, Malta TM, Mazor T, McDonald KL, Molinaro AM, Nam DH, Nayyar N, Ng HK, Ngan CY, Niclou SP, Niers JM, Noushmehr H, Noorbakhsh J, Ormond DR, Park CK, Poisson LM, Rabadan R, Radlwimmer B, Rao G, Reifenberger G, Sa JK, Schuster M, Shaw BL, Short SC, Smitt PAS, Sloan AE, Smits M, Suzuki H, Tabatabai G, Van Meir EG, Watts C, Weller M, Wesseling P, Westerman BA, Widhalm G, Woehrer A, Yung WKA, Zadeh G, Huse JT, De Groot JF, Stead LF, Verhaak RGW; GLASS Consortium.
 
 Longitudinal molecular trajectories of diffuse glioma in adults.
 
@@ -278,7 +278,7 @@ Longitudinal molecular trajectories of diffuse glioma in adults.
 
 <h2><button class="button2">Paper</button> Circular ecDNA promotes accessible chromatin and high oncogene expression</h2>
 
-deCarvalho AC, Kim H, Poisson LM, Winn ME, Mueller C, Cherba D, et al. Discordant inheritance of chromosomal and extrachromosomal DNA elements contributes to dynamic disease evolution in glioblastoma. Nat Genet 2018. PMID: [29686388](https://www.ncbi.nlm.nih.gov/pubmed/29686388)
+>deCarvalho AC, Kim H, Poisson LM, Winn ME, Mueller C, Cherba D, et al. Discordant inheritance of chromosomal and extrachromosomal DNA elements contributes to dynamic disease evolution in glioblastoma. Nat Genet 2018. PMID: [29686388](https://www.ncbi.nlm.nih.gov/pubmed/29686388)
 
 <p><div style="font-style: italic">Posted on November 20, 2019</div></p>
 <img id="myImg" src="/assets/img/papers/wu-ecdna-2019.png" style="width:100%;max-width:300px">
