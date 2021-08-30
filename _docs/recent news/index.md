@@ -96,28 +96,22 @@ title: "Recent News"
 }
 
 /*button*/
-.btn {
+.button {
+  background-color: #ddd;
   border: none;
-  color: white;
-  padding: 14px 28px;
-  font-size: 16px;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
   cursor: pointer;
+  border-radius: 16px;
 }
 
-.event {background-color: #87C4D6;} /* Blue */
-.event:hover {background-color: #46a049;}
-
-.grant {background-color: #AEBF95;} /* Green */
-.grant:hover {background: #AEBF95;}
-
-.Resource {background-color: #E8B587;} /* Orange */
-.Resource:hover {background: #E8B587;}
-
-.scholarship {background-color: #E08AED;} /* Purple */ 
-.scholarship:hover {background: #E08AED;}
-
-.paper {background-color: #E3D584; color: black;} /*yellow*/
-.paper:hover {background: #E3D584;} 
+.button:hover {
+  background-color: #f1f1f1;
+}
 </style>
 
 
@@ -133,8 +127,7 @@ title: "Recent News"
 
 
 
-<button class="btn evnet">Lab Event</button>
-<h2>We celebrated Junyong's Birthday in our lab!!</h2>
+<h2><button class="button">Lab Event</button>We celebrated Junyong's Birthday in our lab!!</h2>
 <p>Happy birthday Junyong!! he is our 1st undergraduate intern!!
    We are so happy that you are one of lab members!! We love you <3.</p>
    <p>Posted on June 23, 2021</p>
