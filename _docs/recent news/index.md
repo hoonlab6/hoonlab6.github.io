@@ -212,7 +212,7 @@ Zhu et al. report the chromatin connectivity networks of circular and extrachrom
 
 
 
-<h2><button class="button4">Grant</button> NIH/NCI R21 grant application score was posted (top 3 %) !!!</h2>
+<h2><button class="button4">Grant</button> NIH/NCI R21 grant application score was posted (top 3 %)</h2>
 <p>Hoon’s NIH/NCI R21 grant application about extrachromosomal DNA received the top 3 % with impact score 24. It is the most likely to be within the funding line !!!</p>
 <p>Posted on March 3, 2021</p>
 <img id="myImg" src="/assets/img/papers/nih-grants-logo.png" style="width:100%;max-width:300px">
