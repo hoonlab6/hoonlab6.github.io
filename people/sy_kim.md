@@ -31,7 +31,7 @@ Soyeon Kim
 
 
 <div class="center">
-    <img src="{{ site.url }}/assets/img/people/sy_kim.jpg" width="480px" height="568px" alt="Soyeon Kim" />
+    <img src="{{ site.url }}/assets/img/people/sy_kim.png" width="480px" height="568px" alt="Soyeon Kim" />
 </div>
 
 ### **Research Interest**
