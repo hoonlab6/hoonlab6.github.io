@@ -6,7 +6,7 @@ title: Publications
 
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=foxOEo4AAAAJ&hl=en) and [ORCiD](https://orcid.org/0000-0003-4244-6126).
 
-## Published
+## **Published**
 
 - Johnson K<b>*</b>, Anderson K<b>*</b>, [...], __Hoon Kim__, Estecio MRH, Tang M, Navin N, Maurya R, Ngan CY, Verburg N, Witt Hamer PC, Bulsara K, Samuels ML, Das S, Robson P, Verhaak RG. "Single-cell multimodal glioma analyses reveal epigenetic regulators of cellular plasticity and environmental stress response", Accepted for publication by ___Nature Genetics___, 2021.
 
