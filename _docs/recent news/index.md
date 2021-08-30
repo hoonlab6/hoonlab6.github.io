@@ -169,7 +169,7 @@ title: "Recent News"
 <h2><button class="button">Lab Event</button> We celebrated Junyong's Birthday in our lab!!</h2>
 <p>Happy birthday Junyong!! he is our 1st undergraduate intern!!
    We are so happy that you are one of lab members!! We love you <3.</p>
-   <p><div style="font-style: italic">Posted on June 23, 2021</p>
+   <p><div style="font-style: italic">Posted on June 23, 2021</div></p>
 <img id="myImg" src="/assets/img/jy_birthday.png" style="width:100%;max-width:300px">
 
 
