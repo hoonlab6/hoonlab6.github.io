@@ -231,7 +231,7 @@ Kim, H., Nguyen, N. P., Turner, K., Wu, S., Gujar, A. D., Luebeck, J., Liu, J., 
 <h2><button class="button2">Paper</button> Learning from spontaneous gliomas in companion dogs</h2>
 
 
-Our paper focusing on comparative oncology of cross-species gliomas is out today in **Cancer Cell**. Dogs get spontaneous tumors similar to humans in an immuno-competent environment. <!--more--> We sought to trace molecular life history of gliomas across two species, i.e., to identify common set of somatic alterations and underlying evolutionary conserved mutational processes. We also queried age-related impact on development of glioma in canines vs. human pediatric and adult patients of glioma to show if canine gliomas resemble more of human pediatric or adult gliomas.</p>
+Our paper focusing on comparative oncology of cross-species gliomas is out today in **Cancer Cell**. Dogs get spontaneous tumors similar to humans in an immuno-competent environment. <!--more--> We sought to trace molecular life history of gliomas across two species, i.e., to identify common set of somatic alterations and underlying evolutionary conserved mutational processes. We also queried age-related impact on development of glioma in canines vs. human pediatric and adult patients of glioma to show if canine gliomas resemble more of human pediatric or adult gliomas.
 
 <p>
 
