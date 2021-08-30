@@ -104,7 +104,7 @@ title: "Recent News"
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  margin: 4px 2px;
+  margin: 2px 1px;
   cursor: pointer;
   border-radius: 16px;
 }
