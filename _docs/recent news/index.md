@@ -217,7 +217,9 @@ Zhu et al. report the chromatin connectivity networks of circular and extrachrom
 
 
 <h2><button class="button2">Paper</button> Pan-Cancer analysis of extrachromosomal DNA amplification</h2>
-<p>Follow up to [our previous work]({{site.url}}/archive/2018-04-ecdna_gbm/) on extra-chrmosomal DNA (ecDNA) amplifications in glioblastoma, [Hoon Kim]({{site.url}}/people/h_kim/) led the pan-cancer analysis of ecDNA amplifications in 3,212 tumor and 1,810 normal samples across 29 cancer types. Read more about our work at [*Nature Genetics*](https://pubmed.ncbi.nlm.nih.gov/32807987/) and in [the press release](https://www.jax.org/news-and-insights/2020/august/extra-chromosomal-dna-and-cancer).<!--more-->
+<p>
+
+Follow up to [our previous work]({{site.url}}/archive/2018-04-ecdna_gbm/) on extra-chrmosomal DNA (ecDNA) amplifications in glioblastoma, [Hoon Kim]({{site.url}}/people/h_kim/) led the pan-cancer analysis of ecDNA amplifications in 3,212 tumor and 1,810 normal samples across 29 cancer types. Read more about our work at [*Nature Genetics*](https://pubmed.ncbi.nlm.nih.gov/32807987/) and in [the press release](https://www.jax.org/news-and-insights/2020/august/extra-chromosomal-dna-and-cancer).<!--more-->
 
 Kim, H., Nguyen, N. P., Turner, K., Wu, S., Gujar, A. D., Luebeck, J., Liu, J., Deshpande, V., Rajkumar, U., Namburi, S., Amin, S. B., Yi, E., Menghi, F., Schulte, J. H., Henssen, A. G., Chang, H. Y., Beck, C. R., Mischel, P. S., Bafna, V., & Verhaak, R. Extrachromosomal DNA is associated with oncogene amplification and poor outcome across multiple cancers. *Nature Genetics* 08/2020. [https://pubmed.ncbi.nlm.nih.gov/32807987/](https://pubmed.ncbi.nlm.nih.gov/32807987/)</p>
 <p><div style="font-style: italic">Posted on August 20, 2020</div></p>
