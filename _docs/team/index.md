@@ -14,7 +14,7 @@ css:
   width: 70%;
   border-radius: 5px;
 }
-.zkem {
+.card2 {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
   width: 35%;
@@ -135,7 +135,7 @@ Students
     </div>
   </div>
   <div class="column">
-<div class="card"><div style= width: "40%">
+<div class="card2">
   <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seunghyun Kang" width="100%">
   <div class="container">
     <h4><b>Seunghyun Kang, BS</b></h4> 
@@ -144,7 +144,6 @@ Students
     <a href="{{ site.url }}/people/sk_kang" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
-    </div>
     </div>
     </div>
   </div>
