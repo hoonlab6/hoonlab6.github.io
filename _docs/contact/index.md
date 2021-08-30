@@ -6,7 +6,7 @@ title: "Contact"
 
 <i class="fa fa-twitter"></i> Follow <a href="https://twitter.com/wisekh6" title="Follow @wisekh6" alt="Follow @wisekh6">@wisekh6</a> for lab updates and information related to our research.
 
-## Correspondence
+## **Correspondence**
 
 Hoon Kim, PhD  
 
@@ -22,7 +22,7 @@ Gyeonggi-do, South Korea, 16419
 <i class="fa fa-paper-plane"></i> <wisekh6@gmail.com>  
 <i class="fa fa-twitter"></i> <a href="https://twitter.com/intent/tweet?via={{ site.owner.twitter }}&amp;hashtags=website" target="_blank" title="Tweet Hoon Kim">Tweet Hoon Kim</a>  
 
-## Administrative Support
+## **Administrative Support**
 
 Available soon
 
