@@ -25,7 +25,7 @@ Gyeonggi-do, South Korea, 16419
 ## **Administrative Support**
 
 
-<i class="fa fa-phone"></i> +82-
+<i class="fa fa-phone"></i> +82-031-290-7709
 <i class="fa fa-paper-plane"></i> wisekh@skku.edu
 
 
