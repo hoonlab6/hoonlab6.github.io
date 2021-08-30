@@ -209,7 +209,7 @@ Students
     <div class="container">
          <h4><b>Hyunjeong Sun, BS</b></h4> 
     <p>Research Assistant 
-       daeho1027@g.skku.edu</p>
+       guswjd6522@g.skku.edu</p>
      <a href="{{ site.url }}/people/hj_sun" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
