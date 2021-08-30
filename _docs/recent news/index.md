@@ -73,7 +73,7 @@ title: "Recent News"
   top: 15px;
   right: 35px;
   color: #f1f1f1;
-  font-size: 40px;
+  font-size: 30px;
   font-weight: bold;
   transition: 0.3s;
 }
