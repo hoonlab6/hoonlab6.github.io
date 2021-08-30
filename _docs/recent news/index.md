@@ -133,7 +133,7 @@ title: "Recent News"
 
 
 
-<button class="btn lab evnet"></button>
+<button class="btn lab evnet">Lab Event</button>
 <h2>We celebrated Junyong's Birthday in our lab!!</h2>
 <p>Happy birthday Junyong!! he is our 1st undergraduate intern!!
    We are so happy that you are one of lab members!! We love you <3.</p>
