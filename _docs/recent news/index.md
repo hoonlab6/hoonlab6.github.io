@@ -105,7 +105,7 @@ title: "Recent News"
 }
 
 .event {background-color: #87C4D6;} /* Blue */
-.event:hover {background-color: #87C4D6;}
+.event:hover {background-color: #46a049;}
 
 .grant {background-color: #AEBF95;} /* Green */
 .grant:hover {background: #AEBF95;}
