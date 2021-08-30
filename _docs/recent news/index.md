@@ -102,6 +102,7 @@ title: "Recent News"
   color: white;
   padding: 5px 10px;
   text-align: center;
+  font-size: 10px;
   text-decoration: none;
   display: inline-block;
   margin: 2px 1px;
