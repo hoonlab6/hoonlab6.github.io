@@ -97,7 +97,7 @@ title: "Recent News"
 
 /*button*/
 .button {
-  background-color: #87C4D6;
+  background-color: #EB8886;
   border: none;
   color: white;
   padding: 5px 10px;
@@ -110,7 +110,7 @@ title: "Recent News"
   border-radius: 16px;
 }
 .button2 {
-  background-color: #EB8886;
+  background-color: #E3D584;
   border: none;
   color: white;
   padding: 5px 10px;
