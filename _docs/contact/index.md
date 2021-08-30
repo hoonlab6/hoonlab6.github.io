@@ -24,10 +24,9 @@ Gyeonggi-do, South Korea, 16419
 
 ## **Administrative Support**
 
-Available soon
 
 <i class="fa fa-phone"></i> +82-
-<i class="fa fa-paper-plane"></i> `<first_name>.<last_name>` at skku.kr.edu
+<i class="fa fa-paper-plane"></i> wisekh@skku.edu
 
 
 <!-- Open Positions, if any, will populate here -->
